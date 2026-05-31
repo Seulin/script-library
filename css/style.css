@@ -289,8 +289,8 @@ body {
 }
 
 @media (max-width: 600px) {
-  /* 모바일: 좌우 여백을 줄여 대사가 가로로 더 길게 표시되도록 */
-  .view {
+  /* 모바일: 대본 페이지만 좌우 여백을 줄여 대사가 가로로 더 길게 (목록 페이지는 그대로) */
+  #view-script {
     padding-left: 12px;
     padding-right: 12px;
   }
