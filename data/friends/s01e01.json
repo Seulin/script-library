@@ -2,6 +2,8 @@
   "drama": "Friends",
   "season": 1,
   "episode": 1,
+  "writtenBy": "Marta Kauffman & David Crane",
+  "transcribedBy": "guineapig, Eric Aasen",
   "lines": [
     {
       "type": "scene",
@@ -74,7 +76,7 @@
     {
       "type": "dialogue",
       "speaker": "All",
-      "english": "Oh, yeah. I've had that dream.",
+      "english": "Oh, yeah. Had that dream.",
       "korean": ""
     },
     {
@@ -98,7 +100,7 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "I've never had that dream.",
+      "english": "Never had that dream.",
       "korean": ""
     },
     {
@@ -503,7 +505,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Well, I guess we've established she's staying here with Monica...",
+      "english": "Well, I guess we've established who's staying here with Monica...",
       "korean": ""
     },
     {

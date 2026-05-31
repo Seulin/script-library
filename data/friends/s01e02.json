@@ -2,9 +2,11 @@
   "drama": "Friends",
   "season": 1,
   "episode": 2,
+  "writtenBy": "Marta Kauffman & David Crane",
+  "transcribedBy": "guineapig",
   "lines": [
     {
-      "type": "direction",
+      "type": "scene",
       "text": "[Scene Central Perk, everyone's there.]"
     },
     {

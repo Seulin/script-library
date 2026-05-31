@@ -20,6 +20,7 @@ body {
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
+  overflow-x: hidden; /* 가로 오버플로/고무줄 바운스 방지(세로 스크롤만) */
 }
 
 [hidden] {
@@ -123,39 +124,15 @@ body {
   font-size: 0.9rem;
 }
 
-.script-toolbar {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 12px;
-  margin: 0 0 20px;
-}
-
-.toggle-all {
-  flex: 0 0 auto;
-  background: var(--panel);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 8px 16px;
-  font-size: 0.88rem;
-  font-weight: 600;
-  color: var(--accent);
-  cursor: pointer;
-  font-family: inherit;
-  transition: background 0.15s, border-color 0.15s;
-}
-
-.toggle-all:hover {
-  border-color: var(--accent);
-}
-
-.toggle-all[aria-pressed="true"] {
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
+.script-credits {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 .lines {
+  margin-top: 20px;
   display: flex;
   flex-direction: column;
   border-top: 1px solid var(--border);
@@ -203,11 +180,15 @@ body {
   font-weight: 600;
   color: var(--accent);
   font-size: 0.82rem;
+  min-width: 0;
+  overflow-wrap: break-word; /* 긴 다중 화자 이름도 칸 안에서 줄바꿈 */
 }
 
 .english {
   flex: 1;
   font-size: 1.02rem;
+  min-width: 0; /* flex 항목이 내용 최소폭 아래로 줄어들어 긴 단어도 줄바꿈되게 */
+  overflow-wrap: break-word;
 }
 
 /* 확장(uncut)본 부분 — 원 방영본엔 없던 문장 조각. 보이긴 하되 흐리게 */
@@ -233,6 +214,7 @@ body {
   font-size: 0.85rem;
   font-weight: 600;
   color: var(--muted);
+  overflow-wrap: break-word;
 }
 
 /* 섹션 구분 — Commercial Break 등 */
@@ -255,6 +237,7 @@ body {
   font-size: 0.9rem;
   font-style: italic;
   color: var(--muted);
+  overflow-wrap: break-word;
 }
 
 @media (max-width: 600px) {
@@ -266,6 +249,7 @@ body {
 .line-detail {
   display: none;
   padding: 2px 4px 12px 110px;
+  overflow-wrap: break-word;
 }
 
 .line.open .line-detail {
@@ -305,21 +289,31 @@ body {
 }
 
 @media (max-width: 600px) {
-  .line-detail {
-    padding-left: 16px;
+  /* 모바일: 좌우 여백을 줄여 대사가 가로로 더 길게 표시되도록 */
+  .view {
+    padding-left: 12px;
+    padding-right: 12px;
   }
-  /* 모바일: 화자를 영어 위 작은 라벨로 올리고, 영어는 가로 전체 폭 사용 */
+  /* 화자를 영어 위 작은 라벨로 올리고, 영어는 가로 전체 폭 사용 */
   .line-main {
+    padding-left: 0;
+    padding-right: 0;
     flex-wrap: wrap;
-    column-gap: 8px;
+    column-gap: 6px;
     row-gap: 1px;
+  }
+  .line-no {
+    flex-basis: 18px;
   }
   .speaker {
     flex: 0 0 auto;
   }
   .english {
     flex: 1 0 100%;
-    /* 라인 넘버(22px) + 간격(8px) 만큼 들여써서 화자와 같은 위치에서 시작 */
-    padding-left: 30px;
+    /* 라인 넘버(18px) + 간격(6px) 만큼 들여써 화자와 같은 위치에서 시작 */
+    padding-left: 24px;
+  }
+  .line-detail {
+    padding-left: 24px;
   }
 }

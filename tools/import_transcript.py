@@ -57,7 +57,8 @@ class TranscriptParser(HTMLParser):
         elif tag in ("b", "strong"):
             self.bold_depth += 1
         elif tag == "br" and self.in_p:
-            self.tokens.append((" ", self._unseen(), self.bold_depth > 0))
+            # 줄바꿈 보존(크레딧 등 멀티라인 파싱용). 대사에선 이후 normalize_ws가 공백으로 정리.
+            self.tokens.append(("\n", self._unseen(), self.bold_depth > 0))
 
     def handle_endtag(self, tag):
         if tag == "p":
@@ -253,6 +254,32 @@ def classify(tokens):
     return [{"type": "direction", "text": to_value(body_segments)}]
 
 
+def extract_credits(paragraphs):
+    """헤더 문단에서 'Written by' / 'Transcribed by' 크레딧을 추출한다.
+
+    한 <p> 안에 <br>(=\\n)로 구분된 여러 줄로 들어있다. 반환: (written, transcribed).
+    """
+    written = ""
+    transcribers = []
+    for tokens in paragraphs:
+        raw = "".join(t for t, _u, _b in tokens)
+        low = raw.lower()
+        if "written by" not in low and "transcribed by" not in low:
+            continue
+        for line in raw.splitlines():
+            line = line.strip()
+            m = re.match(r"written by\s*:\s*(.+)", line, re.I)
+            if m:
+                written = m.group(1).strip().rstrip(".")
+            m = re.match(r"(?:additional transcribing by|transcribed by)\s*:\s*(.+)", line, re.I)
+            if m:
+                name = m.group(1).strip().rstrip(".")
+                if name and name not in transcribers:
+                    transcribers.append(name)
+        break  # 첫 헤더 블록만
+    return written, ", ".join(transcribers)
+
+
 def load_html(url, file):
     if file:
         with open(file, encoding="utf-8", errors="replace") as f:
@@ -276,6 +303,8 @@ def main():
     parser = TranscriptParser()
     parser.feed(html)
 
+    written, transcribed = extract_credits(parser.paragraphs)
+
     entries = []
     for tokens in parser.paragraphs:
         norm = [(normalize_ws(t) if t.strip() else t, u, b) for t, u, b in tokens]
@@ -285,6 +314,8 @@ def main():
         "drama": args.drama,
         "season": args.season,
         "episode": args.episode,
+        "writtenBy": written,
+        "transcribedBy": transcribed,
         "lines": entries,
     }
 

@@ -9,7 +9,6 @@ const els = {
   episodeGrid: document.getElementById("episode-grid"),
   scriptHeader: document.getElementById("script-header"),
   lines: document.getElementById("lines"),
-  toggleAll: document.getElementById("toggle-all"),
 };
 
 let dramasCache = null; // index.json 의 dramas 배열 캐시
@@ -117,9 +116,19 @@ async function renderScriptPage(id) {
     .filter(Boolean)
     .join(" · ");
 
+  const credits = [];
+  if (data.writtenBy) credits.push(`Written by ${data.writtenBy}`);
+  if (data.transcribedBy) credits.push(`Transcribed by ${data.transcribedBy}`);
+  const creditsHTML = credits.length
+    ? `<div class="script-credits">${credits
+        .map((c) => `<div>${escapeHTML(c)}</div>`)
+        .join("")}</div>`
+    : "";
+
   els.scriptHeader.innerHTML = `
     <h2>${escapeHTML(data.drama || "제목 없음")}</h2>
     <div class="sub">${escapeHTML(sub)}</div>
+    ${creditsHTML}
   `;
 
   els.lines.innerHTML = "";
@@ -132,9 +141,6 @@ async function renderScriptPage(id) {
   if (!data.lines || data.lines.length === 0) {
     els.lines.innerHTML = `<p class="empty">아직 대사가 없습니다.</p>`;
   }
-
-  // 새 대본을 열 때는 항상 '해석 숨김' 상태로 초기화
-  setAllDetails(false);
 }
 
 // 항목 유형에 따라 적절한 렌더러로 분기한다. no는 대사 라인 번호.
@@ -159,14 +165,6 @@ function renderBlock(kind, text) {
   return el;
 }
 
-// 전체 대사의 디테일(해석·설명·뉘앙스·예문)을 일괄로 펼치거나 접는다.
-function setAllDetails(open) {
-  els.lines.querySelectorAll(".line").forEach((row) => {
-    row.classList.toggle("open", open);
-  });
-  els.toggleAll.setAttribute("aria-pressed", String(open));
-  els.toggleAll.textContent = open ? "해석 숨기기" : "해석 보기";
-}
 
 // 값은 문자열(전부 방영) 또는 [{text, unseen?}] 조각 배열(혼합).
 // unseen 조각(원 방영본엔 없던 확장본 부분)은 회색으로 연하게 표시한다.
@@ -231,11 +229,6 @@ function escapeHTML(str) {
 }
 
 /* ---------- 시작 ---------- */
-
-els.toggleAll.addEventListener("click", () => {
-  const open = els.toggleAll.getAttribute("aria-pressed") === "true";
-  setAllDetails(!open);
-});
 
 window.addEventListener("hashchange", router);
 router();
