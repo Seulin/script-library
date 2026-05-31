@@ -308,7 +308,18 @@ body {
   .line-detail {
     padding-left: 16px;
   }
+  /* 모바일: 화자를 영어 위 작은 라벨로 올리고, 영어는 가로 전체 폭 사용 */
+  .line-main {
+    flex-wrap: wrap;
+    column-gap: 8px;
+    row-gap: 1px;
+  }
   .speaker {
-    flex-basis: 60px;
+    flex: 0 0 auto;
+  }
+  .english {
+    flex: 1 0 100%;
+    /* 라인 넘버(22px) + 간격(8px) 만큼 들여써서 화자와 같은 위치에서 시작 */
+    padding-left: 30px;
   }
 }

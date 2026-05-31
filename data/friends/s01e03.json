@@ -1,0 +1,1739 @@
+{
+  "drama": "Friends",
+  "season": 1,
+  "episode": 3,
+  "lines": [
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, everyone but Phoebe is there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(entering) Hi guys!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Hey, Pheebs! Hi!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey. Oh, oh, how'd it go?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Um, not so good. He walked me to the subway and said 'We should do this again!'",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Ohh. Ouch.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What? He said 'we should do it again', that's good, right?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Since when?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Or 'You're such a nice guy' means 'I'm gonna be dating leather-wearing alcoholics and complaining about them to you'.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Or, or, y'know, um, 'I think we should see other people' means 'Ha, ha, I already am'.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "And everybody knows this?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah. Cushions the blow.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Uh, Ross.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What? Wh- hello? The Millners' farm in Connecticut? The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....Oh my God, Chi Chi!",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Opening Credits"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Chandler and Joey's, Chandler is helping Joey rehearse for a part.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "\"So how does it feel knowing you're about to die?\"",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "\"Warden, in five minutes my pain will be over. But you'll have to live with the knowledge that you sent an honest man to die.\"",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, that was really good!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Thanks! Let's keep going.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Okay. \"So. Whaddya want from me, Damone, huh?\"",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "\"I just wanna go back to my cell. 'Cause in my cell, I can smoke.\"",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "\"Smoke away.\"",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey takes out a pack of cigarettes and a lighter. He fumbles and drops the lighter. Then he lights a cigarett, takes a drag, and coughs.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I think this is probably why Damone smokes in his cell alone.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Relax your hand!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey lets his wrist go limp.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Not so much!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Whoah!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Hey!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Alright, now try taking a puff.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey tries and visibly winces.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Alright.. okay. No. Give it to me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "No no no, I am not giving you a cigarette.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "It's fine, it's fine. Look, do you wanna get this part, or not? Here.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey reluctantly gives him the cigarette.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Don't think of it as a cigarette. Think of it as the thing that's been missing from your hand. When you're holding it, you feel right. You feel complete.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Y'miss it?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Scene, Central Perk, everyone except Phoebe and Rachel is there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No, no, no. They say it's the same as the distance from the tip of a guy's thumb to the tip of his index finger.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(The guys stretch out their fingers.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "That's ridiculous!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Can I use.. either thumb?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(carrying a tray of drinks) Alright, don't tell me, don't tell me! (Starts handing them out.) Decaf cappucino for Joey.. Coffee black.. Late.. And an iced tea. I'm getting pretty good at this!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Yeah. Yeah, excellent.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(leaving to serve others) Good for me!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(The gang swaps all the drinks for what they ordered as Phoebe enters. She sits down without saying hi.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Y'okay, Phoebe?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah- no- I'm just- it's, I haven't worked- It's my bank.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What did they do to you?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Easy.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "- and there's five hundred extra dollars in my account.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, Satan's minions at work again...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yes, 'cause now I have to go down there, and deal with them.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What are you talking about? Keep it!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "It's not mine, I didn't earn it, if I kept it, it would be like stealing.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah, but if you spent it, it would be like shopping!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "We're with you. We got it.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler leans over the back of the couch out of sight.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Chandler, what are you doing?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(puling him up) Hey. Whaddya doing?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler tries to shrug nonchalantly but eventually he has to exhale a mouthful of smoke.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Oh! Oh, God!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What is this?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm smoking. I'm smoking, I'm smoking.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, I can't believe you! You've been so good, for three years!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "And this- is my reward!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hold on a second, alright? Just think about what you went through the last time you quit.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Okay, so this time I won't quit!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Ohhh! Put it out!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "All right! I'm putting it out, I'm putting it out. (He drops it in Phoebe's coffee.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, no! I- I can't drink this now!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Alright. I'm gonna go change, I've got a date.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "This Alan again? How's it goin'?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "'S'going pretty good, y'know? It's nice, and, we're having fun.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "So when do we get to meet the guy?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Let's see, today's Monday... Never.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Oh, come on! Come on!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No. Not after what happened with Steve.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "What are you talking about? We love Schhteve! Schhteve was schhexy!.. Sorry.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Look, I don't even know how I feel about him yet. Just give me a chance to figure that out.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, then can we meet him?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Nope. Schhorry.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Iridium, Monica and Paula are at work.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I know. I just wish that once, I'd bring a guy home that they actually liked.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Chandler is smoking out on the balcony, Phoebe is absent.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Let it go, Ross.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah, well, you didn't know Chi Chi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Do you all promise?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Yeah! We promise! We'll be good!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(shouts to Chandler) Chandler? Do you promise to be good?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler makes a 'Cross my heart' sign. It starts to rain and he taps on the window.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You can come in, but your filter-tipped little buddy has to stay outside!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler sulkilty picks up a garbage can lid and uses it as an umbrella.)"
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe enters, walks to the couch, sits down, and begins to read a letter without saying hi.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey, Pheebs.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- (Searches in her purse) -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What bank is this?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(The intercom buzzes.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hey. It's him. (On the intercom) Who is it?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "(on the intercom) It's Alan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(shouting to Chandler) Chandler! He's here!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler comes in, dripping wet.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(to all) Okay, please be good, please. Just remember how much you all like me.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(She opens the door and Alan enters.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hi. Alan, this is everybody. Everybody, this is Alan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Hi, Alan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "I've heard schho much about all you guyschh!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Everyone laughs.)"
+    },
+    {
+      "type": "direction",
+      "text": "[Time lapse, Alan is leaving.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Silence.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "C'mon!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "...I'll go. Let's start with the way he kept picking at- no, I'm sorry, I can't do this, can't do this. We loved him.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Loved him! Yeah! He's great!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Wait a minute! We're talking about someone that I'm going out with?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Yeah!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "And did you notice...? (She spreads her thumb and index finger.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "The Guys",
+      "english": "(reluctantly) Yeah.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Know what was great? The way his smile was kinda crooked.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yes, yes! Like the man in the shoe!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "...What shoe?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Dubious pause.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "...So I think Alan will become the yardstick against which all future boyfriends will be measured.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What future boyfriends? Nono, I th- I think this could be, y'know, it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Really!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right? (Does the impression)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You know what I like most about him, though?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "The way he makes me feel about myself.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Yeah...",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Commercial Break"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Monica is alone as Ross, Rachel, Chandler, and Joey enter dejectedly in softball gear.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hi.. how was the game?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "WE WON!! Thank you! Yes!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Fantastic! I have one question: How is that possible?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Alan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I mean, it-it was like, it was like he made us into a team.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yep, we sure showed those Hassidic jewellers a thing or two about softball..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "..I dunno, a little too Alan?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, no. That's impossible. You can never be too Alan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah, it's his, uh, innate Alan-ness that-that-that we adore.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I personally could have a gallon of Alan.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: A street, Phoebe walks up to a homeless person (Lizzie) she knows.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Hey, Lizzie.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Hey, Weird Girl.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "I brought you alphabet soup.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Did you pick out the vowels?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yes. But I left in the Ys. 'Cause, y'know, \"sometimes y\". Uh, I also have something else for you. (She searches in her purse.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Saltines?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No, but would you like a thousand dollars and a football phone?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "What? (She opens the envelope Phoebe has given her.) Oh my God, there's really money in here.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "I know.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Weird Girl, what are you doing?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No, I want you to have it. I don't want it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "No, no, I ha-I have to give you something.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, that's fine, no.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Would you like my tin-foil hat?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No. 'Cause you need that. No, it's okay, thanks.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Please, let me do something.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Okay, alright, you buy me a soda, and then we're even. Okay?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Okay.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Okay.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Chandler's office, Chandler looks around, opens his desk drawer, takes a puff of a cigarette, sprays around some air freshener, and takes some breath spray. He types for a little while, opens the drawer again, and takes another drag of the cigarette. While not paying attention, he sprays the breath spray around the room, takes a squirt of air freshener and gags.]"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: A Street, Phoebe and Lizzie are at a hot dog vendor.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "Keep the change. (To Phoebe) Sure you don't wanna pretzel?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No, I'm fine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Lizzie",
+      "english": "(leaves) See ya.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe opens the can and reacts.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Huh!",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Phoebe is telling everyone about her discovery.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "A thumb?!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe nods.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Eww!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Well, maybe it's a contest, y'know? Like, collect all five?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Does, um, anyone wanna see?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Nooo!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler lights a cigarette.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Oh, hey, don't do that! Cut it out!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "It's worse than the thumb!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, this is so unfair!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh, why is it unfair?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(An awkward silence ensues.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "...Does the knuckle-cracking bother everybody?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, I-I could live without it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe spits out her hair.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh, now, don't listen to him, Pheebs, I think it's endearing.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Oh, (Imitating Ross) \"you do, do you\"?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Monica laughs and snorts.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You know, there's nothing wrong with speaking correctly.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "\"Indeed there isn't\"... I should really get back to work.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah, 'cause otherwise someone might get what they actually ordered.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(They degenerate into bickering and Chandler happily starts to smoke, undisturbed.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Iridium, Monica and Paula are working.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Did you ever go out with a guy your friends all really like?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "No.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Okay.. Well, I'm going out with a guy my friends all really like.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "Waitwait.. we talking about the coyotes here? All right, a cow got through!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Can you believe it? ...Y'know what? I just don't feel the thing. I mean, they feel the thing, I don't feel the thing.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "Honey.. you should always feel the thing. Listen, if that's how you feel about the guy, Monica, dump him!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I know.. it's gonna be really hard.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paula",
+      "english": "Well, he's a big boy, he'll get over it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No, he'll be fine. It's the other five I'm worried about.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Cental Perk, Joey and Ross are persecuting Chandler about his smoking.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Do you have any respect for your body?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Don't you realise what you're-you're doing to yourself?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(holding the phone out to Chandler) Chandler? It's Alan, he wants to speak to you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Really? He does? (taking the phone) Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks! (He hands the phone back and stubs out his cigarette.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(to Ross, who has wandered up) God, he's good.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "If only he were a woman.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(They give each other a dubious look.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, everyond except Monica and Joey is watching Lambchop.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Okay. I think it's time to change somebody's nicotine patch. (Does so.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(entering) Hey. Where's Joey?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Joey ate my last stick of gum, so I killed him. Do you think that was wrong?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I think he's across the hall.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Thanks. (Goes to fetch him.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(finishing changing Chandler's nicotine patch) There y'go.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(deadpan) Ooh, I'm alive with pleasure now.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey Pheebs, you gonna have the rest of that Pop-Tart?.. Pheebs?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Does anyone want the rest of this Pop-Tart?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey, I might!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Sorry. ..Y'know, those stupid soda people gave me seven thousand dollars for the thumb.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "You're kidding. Oh my God.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "And on my way over here, I stepped in gum. ...What is up with the universe?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(dragged in by Monica, he has just gotten out of the shower) What's going on?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Nothing. I just think it's nice when we're all here together.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Even nicer when everyone gets to wear their underwear..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Uh, Joey..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Oh, God! (Hurriedly closes his legs.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(turns off the TV) Okay..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Oh! That was Lambchop!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Please, guys, we have to talk.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Wait, wait, I'm getting a deja vu...no, I'm not.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Alright, we have to talk.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "There it is!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(They all gasp and clutch each other.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Is there somebody else?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No, nononono.. it's just.. things change. People change.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "We didn't change..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "So that's it? It's over? Just like that?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "You know.. you let your guard down, you start to really care about someone, and I just- I- (starts chewing her hair)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Look, I- I could go on pretending-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Okay!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "-but that wouldn't be fair to me, it wouldn't be fair to Alan- It wouldn't be fair to you!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Who-who wants fair? Y'know, I just want things back. Y'know, the way they were.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I'm sorry..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(sarcastic) Oh, she's sorry! I feel better!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(tearful) I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I'll meet somone else. There'll be other Alans.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Oh, yeah! Right!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Are you guys gonna be okay?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey hey, we'll be fine. We're just gonna need a little time.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(dubious) I understand.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: A Restaurant, Monica is breaking the news to Alan.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "Wow.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I'm, I'm really sorry.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Relieved?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Alan",
+      "english": "Yeah, well, I had a great time with you.. I just can't stand your friends.",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Closing Credits"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, everyone is mopping around and eating ice cream.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Remember when we went to Central Park and rented boats?.. That was fun.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah. He could row like a viking.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(entering) Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Mmm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So how'd it go?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh, y'know..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Did he mention us?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "He said he's really gonna miss you guys. (dubious look)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "...That's it. I'm getting cigarettes.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "No no no!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(leaving) I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(shouting as he leaves) If you never smoke again I'll give you seven thousand dollars!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(returns) Yeah, alright.",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "End"
+    }
+  ]
+}

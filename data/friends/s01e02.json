@@ -1,0 +1,1585 @@
+{
+  "drama": "Friends",
+  "season": 1,
+  "episode": 2,
+  "lines": [
+    {
+      "type": "direction",
+      "text": "[Scene Central Perk, everyone's there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What you guys don't understand is, for us, kissing is as important as any part of it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah, right!.......Y'serious?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, yeah!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Everything you need to know is in that first kiss.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Absolutely.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yeah, I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(pause)....Are we still talking about sex?",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Opening Credits"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Museum of Prehistoric History, Ross and a co-worker (Marsha) are setting up an exhibit which includes some mannequins of cave people.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "english": "Well, she has issues.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Does she.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "english": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "english": "Speaking of issues, isn't that your ex-wife?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Carol, Ross's ex-wife, has entered behind them and is standing outstide the exhibit.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(trying to ignore her) No. No.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Marsha",
+      "english": "Yes, it is. Carol! Hi!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Marsha extis and Ross waves Carol into the exhibit.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "So.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You look great. I, uh... I hate that.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Sorry. You look good too.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Ah, well, in here, anyone who... stands erect... So what's new? Still, uh...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "A lesbian?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well... you never know. How's, um.. how's the family?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Marty's still totally paranoid. Oh, and, uh-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Why- why are you here, Carol?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "I'm pregnant.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Pregnant?!",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching Three's Company.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "...Then I've already seen this one! (Turns off the TV.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(taking a drink from Joey) Are you through with that?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah, sorry, the swallowing slowed me down.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Whose little ball of paper is this?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... (sees that Monica is glaring at him) ...now I wish I was dead.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Monica starts to fluff a pillow.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "She's already fluffed that pillow... Monica, you know, you've already fluffed that- (Monica glares at her.) -but, it's fine!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yes, and we all know how cruel a parent can be about the flatness of a child's pillow.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(looking out the window) Ew, ew, ew, ew ew ew ew ew!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Ugly Naked Guy got a Thighmaster!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Eeaagh!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Rachel enters from her room.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Has anybody seen my engagement ring?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah, it's beautiful.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh God, oh God, oh God oh God oh God oh God.... (Starts to look under the couch cushions.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No, look, don't touch that!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Easy Rach, we'll find it. (To all) Won't we!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler and Joey",
+      "english": "Oh! Yeah!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Alright, when'd'ya have it on last?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Doy! Probably right before she lost it!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "You don't get a lot of 'doy' these days...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I know I had it this morning, and I know I had it when I was in the kitchen with...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "...Dinah?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(looks at the lasagne and realizes something) Ohhhhh, don't be mad...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "You didn't.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, I am sorry...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I gave you one job! (Starts to examin the lasagne through the bottom of the glass pan.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, but look how straight those noodles are!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Now, Monica, you know that's not how you look for an engagement ring in a lasagne...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(puts down the lasagne) I just... can't do it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Boys? We're going in.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler, Joey, and Phoebe start to pick through the lasagne as there's a knock on the door which Monica answers.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(standing outside the door).....Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Wow. That is not a happy hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Carol's pregnant.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(while everyone else is stunned) Ooh! I found it!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "W-w-wh-... wha-... w-w-w-...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah. Do that for another two hours, you might be where I am right about now. (He enters.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well now, how-how do you fit into this whole thing?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, Carol says she and Susan want me to be involved, but if I'm not comfortable with it, I don't have to be involved.. basically it's entirely up to me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "She is so great! I miss her.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What does she mean by 'involved'?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I mean presumably, the biggest part of your job is done.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Anyway, they want me to go down to this- sonogram thing with them tomorrow.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "So what are you gonna do?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I have no idea. No matter what I do, though, I'm still gonna be a father.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey starts to eat the rest of the lasagne and everyone turns and stares at him.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": ".....Well, this is still ruined, right?",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Scene, Monica and Rachel's, Monica and Ross are pouring wine for their parents.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Oh, Martha Ludwin's daughter is gonna call you. (Tastes a snack) Mmm! What's that curry taste?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Curry.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Mmmm!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I- I think they're great! I, I really do.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "english": "(To Ross) Do you remember the Ludwins? The big one had a thing for you, didn't she?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "They all had a thing for him.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Aw, Mom...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I'm sorry, why is this girl going to call me?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Oh, she just graduated, and she wants to be something in cooking, or food, or.... I don't know. Anyway, I told her you had a restaurant-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No Mom, I don't have a restaurant, I work in a restaurant.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Well, they don't have to know that... (She starts to fluff the same pillow Monica fluffed multiple times earlier.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Ross, could you come and help me with the spaghetti, please?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah. (They go to the kitchen.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Oh, we're having spaghetti! That's.... easy.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Time Lapse, everyone is now eating.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "english": "I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Well, at least she had the chance to leave a man at the altar...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What's that supposed to mean?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "Nothing! It's an expression.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No it's not.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "english": "Don't listen to your mother. You're independent, and you always have been! Even when you were a kid... and you were chubby, and you had no friends, you were just fine! And you would read alone in your room, and your puzzles...",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Time Lapse.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "english": "Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Time Lapse.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Geller",
+      "english": "...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(pulls his hand away) Okay! Okay. (To his parents) Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Stunned silence ensues.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mrs. Geller",
+      "english": "(To Monica) And you knew about this?!",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Commercial Break"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Park, everyone's there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Your folks are really that bad, huh?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, y'know, these people are pros. They know what they're doing, they take their time, they get the job done.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Boy, I know they say you can't change your parents,... boy, if you could- (To Ross) -I'd want yours.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Must pee. (Goes to pee.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Y'know, it's even worse when you're twins.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "You're twins?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah. We don't speak. She's like this high-powered, driven career type.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "What does she do?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "She's a waitress.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "All right, you guys, I kinda gotta clean up now. (They all start to leave.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Chandler, you're an only child, right? You don't have any of this.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Well, no, although I did have an imaginary friend, who... my parents actually preferred.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "The lights, please..",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Joey turns off the lights, and they all leave as Rachel starts to clean up. Ross enters from the bathroom.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "...How long was I in there?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I'm just cleaning up.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "D'ya.. uh.. d'ya need any help?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Uh.. okay, sure! Thanks! (She hands him the broom and sits down.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Anyway.. um.. (Starts to sweep.) So, you- uh- you nervous about Barry tomorrow?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh.. a little..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Mm-hmm..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "A lot.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Mm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "So, got any advice? Y'know, as someone who's recently been- dumped?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, you've got Carol tomorrow.. When did it get so complicated?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Got me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Remember when we were in high school together?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it? (Ross gazes at her.) ..Ross?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yes, yes!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh! Man, I never thought I'd be here.. (She leans back onto his hand.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Me either... (He pulls up a stool so that he doesn't have to move his hand.)",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Carol's OB/GYN, Carol is waiting.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(entering) Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Susan enters holding a drink.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Ross, you remember Susan.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "How could I forget?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Ross.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(they shake hands) Hello, Susan. (To Carol) Good shake. Good shake. So, uh, we're just waiting for...?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Dr. Oberman.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "..Dr. Oberman. Okay. And is he-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "She.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "-she, of course, she- uh- familiar with our.. special situation?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Yes, and she's very supportive.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Okay, that's great. (Susan gives her drink to Carol.) No, I'm- Oh.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Thanks.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(picks up a surgical instrament and mimes a duck with it) Quack, quack..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Ross? That opens my cervix. (He drops it in horror.)",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Scene Barry's office, Barry is working on patient, Robbie, as Rachel enters.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Barry?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "C'mon in.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(hesitates) Are you sure?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Yeah! It's fine, it's fine. Robbie's gonna be here for hours.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robbie",
+      "english": "Huh?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "So, how ya doin?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I'm- uh- I'm okay... You look great!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Yeah, well..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bernice",
+      "english": "(over intercom) Dr. Farber, Jason Greenstein's gagging.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "(answering the intercom) Be right there. (To Robbie and Rachel) Be back in a sec.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(As Barry exits Robbie stares at Rachel.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I dumped him.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robbie",
+      "english": "Okay.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Carol's OB/GYN, they're talking about how this is going to work.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Give me a 'for instance'.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Marlon-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Marlon?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "-if it's a boy, Minnie if it's a girl.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "...As in Mouse?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "As in my grandmother.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Julia..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "We agreed on Minnie.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Barry's office, Rachel is doing her makeup in the mirror on Barry's lamp as Barry enters.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Sorry about that. So. What have you been up to?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, not much. I-I got a job.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Oh, that's great.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Why are- why are you so tanned?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Oh, I, uh- I went to Aruba.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh no. You went on our honeymoon alone?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "No. I went with, uh.. Now, this may hurt.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robbie",
+      "english": "Me?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "No! (To Rachel) I went with Mindy.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Mindy?! My maid of honour, Mindy?!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Yeah, well, uh, we're kind of a thing now.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh! Well, um.. (Grabs his forehand) You've got plugs!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Careful! They haven't quite taken yet.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "And you've got lenses! But you hate sticking your finger in your eye!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Not for her. Listen, I really wanted to thank you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Okay..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "See, about a month ago, I wanted to hurt you. More than I've ever wanted to hurt anyone in my life. And I'm an orthodontist.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Wow.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "You know, you were right? I mean, I thought we were happy. We weren't happy. But with Mindy, now I'm happy. Spit.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robbie",
+      "english": "Me. (Spits.)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Anyway, um, (Gets the ring out of her purse.) I guess this belongs to you. And thank you for giving it to me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Barry",
+      "english": "Well, thank you for giving it back.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Barry and Rachel look at each other.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Robbie",
+      "english": "Hello?!",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Carol's OB/GYN, they're still arguing about what to name the baby.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Oh, please! What's wrong with Helen?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Helen Geller? I don't think so.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Hello? It's not gonna be Helen Geller.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Thank you!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "No, I mean it's not Geller.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What, it's gonna be Helen Willick?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "No, actually, um, we talked about Helen Willick-Bunch.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, wait a minute, wha- why is she in the title?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "It's my baby too.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh, 's'funny, really? Um, I don't remember you making any sperm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Yeah, and we all know what a challenge that is!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "All right, you two, stop it!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No no no, she gets a credit, hey, I'm in there too.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Of course not, I'm... suggesting Geller-Willick-Bunch.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Oberman",
+      "english": "(entering) Knock knock!How are we today? Any nausea?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Yeah. Yeah. A little.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Dr. Oberman",
+      "english": "Well, I was just wondering about the mother-to-be, but.. thanks for sharing. (To Carol) Uh, lie back..",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You- uh- y'know what, I'm gonna go. I don't- I don't think I can be involved in this particular thing right now.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(He turns to go, but the sound of the sonogram catches hes ear. He returns and stares at it.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh my God.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Susan",
+      "english": "Look at that.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Carol",
+      "english": "I know.",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Closing Credits"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's apartment, everyone is watching the tape of the sonogram. Rachel is on the phone.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well? Isn't that amazing?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What are we supposed to be seeing here?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I dunno, but.. I think it's about to attack the Enterprise.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Then don't do that, alright?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Okay!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(walks over to where Monica is standing)Monica. Whaddya think?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(welling up) Mm-hmm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Wh- are you welling up?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You are, you're welling up.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Am not!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You're gonna be an aunt.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(pushes him and starts to cry) Oh shut up!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(on phone) Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose. (Slams the phone down.) (To everyone) Okay, I know it was a cheap shot, but I feel so much better now.",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "End"
+    }
+  ]
+}

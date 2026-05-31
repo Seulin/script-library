@@ -7,6 +7,14 @@
         {
           "title": "S01E01 · The Pilot",
           "file": "friends/s01e01.json"
+        },
+        {
+          "title": "S01E02 · The One with the Sonogram at the End",
+          "file": "friends/s01e02.json"
+        },
+        {
+          "title": "S01E03 · The One with the Thumb",
+          "file": "friends/s01e03.json"
         }
       ]
     }
