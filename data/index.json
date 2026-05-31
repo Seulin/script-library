@@ -1,0 +1,14 @@
+{
+  "dramas": [
+    {
+      "id": "friends",
+      "title": "Friends",
+      "episodes": [
+        {
+          "title": "S01E01 · The Pilot",
+          "file": "friends/s01e01.json"
+        }
+      ]
+    }
+  ]
+}

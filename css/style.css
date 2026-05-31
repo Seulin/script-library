@@ -1,0 +1,324 @@
+:root {
+  --bg: #f7f7f8;
+  --panel: #ffffff;
+  --border: #e3e3e7;
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --accent: #2563eb;
+  --accent-soft: #eef2ff;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Apple SD Gothic Neo",
+    "Noto Sans KR", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.view {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+}
+
+.page-header {
+  margin-bottom: 24px;
+}
+
+.page-header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.hint {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 6px 0 0;
+}
+
+/* ---------- 목록 페이지 ---------- */
+
+.episode-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.drama-group {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.drama-name {
+  margin: 0;
+  font-size: 1.15rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.episode-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.episode-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 18px;
+  transition: border-color 0.15s, transform 0.15s;
+}
+
+.episode-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.episode-card .ep-title {
+  font-weight: 500;
+  font-size: 0.98rem;
+}
+
+/* ---------- 대본 보기 페이지 ---------- */
+
+.script-topbar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.back-link {
+  align-self: flex-start;
+  text-decoration: none;
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.script-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.script-header .sub {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.script-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 0 20px;
+}
+
+.script-hint {
+  margin: 0;
+}
+
+.toggle-all {
+  flex: 0 0 auto;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--accent);
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.toggle-all:hover {
+  border-color: var(--accent);
+}
+
+.toggle-all[aria-pressed="true"] {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.lines {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid var(--border);
+}
+
+.empty,
+.loading {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.line {
+  border-bottom: 1px solid var(--border);
+}
+
+.line-main {
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  padding: 7px 4px;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-family: inherit;
+  color: var(--text);
+}
+
+.line-main:hover {
+  background: #fafafe;
+}
+
+.line-no {
+  flex: 0 0 22px;
+  text-align: right;
+  color: #b8b8bf;
+  font-size: 0.72rem;
+  font-variant-numeric: tabular-nums;
+  user-select: none;
+}
+
+.speaker {
+  flex: 0 0 64px;
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 0.82rem;
+}
+
+.english {
+  flex: 1;
+  font-size: 1.02rem;
+}
+
+/* 확장(uncut)본 부분 — 원 방영본엔 없던 문장 조각. 보이긴 하되 흐리게 */
+.unseen-text {
+  color: #b6b6bd;
+}
+
+/* 대사 안 인라인 행동 지침 (…) — 말과 구분되게 이탤릭·연한 색 */
+.inline-direction {
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.92em;
+}
+
+/* unseen 조각 안의 지침은 흐린 색 유지(이탤릭만) */
+.unseen-text .inline-direction {
+  color: inherit;
+}
+
+/* 장면 헤딩 — [Scene: ...] */
+.scene {
+  margin: 20px 0 6px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+/* 섹션 구분 — Commercial Break 등 */
+.section {
+  margin: 24px 0;
+  text-align: center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 8px 0;
+}
+
+/* 단독 행동 지침 — (...) */
+.direction {
+  padding: 5px 4px 5px 110px;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+@media (max-width: 600px) {
+  .direction {
+    padding-left: 16px;
+  }
+}
+
+.line-detail {
+  display: none;
+  padding: 2px 4px 12px 110px;
+}
+
+.line.open .line-detail {
+  display: block;
+}
+
+.line-detail .korean {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #1e40af;
+  border-left: 3px solid var(--accent);
+  padding-left: 10px;
+}
+
+.line-detail .nuance {
+  margin: 7px 0 0;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.examples {
+  margin: 7px 0 0;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.examples li {
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.examples li::marker {
+  font-style: normal;
+}
+
+@media (max-width: 600px) {
+  .line-detail {
+    padding-left: 16px;
+  }
+  .speaker {
+    flex-basis: 60px;
+  }
+}

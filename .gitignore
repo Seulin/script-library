@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 에디터/임시
+*.swp
+*~
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# 임포트 작업 임시 파일
+*.imported.json
