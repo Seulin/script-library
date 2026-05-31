@@ -41,12 +41,6 @@ body {
   font-size: 1.5rem;
 }
 
-.hint {
-  color: var(--muted);
-  font-size: 0.9rem;
-  margin: 6px 0 0;
-}
-
 /* ---------- 목록 페이지 ---------- */
 
 .episode-grid {
@@ -132,13 +126,9 @@ body {
 .script-toolbar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 12px;
   margin: 0 0 20px;
-}
-
-.script-hint {
-  margin: 0;
 }
 
 .toggle-all {
