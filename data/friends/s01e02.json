@@ -19,7 +19,11 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Yeah, right!.......Y'serious?",
-      "korean": ""
+      "korean": "그래, 잘도 그러겠다! ……진심이야?",
+      "explanation": "'Yeah, right!'는 글자 그대로가 아니라 '퍽이나/잘도 그러겠다'라는 비꼬는 맞장구(못 믿겠다는 뜻). 바로 뒤 'Y'serious?(진심이야?)'로 반신반의가 드러남.",
+      "examples": [
+        "You'll pay me back tomorrow? Yeah, right."
+      ]
     },
     {
       "type": "dialogue",
@@ -43,7 +47,12 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Yeah, I think for us, kissing is pretty much like an opening act, y'know? I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
-      "korean": ""
+      "korean": "그래, 우리(남자들)한테 키스는 거의 오프닝 무대 같은 거야. 그러니까, 핑크 플로이드가 나오기 전에 어쩔 수 없이 참고 봐야 하는 스탠드업 코미디언 같은 거랄까.",
+      "explanation": "opening act = 본 공연(헤드라이너) 전에 분위기를 띄우는 식전 무대/오프닝 공연. 여기선 키스를 '본론 전에 거쳐가는 단계'로 비유. sit through = (지루하거나 내키지 않아도) 끝까지 앉아서 참고 보다/견디다.",
+      "examples": [
+        "The opening act was actually better than the main band.",
+        "We had to sit through a three-hour meeting."
+      ]
     },
     {
       "type": "dialogue",
@@ -55,13 +64,22 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
-      "korean": ""
+      "korean": "막히는 길과 씨름하면서, 그냥 안 졸려고 버티는 거지.",
+      "explanation": "fight traffic = 꽉 막힌 차량 속을 헤치며 운전하다(교통체증과 씨름하다).",
+      "examples": [
+        "I fought traffic for an hour just to get here."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Yeah, well, word of advice: Bring back the comedian. Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
-      "korean": ""
+      "korean": "충고 한마디 할게: 그 코미디언을 다시 불러와. 안 그러면 다음엔 혼자 집에 앉아 있게 될걸.",
+      "explanation": "word of advice = 충고 한마디. find yourself -ing = (의도와 무관하게) 어느새/결국 ~하고 있는 자신을 발견하다.",
+      "examples": [
+        "A word of advice: get there early.",
+        "I found myself agreeing with him."
+      ]
     },
     {
       "type": "dialogue",
@@ -87,31 +105,51 @@
       "type": "dialogue",
       "speaker": "Marsha",
       "english": "Well, she has issues.",
-      "korean": ""
+      "korean": "뭐, 걔도 맺힌 게(문제가) 좀 있어.",
+      "explanation": "have issues = (정서적·심리적) 문제가 있다, 맺힌 게 있다. 박물관 전시 속 원시인 여자를 두고 한 말이라 다음 대사 농담으로 이어짐.",
+      "examples": [
+        "He's got some serious issues to work through."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Does she.",
-      "korean": ""
+      "korean": "그래, 그러셔. (시큰둥)",
+      "explanation": "의문문 형태지만 끝을 올리지 않고 마침표로 끝나, 진짜 질문이 아니라 '아, 그러셔'처럼 심드렁·시큰둥한 반응을 나타냄."
     },
     {
       "type": "dialogue",
       "speaker": "Marsha",
       "english": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
-      "korean": ""
+      "korean": "남자는 밖에서 다른 여자들 머리를 곤봉으로 내리치고 다니는데, 여자는 집에서 카펫에 밴 마스토돈 냄새나 빼려고 애쓰고 있잖아!",
+      "explanation": "be out -ing = (집) 밖에 나가 ~하고 돌아다니다. bang A over the head with a club = A의 머리를 곤봉으로 내리치다 — 원시인 남자가 여자를 곤봉으로 때려 데려간다는 만화적 클리셰를 빗댄 말. mastodon = 마스토돈, 빙하기에 살던 코끼리류 동물(매머드의 사촌격).",
+      "examples": [
+        "He's out chasing some new business idea again.",
+        "Stop banging the table with your fist."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Marsha, these are cave people. Okay? They have issues like 'Gee, that glacier's getting kinda close.' See?",
-      "korean": ""
+      "korean": "마샤, 얘넨 원시인이라고. 알겠어? 얘네 고민이래 봐야 '이런, 저 빙하가 좀 가까워지는데' 이런 거야. 알겠어?",
+      "explanation": "Gee = 'jeez'를 순화한 가벼운 감탄사로 '이런, 와, 어머' 정도. 놀람·강조를 부드럽게 표현하며 다소 옛스럽고 순한 말투. (kinda = kind of, '좀/약간'의 구어체)",
+      "examples": [
+        "Gee, I didn't expect to see you here.",
+        "Gee, thanks! That really helped."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Marsha",
       "english": "Speaking of issues, isn't that your ex-wife?",
-      "korean": ""
+      "korean": "고민 얘기가 나와서 말인데, 저기 저 사람 네 전처 아니야?",
+      "explanation": "Speaking of ~ = '~ 얘기가 나온 김에/말이 나와서 말인데' — 직전 화제(여기선 issues)를 자연스럽게 이어받는 연결 표현. 사람을 가리키는 that: 멀리 떨어져 있거나 누군지 확인할 때 '저 사람'을 영어로는 that으로 가리킴 (Is that your sister? = 저 사람 네 동생이야?).",
+      "examples": [
+        "Speaking of food, I'm starving.",
+        "Wait, is that the new manager over there?"
+      ]
     },
     {
       "type": "direction",
@@ -127,13 +165,23 @@
       "type": "dialogue",
       "speaker": "Marsha",
       "english": "Yes, it is. Carol! Hi!",
-      "korean": ""
+      "korean": "응, 맞아. 캐롤! 안녕!",
+      "explanation": "'Is/Isn't that ~?' 질문에 답할 때는 그 that을 받아 'Yes, it is.'라고 함. 사람을 she/he로 부르는 게 아니라 '저 대상이 맞는지' 확인하는 구문이라 it으로 받는 것 — 누군지 식별·확인하는 맥락 특유의 용법.",
+      "examples": [
+        "Is that your car? - Yes, it is.",
+        "Is that Tom over there? - Yes, it is! Hey Tom!"
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
-      "korean": ""
+      "korean": "알았어, 알았어, 맞아. (손을 흔들며) 그… 빙하기쯤에 다시 보는 걸로 하자.",
+      "explanation": "catch up with someone = ① 앞서간 사람을 따라잡다 ② 한동안 못 본 사람과 만나 근황을 나누다. 여기선 어색한 상황을 피하려 '나중에 보자'는 뜻으로 쓰고, 박물관 전시(빙하기)와 엮은 농담.",
+      "examples": [
+        "You go ahead, I'll catch up.",
+        "Let's grab coffee and catch up sometime."
+      ]
     },
     {
       "type": "direction",
@@ -155,7 +203,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You look great. I, uh... I hate that.",
-      "korean": ""
+      "korean": "너 좋아 보인다. 난… 그게 싫어.",
+      "explanation": "헤어진 상대가 멋져 보이는 게 (질투·미련이 섞여) 못마땅하다는 자조적 농담."
     },
     {
       "type": "dialogue",
@@ -185,7 +234,12 @@
       "type": "dialogue",
       "speaker": "Carol",
       "english": "Marty's still totally paranoid. Oh, and, uh-",
-      "korean": ""
+      "korean": "마티는 아직도 완전 의심병이야. 아, 그리고, 어-",
+      "explanation": "paranoid = 피해망상적인 — 남이 자기를 해치려 한다고 과하게 믿거나, 별것 아닌 일에 지나치게 의심·불안해하는 상태. 일상 회화에선 '괜히 예민하게 의심하는' 정도로 가볍게도 씀.",
+      "examples": [
+        "Don't be so paranoid, nobody's following you.",
+        "I'm a little paranoid about leaving the door unlocked."
+      ]
     },
     {
       "type": "dialogue",
@@ -213,7 +267,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
-      "korean": ""
+      "korean": "늘 오해로 소동이 벌어지는 그 에피소드네.",
+      "explanation": "Three's Company = 1970~80년대 미국 시트콤. 매회 사소한 오해로 빚어지는 소동이 트레이드마크라, '또 오해로 꼬이는 그 에피소드'라며 빗댄 문화 레퍼런스."
     },
     {
       "type": "dialogue",
@@ -225,7 +280,12 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(taking a drink from Joey) Are you through with that?",
-      "korean": ""
+      "korean": "(조이의 음료를 가져가며) 그거 다 마셨어?",
+      "explanation": "be through with something = ~을 다 끝내다/다 쓴 상태다. 여기선 음료를 가리켜 '다 마셨어?'. 'be through with someone'이면 '~와는 끝이다(관계를 청산하다)'라는 뜻이 됨.",
+      "examples": [
+        "Are you through with the newspaper?",
+        "I'm through with him - we broke up."
+      ]
     },
     {
       "type": "dialogue",
@@ -243,7 +303,12 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Oh, uh, that would be mine. See, I wrote a note to myself, and then I realised I didn't need it, so I balled it up and... (sees that Monica is glaring at him) ...now I wish I was dead.",
-      "korean": ""
+      "korean": "아, 그… 그거 아마 제 거예요. 그게, 제가 저한테 메모를 썼는데, 필요 없는 걸 깨닫고 뭉쳐서 버렸거든요… (모니카가 노려보는 걸 보고) …이제 그냥 죽고 싶네요.",
+      "explanation": "that would be mine: would는 확신을 누그러뜨리는 완곡·자조 표현. 자기 것이 맞지만 멋쩍어서 'that's mine'(딱 잘라) 대신 '아마 제 거겠네요'처럼 부드럽게 인정하는 것. | I wish I was dead: 'wish + 과거형'은 가정법으로 현재 사실의 반대(실제론 안 죽음)를 바라는 표현. 비현실적 소망이라 과거시제를 쓰며 '죽고 싶을 만큼 창피하다'는 과장. (문법적으로 was/were 둘 다 가능)",
+      "examples": [
+        "That would be mine, sorry about that.",
+        "I wish I were taller. / I wish I had more time."
+      ]
     },
     {
       "type": "direction",
@@ -253,13 +318,18 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "She's already fluffed that pillow... Monica, you know, you've already fluffed that- (Monica glares at her.) -but, it's fine!",
-      "korean": ""
+      "korean": "걔 그 베개 이미 부풀렸어… 모니카, 너 그거 벌써 부풀렸잖아- (모니카가 노려본다) -근데, 괜찮아!",
+      "explanation": "fluff = (베개·쿠션 등을) 두드리거나 흔들어 폭신하게 부풀리다. 여기선 모니카가 부모 방문 전 긴장해 같은 베개를 계속 부풀리는 강박적 행동."
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Look , I'm sorry, guys, I just don't wanna give them any more ammunition than they already have.",
-      "korean": ""
+      "korean": "얘들아 미안, 난 그냥 부모님한테 트집 잡힐 빌미를 더 주고 싶지 않을 뿐이야.",
+      "explanation": "ammunition = 원뜻은 '탄약'이지만 비유적으로 '남을 공격·비난할 때 쓸 거리(빌미·꼬투리)'. 'give them ammunition' = (부모님께) 트집 잡힐 빌미를 주다.",
+      "examples": [
+        "Don't give your critics any ammunition."
+      ]
     },
     {
       "type": "dialogue",
@@ -271,19 +341,28 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way.",
-      "korean": ""
+      "korean": "모니카- 야! 너 무서워. 너 완전 안절부절 호들갑 떨고 있어. 그것도 안 좋은 쪽으로.",
+      "explanation": "'chaotic and twirly'의 twirly(빙글빙글 도는)는 정식 단어가 아니라 즉흥 조어로, '안절부절 못하며 부산스럽게 구는' 모습을 익살스럽게 표현(앞서 조이도 같은 표현을 씀)."
     },
     {
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.",
-      "korean": ""
+      "korean": "너처럼 안절부절 호들갑 떨지는 않잖아.",
+      "explanation": "'chaotic and twirly'의 twirly(빙글빙글 도는)는 정식 단어라기보다 즉흥 조어로, '안절부절 못하며 부산 떠는' 모습을 익살스럽게 표현. (get all + 형용사 = 잔뜩 ~한 상태가 되다)",
+      "examples": [
+        "Don't get all worked up about it."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
-      "korean": ""
+      "korean": "부모님한텐 로스는 뭘 해도 잘못이 없거든. 걔가 왕자님이야.",
+      "explanation": "can do no wrong = 무슨 짓을 해도 흠잡히지 않다(편애받는 대상). the Prince = 집안에서 떠받들어지는 존재라는 비유.",
+      "examples": [
+        "In her eyes, her son can do no wrong."
+      ]
     },
     {
       "type": "dialogue",
@@ -301,7 +380,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Ugly Naked Guy got a Thighmaster!",
-      "korean": ""
+      "korean": "'벗은 못생긴 남자'가 사이마스터를 샀어!",
+      "explanation": "Thighmaster = 1990년대 미국에서 유행한 허벅지 운동기구(배우 Suzanne Somers의 광고로 유명). 'Ugly Naked Guy'는 친구들이 건너편 건물에서 늘 관찰하던 인물."
     },
     {
       "type": "dialogue",
@@ -341,7 +421,12 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Oh, like I wasn't dreading tomorrow enough, having to give it back to him... 'Hi Barry! Remember me? I'm the girl in the veil who stomped on your heart in front of your entire family!' Oh God and now I'm gonna have to return the ring, without the ring, which makes it so much harder...",
-      "korean": ""
+      "korean": "내일 반지 돌려줘야 하는 것만으로도 충분히 끔찍한데… 이젠 반지도 없이 반지를 돌려줘야 하니 훨씬 더 힘들어졌어…",
+      "explanation": "dread = 다가올 일을 몹시 두려워하다/생각만 해도 끔찍해하다. 'dreading tomorrow' = 내일이 오는 게 너무 싫고 두렵다.",
+      "examples": [
+        "I'm dreading the dentist appointment.",
+        "She dreads public speaking."
+      ]
     },
     {
       "type": "dialogue",
@@ -365,13 +450,15 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Doy! Probably right before she lost it!",
-      "korean": ""
+      "korean": "당연하지! 아마 잃어버리기 직전에 끼고 있었겠지!",
+      "explanation": "Doy! = 'Duh!(당연한 걸 묻네)'의 옛날식/유아적 변형. '뻔하잖아'라는 핀잔."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "You don't get a lot of 'doy' these days...",
-      "korean": ""
+      "korean": "요즘은 'doy'라는 말 잘 안 쓰는데.",
+      "explanation": "챈들러가 피비의 옛날 말투('doy')를 두고 '요새 그런 말 잘 안 들린다'며 받아치는 농담. (앞 대사의 doy를 받음)"
     },
     {
       "type": "dialogue",
@@ -383,7 +470,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "...Dinah?",
-      "korean": ""
+      "korean": "…다이나랑? (노래 가사에 빗댄 말장난)",
+      "explanation": "레이첼이 '부엌에 …와 있었다'고 하자, 챈들러가 전래 동요 'I've Been Working on the Railroad'의 한 구절 'someone's in the kitchen with Dinah'를 떠올려 'Dinah?'라고 받아치는 말장난."
     },
     {
       "type": "dialogue",
@@ -407,7 +495,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I gave you one job! (Starts to examin the lasagne through the bottom of the glass pan.)",
-      "korean": ""
+      "korean": "너한테 딱 한 가지 일 시켰잖아!",
+      "explanation": "'I gave you one job!' = 딱 한 가지만 맡겼는데 그걸 망쳤냐는 핀잔으로 흔히 쓰는 표현.",
+      "examples": [
+        "You had one job!"
+      ]
     },
     {
       "type": "dialogue",
@@ -477,7 +569,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
-      "korean": ""
+      "korean": "그 베개 소동이 갑자기 별것 아닌 일로 보이지, 모니카?",
+      "explanation": "put ~ in(to) perspective = ~을 (더 큰 일과 견줘) 별것 아닌 일로/제대로 보이게 하다. 로스의 큰 소식 앞에서 베개 타령이 사소해 보인다는 뜻.",
+      "examples": [
+        "A trip like that really puts things in perspective."
+      ]
     },
     {
       "type": "dialogue",
@@ -507,13 +603,15 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "I mean presumably, the biggest part of your job is done.",
-      "korean": ""
+      "korean": "어차피 네 역할에서 제일 큰 부분은 이미 끝났잖아.",
+      "explanation": "챈들러의 짓궂은 농담 — 로스의 '역할(job)' 중 가장 큰 부분(= 아이를 만든 일)은 이미 다 했다는 성적 뉘앙스의 빈정."
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Anyway, they want me to go down to this- sonogram thing with them tomorrow.",
-      "korean": ""
+      "korean": "내일 (태아) 초음파 검사에 같이 가자고 해.",
+      "explanation": "sonogram = 초음파로 태아를 보는 검사(영상). 이 에피소드 제목('the sonogram at the end')과도 연결됨."
     },
     {
       "type": "dialogue",
@@ -569,7 +667,11 @@
       "type": "dialogue",
       "speaker": "Mr. Geller",
       "english": "(To Ross) Do you remember the Ludwins? The big one had a thing for you, didn't she?",
-      "korean": ""
+      "korean": "그 큰 애가 너한테 마음 있었잖아, 안 그래?",
+      "explanation": "have a thing for someone = ~에게 (은근히) 마음이 있다/끌리다.",
+      "examples": [
+        "I think she has a thing for you."
+      ]
     },
     {
       "type": "dialogue",
@@ -629,7 +731,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
-      "korean": ""
+      "korean": "그 임신/레즈비언 얘기 꺼낼 거야? 나한테 쏠린 관심이 좀 분산될 것 같아서.",
+      "explanation": "take the heat off (someone) = ~에게 쏠린 비난·관심·압박을 덜어 주다. (the heat = 비난/압박)",
+      "examples": [
+        "The new scandal took the heat off the mayor."
+      ]
     },
     {
       "type": "direction",
@@ -639,7 +745,11 @@
       "type": "dialogue",
       "speaker": "Mrs. Geller",
       "english": "What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.",
-      "korean": ""
+      "korean": "클럽에서 걔네 부모를 우연히 마주쳤는데, 영 안 좋아 보이더라.",
+      "explanation": "run into ~ = ~을 우연히 마주치다. 'not playing very well'은 클럽(골프·테니스)에서 '경기가 잘 안 풀린다'는 말이자 딸 일로 '상태가 안 좋다'는 뜻을 겹친 말.",
+      "examples": [
+        "I ran into an old friend downtown."
+      ]
     },
     {
       "type": "dialogue",
@@ -651,7 +761,8 @@
       "type": "dialogue",
       "speaker": "Mrs. Geller",
       "english": "Well, at least she had the chance to leave a man at the altar...",
-      "korean": ""
+      "korean": "그래도 걘 결혼식장에서 신랑을 버려 보기라도 했지.",
+      "explanation": "leave someone at the altar = 결혼식 제단(altar) 앞에서 상대를 두고 떠나다 = 결혼식 당일 파혼하다."
     },
     {
       "type": "dialogue",
@@ -685,7 +796,11 @@
       "type": "dialogue",
       "speaker": "Mr. Geller",
       "english": "Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer.",
-      "korean": ""
+      "korean": "로스처럼 별을 향해 높이 도전해야 하는 사람도 있고…",
+      "explanation": "shoot for the stars = 큰 꿈/높은 목표를 향해 도전하다.",
+      "examples": [
+        "Shoot for the stars, but have a backup plan."
+      ]
     },
     {
       "type": "direction",
@@ -695,19 +810,28 @@
       "type": "dialogue",
       "speaker": "Mr. Geller",
       "english": "...And I read about these women trying to have it all, and I thank God 'Our Little Harmonica' doesn't seem to have that problem.",
-      "korean": ""
+      "korean": "다 가지려는(일도 가정도) 여자들 얘기를 읽는데, 우리 '작은 하모니카'는 그런 고민 없어 다행이야.",
+      "explanation": "have it all = (커리어·가정 등) 모든 걸 다 갖추다. 'Our Little Harmonica'는 Monica를 harmonica(하모니카)에 빗댄 아버지의 애칭 말장난."
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
-      "korean": ""
+      "korean": "식구들한테 들려줄 얘깃거리 없어?",
+      "explanation": "folks = (구어) 식구들, 특히 부모님. 'share with the folks' = 가족들한테 들려주다.",
+      "examples": [
+        "How are your folks doing?"
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(pulls his hand away) Okay! Okay. (To his parents) Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.",
-      "korean": ""
+      "korean": "자, 사정은 이래.",
+      "explanation": "here's the deal = '상황·요점을 정리하면 이래'라며 본론을 꺼낼 때 쓰는 표현.",
+      "examples": [
+        "Okay, here's the deal: we split the cost."
+      ]
     },
     {
       "type": "direction",
@@ -767,7 +891,11 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Yeah. We don't speak. She's like this high-powered, driven career type.",
-      "korean": ""
+      "korean": "걘 완전 잘나가는 야심가 스타일이야.",
+      "explanation": "high-powered = 정력적이고 잘나가는; driven = 목표 지향적이고 추진력 강한. 바로 뒤 '직업은 웨이트리스'라는 반전으로 웃기는 장면.",
+      "examples": [
+        "She's a driven, high-powered executive."
+      ]
     },
     {
       "type": "dialogue",
@@ -867,13 +995,21 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "So, got any advice? Y'know, as someone who's recently been- dumped?",
-      "korean": ""
+      "korean": "최근에 차인 사람으로서, 조언 좀 해줄래?",
+      "explanation": "get/be dumped = (연인에게) 차이다. dump someone = ~를 차다.",
+      "examples": [
+        "He got dumped right before the holidays."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...",
-      "korean": ""
+      "korean": "'차였다(dumped)'는 말은 피하는 게 좋아. 걘 아마 껍데기만 남은 폐인 꼴일 테니…",
+      "explanation": "steer clear of ~ = ~을 (의도적으로) 피하다. a broken shell of a man = (충격으로) 껍데기만 남은 사람. OB/GYN = 산부인과(obstetrics & gynecology).",
+      "examples": [
+        "Steer clear of that topic at dinner."
+      ]
     },
     {
       "type": "dialogue",
@@ -885,7 +1021,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Got me.",
-      "korean": ""
+      "korean": "글쎄, 나도 모르겠어.",
+      "explanation": "'(You) got me.' = '모르겠어/내가 졌다'. 질문에 답을 모를 때 쓰는 구어."
     },
     {
       "type": "dialogue",
@@ -1077,7 +1214,8 @@
       "type": "dialogue",
       "speaker": "Bernice",
       "english": "(over intercom) Dr. Farber, Jason Greenstein's gagging.",
-      "korean": ""
+      "korean": "파버 선생님, 제이슨 그린스틴이 캑캑거려요(구역질해요).",
+      "explanation": "gag = 구역질하다/캑캑거리다(목구멍이 막혀 욱하는 것). 치과라 환자가 기구 때문에 구역질하는 상황."
     },
     {
       "type": "dialogue",
@@ -1175,7 +1313,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?",
-      "korean": ""
+      "korean": "상황 따라 유연하게 가야지. 'Julia'도 후보로 올라 있다고 봐.",
+      "explanation": "roll with the punches = (권투에서 유래) 닥치는 상황에 맞춰 유연하게 대처하다. on the table = (제안이) 논의 대상에 올라 있다.",
+      "examples": [
+        "You've got to roll with the punches.",
+        "That offer is still on the table."
+      ]
     },
     {
       "type": "scene",
@@ -1245,19 +1388,28 @@
       "type": "dialogue",
       "speaker": "Barry",
       "english": "Yeah, well, uh, we're kind of a thing now.",
-      "korean": ""
+      "korean": "그게, 우리 이제 좀 사귀는 사이야.",
+      "explanation": "be a thing = (연인으로) 사귀는 사이다, 뭔가 있는 관계다. (구어)",
+      "examples": [
+        "Are you two a thing now?"
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Oh! Well, um.. (Grabs his forehand) You've got plugs!",
-      "korean": ""
+      "korean": "너 모발이식 했구나!",
+      "explanation": "(hair) plugs = 모발 이식(두피에 머리카락을 심는 것). 레이첼이 배리의 달라진 모습을 알아채는 장면."
     },
     {
       "type": "dialogue",
       "speaker": "Barry",
       "english": "Careful! They haven't quite taken yet.",
-      "korean": ""
+      "korean": "조심해! 아직 완전히 자리 안 잡았어.",
+      "explanation": "take(자동사) = (이식·접목 등이) 자리잡다/성공적으로 정착하다. 'haven't taken yet' = 아직 안착하지 않음.",
+      "examples": [
+        "The skin graft didn't take."
+      ]
     },
     {
       "type": "dialogue",
@@ -1415,7 +1567,11 @@
       "type": "dialogue",
       "speaker": "Carol",
       "english": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
-      "korean": ""
+      "korean": "그건 거의 아동 학대 수준이야.",
+      "explanation": "border on ~ = ~에 가깝다/~이라 할 정도다 (주로 부정적 정도를 강조).",
+      "examples": [
+        "His behavior borders on rude."
+      ]
     },
     {
       "type": "dialogue",
@@ -1427,7 +1583,12 @@
       "type": "dialogue",
       "speaker": "Susan",
       "english": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
-      "korean": ""
+      "korean": "결국 다들 걔를 그냥 'Geller'라고 부르게 될 거고, 그럼 쟤 뜻대로 되는 거지!",
+      "explanation": "wind up -ing = 결국 ~하게 되다. get one's (own) way = 자기 뜻대로 하다/관철하다.",
+      "examples": [
+        "We wound up taking a cab.",
+        "He always gets his way."
+      ]
     },
     {
       "type": "dialogue",
@@ -1451,7 +1612,11 @@
       "type": "dialogue",
       "speaker": "Dr. Oberman",
       "english": "Well, I was just wondering about the mother-to-be, but.. thanks for sharing. (To Carol) Uh, lie back..",
-      "korean": ""
+      "korean": "난 예비 엄마(임신부) 얘기였는데… 어쨌든 공유 고마워요.",
+      "explanation": "mother-to-be = 곧 엄마가 될 사람(임신부). '명사-to-be'는 '곧 ~가 될'(bride-to-be 예비 신부 등).",
+      "examples": [
+        "The bride-to-be looked nervous."
+      ]
     },
     {
       "type": "dialogue",
@@ -1505,7 +1670,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "I dunno, but.. I think it's about to attack the Enterprise.",
-      "korean": ""
+      "korean": "모르겠는데, 곧 엔터프라이즈호를 공격할 것 같은데.",
+      "explanation": "the Enterprise = SF 드라마 '스타트렉'의 우주선. 초음파 영상이 SF처럼 보인다며 빗댄 농담."
     },
     {
       "type": "dialogue",
@@ -1535,7 +1701,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(welling up) Mm-hmm.",
-      "korean": ""
+      "korean": "(눈물이 그렁그렁 차오르며)",
+      "explanation": "well up = (눈물이) 그렁그렁 차오르다.",
+      "examples": [
+        "Her eyes welled up with tears."
+      ]
     },
     {
       "type": "dialogue",
@@ -1577,7 +1747,11 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "(on phone) Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose. (Slams the phone down.) (To everyone) Okay, I know it was a cheap shot, but I feel so much better now.",
-      "korean": ""
+      "korean": "치사한 한 방인 거 아는데, 그래도 속이 후련하네.",
+      "explanation": "cheap shot = 비열한/치사한 공격(말). 'his old hairline and your old nose'는 배리의 모발이식과 민디의 코 성형을 겨냥한 빈정.",
+      "examples": [
+        "That was a cheap shot."
+      ]
     },
     {
       "type": "section",

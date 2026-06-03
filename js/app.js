@@ -196,8 +196,8 @@ function renderLine(line, no) {
   if (line.korean) {
     detail.push(`<p class="korean">${renderSegments(line.korean)}</p>`);
   }
-  if (line.nuance) {
-    detail.push(`<p class="nuance">${escapeHTML(line.nuance)}</p>`);
+  if (line.explanation) {
+    detail.push(`<p class="explanation">${escapeHTML(line.explanation)}</p>`);
   }
   if (Array.isArray(line.examples) && line.examples.length > 0) {
     const items = line.examples.map((ex) => `<li>${escapeHTML(ex)}</li>`).join("");

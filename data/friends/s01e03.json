@@ -49,7 +49,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Uh, no. Loosely translated 'We should do this again' means 'You will never see me naked'.",
-      "korean": ""
+      "korean": "아니. 의역하면 '또 만나자'는 '넌 날 벗은 모습으로 절대 못 볼 거야'라는 뜻이야.",
+      "explanation": "loosely translated = (직역이 아니라) 의역하면/속뜻을 풀이하면. 데이트에서 하는 빈말의 진짜 속뜻을 농담으로 풀어주는 장면.",
+      "examples": [
+        "Loosely translated, 'I'm busy' means 'I don't want to go'."
+      ]
     },
     {
       "type": "dialogue",
@@ -61,7 +65,8 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Since always. It's like dating language. Y'know, like 'It's not you' means 'It is you'.",
-      "korean": ""
+      "korean": "원래 늘 그래. 그게 연애 화법이라는 거야. 그 왜, '너 때문이 아니야'가 사실 '너 때문이야'인 것처럼.",
+      "explanation": "dating language = 연인 사이에서 돌려 말하는 관용적 화법. 'It's not you(네 탓이 아니야)'는 헤어질 때 쓰는 대표적 상투어로, 실은 상대 탓이라는 농담."
     },
     {
       "type": "dialogue",
@@ -85,13 +90,18 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Yeah. Cushions the blow.",
-      "korean": ""
+      "korean": "응. 충격을 좀 덜어주는 거지.",
+      "explanation": "cushion the blow (= soften the blow) = (나쁜 소식의) 충격을 완화하다.",
+      "examples": [
+        "He broke the news gently to cushion the blow."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
-      "korean": ""
+      "korean": "어릴 때 부모님이 키우던 개를 안락사시키고는, 개가 어디 농장 가서 산다고 둘러대는 거랑 같지.",
+      "explanation": "put (a pet) to sleep = (동물을) 안락사시키다(완곡 표현). 'went off to live on a farm'은 그 사실을 아이에게 숨기려고 부모가 둘러대는 전형적인 거짓말 클리셰."
     },
     {
       "type": "dialogue",
@@ -159,7 +169,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "\"Smoke away.\"",
-      "korean": ""
+      "korean": "마음껏 피워.",
+      "explanation": "동사 + away = '마음껏/실컷 ~해'. Smoke away = 실컷 피워, Ask away = 얼마든지 물어봐.",
+      "examples": [
+        "You have questions? Ask away."
+      ]
     },
     {
       "type": "direction",
@@ -349,7 +363,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Oh, Satan's minions at work again...",
-      "korean": ""
+      "korean": "오, 사탄의 졸개들이 또 일을 벌이는군…",
+      "explanation": "minion = (우두머리의) 졸개/부하. 은행을 '사탄의 졸개들'이라 부르며 비꼬는 챈들러식 농담."
     },
     {
       "type": "dialogue",
@@ -395,7 +410,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Okay. I'd- just- I'd never be able to enjoy it. It would be like this giant karmic debt.",
-      "korean": ""
+      "korean": "그건 엄청난 업보의 빚 같은 게 될 거야.",
+      "explanation": "karmic debt = 카르마(업)의 빚 — 불교·힌두교의 업보 개념으로, 나쁜 짓을 하면 나중에 갚게 된다는 믿음. 영적인 피비다운 표현."
     },
     {
       "type": "dialogue",
@@ -547,13 +563,22 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I mean, why should I let them meet him? I mean, I bring a guy home, and within five minutes they're all over him. I mean, they're like- coyotes, picking off the weak members of the herd.",
-      "korean": ""
+      "korean": "남자를 집에 데려오면 5분 안에 다들 달려들어. 꼭 코요테가 무리에서 약한 놈을 골라 잡아채는 것 같다니까.",
+      "explanation": "be all over someone = ~에게 우르르 달려들다/들러붙다. pick off = (하나씩) 골라서 잡아채다/처치하다. the herd = (짐승) 무리. 친구들을 약한 먹잇감을 노리는 코요테에 빗댄 비유.",
+      "examples": [
+        "The reporters were all over the celebrity."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Paula",
       "english": "Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.",
-      "korean": ""
+      "korean": "형편없는 남자라면 남들보다 훨씬 많이 겪어본 사람으로서 말하는데, 그건 그렇게 나쁜 게 아니야. 친구들이 널 챙겨주는 거잖아.",
+      "explanation": "(more than) one's fair share of ~ = (남들보다) 많이/충분히 겪다. bad beef = (소고기에 빗대어) 형편없는 남자. look out for someone = ~를 챙기다/지켜주다 (대사의 'look out after'는 look out for/after가 섞인 구어).",
+      "examples": [
+        "I've had my fair share of bad luck.",
+        "Good friends look out for each other."
+      ]
     },
     {
       "type": "dialogue",
@@ -565,7 +590,11 @@
       "type": "dialogue",
       "speaker": "Paula",
       "english": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..",
-      "korean": ""
+      "korean": "친구들이 그 남자를 아예 못 만나면, 그렇게 될 가능성은 좀 더 희박해진다는 거 알지.",
+      "explanation": "the odds (of) = 가능성/확률. slim = (가능성이) 희박한, slimmer = 더 희박한.",
+      "examples": [
+        "The odds of winning are slim."
+      ]
     },
     {
       "type": "scene",
@@ -629,7 +658,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "'Dear Ms. Buffay. Thank you for calling attention to our error. We have credited your account with five hundred dollars. We're sorry for the inconvenience, and hope you'll accept this- (Searches in her purse) -football phone as our free gift.' Do you believe this?! Now I have a thousand dollars, and a football phone!",
-      "korean": ""
+      "korean": "'계좌에 500달러를 입금해 드렸습니다… 사은품으로 이 미식축구공 전화기를 받아 주세요.' 이게 말이 돼?!",
+      "explanation": "credit one's account = (은행이) 계좌에 입금 처리하다. football phone = 미식축구공 모양 전화기 — 1990년대 Sports Illustrated 잡지 구독 사은품으로 유명했던 물건."
     },
     {
       "type": "dialogue",
@@ -695,7 +725,8 @@
       "type": "dialogue",
       "speaker": "Alan",
       "english": "I've heard schho much about all you guyschh!",
-      "korean": ""
+      "korean": "여러분 얘기 정말 많이 들었어요!",
+      "explanation": "Alan의 대사에 섞인 'schh' 철자는 혀가 짧은 듯한(슬러시) 발음을 글자로 표기한 것. 공교롭게 앞서 챈들러가 흉내 낸 말투(Schhteve)와 겹치는 설정."
     },
     {
       "type": "direction",
@@ -709,7 +740,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(to Alan) Thanks. I'll call you tomorrow. (Alan exits, to all) Okay. Okay, let's let the Alan-bashing begin. Who's gonna take the first shot, hmm?",
-      "korean": ""
+      "korean": "자, 이제 앨런 험담 시작하자. 누가 먼저 포문 열래?",
+      "explanation": "bashing = 헐뜯기/맹비난 ('Alan-bashing' = 앨런 험담). take the first shot = 먼저 한마디 하다/포문을 열다.",
+      "examples": [
+        "The press loves a good celebrity-bashing."
+      ]
     },
     {
       "type": "direction",
@@ -779,7 +814,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "From the nursery rhyme. 'There was a crooked man, Who had a crooked smile, Who lived in a shoe, For a... while...'",
-      "korean": ""
+      "korean": "그 동요에 나오잖아. '비뚤어진 남자가 있었는데…' 하는.",
+      "explanation": "nursery rhyme = 전래 동요/자장가. 피비가 'There Was a Crooked Man'이라는 영미권 전통 동요를 (엉터리로) 인용하는 장면. (crooked = 비뚤어진)"
     },
     {
       "type": "direction",
@@ -789,7 +825,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "...So I think Alan will become the yardstick against which all future boyfriends will be measured.",
-      "korean": ""
+      "korean": "앨런이 앞으로 만날 남자친구들을 재는 잣대가 될 것 같아.",
+      "explanation": "yardstick = (평가의) 잣대/기준. 'the yardstick against which X is measured' = X를 가늠하는 기준.",
+      "examples": [
+        "Profit isn't the only yardstick of success."
+      ]
     },
     {
       "type": "dialogue",
@@ -807,7 +847,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Oh, yeah. I'd marry him just for his David Hasselhof impression alone. You know I'm gonna be doing that at parties, right? (Does the impression)",
-      "korean": ""
+      "korean": "걔 데이비드 해셀호프 성대모사 하나만으로도 결혼하겠어.",
+      "explanation": "David Hasselhoff = 미국 배우(드라마 'Knight Rider', 'Baywatch'로 유명). impression = 성대모사/흉내."
     },
     {
       "type": "dialogue",
@@ -875,7 +916,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "He was unbelievable. He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...",
-      "korean": ""
+      "korean": "벅스 버니가 야구에서 모든 포지션을 혼자 다 보는 그 만화 있잖아. 근데 벅스 대신 1루도 앨런, 2루도 앨런, 3루도…",
+      "explanation": "Bugs Bunny = 미국 애니메이션 캐릭터. 벅스가 야구 수비를 혼자 다 하는 'Baseball Bugs' 편을 가리킴 — 앨런이 혼자 다 잘했다는 뜻."
     },
     {
       "type": "dialogue",
@@ -887,7 +929,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Yep, we sure showed those Hassidic jewellers a thing or two about softball..",
-      "korean": ""
+      "korean": "그 하시딕 보석상들한테 소프트볼이 뭔지 제대로 본때를 보여줬지.",
+      "explanation": "show someone a thing or two = ~에게 본때를 보여주다/한 수 가르쳐 주다. Hassidic jewellers = 하시딕(정통파) 유대인 보석상 — 뉴욕 보석 거리에 많아 동네 리그 상대팀을 가리킴.",
+      "examples": [
+        "She showed them a thing or two about negotiating."
+      ]
     },
     {
       "type": "dialogue",
@@ -917,7 +963,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Yeah, it's his, uh, innate Alan-ness that-that-that we adore.",
-      "korean": ""
+      "korean": "맞아, 우리가 좋아하는 건 바로 걔 특유의 '앨런다움'이지.",
+      "explanation": "innate = 타고난. '-ness'는 '~함/~인 성질'을 만드는 접미사인데, 여기선 이름 Alan에 붙여 'Alan-ness(앨런다움)'라는 우스운 조어를 만든 말장난."
     },
     {
       "type": "dialogue",
@@ -957,7 +1004,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Yes. But I left in the Ys. 'Cause, y'know, \"sometimes y\". Uh, I also have something else for you. (She searches in her purse.)",
-      "korean": ""
+      "korean": "근데 Y는 남겨뒀어. 왜, '가끔은 y'라고 하잖아.",
+      "explanation": "영어 모음을 외울 때 'a, e, i, o, u, and sometimes y(가끔은 y)'라고 가르치는데, 피비가 알파벳 수프에서 모음을 골라내며 그 규칙을 농담으로 적용한 것."
     },
     {
       "type": "dialogue",
@@ -1011,7 +1059,8 @@
       "type": "dialogue",
       "speaker": "Lizzie",
       "english": "Would you like my tin-foil hat?",
-      "korean": ""
+      "korean": "내 은박지 모자 줄까?",
+      "explanation": "tin-foil hat = 은박지(쿠킹포일)로 만든 모자 — '전파·감시로부터 머리를 지킨다'고 믿는 편집증·음모론자의 상징. 리지가 길에서 지내는 괴짜임을 보여줌."
     },
     {
       "type": "dialogue",
@@ -1029,7 +1078,11 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Okay, alright, you buy me a soda, and then we're even. Okay?",
-      "korean": ""
+      "korean": "그럼 네가 음료수 하나 사줘, 그럼 우리 비긴 거야.",
+      "explanation": "we're even = (주고받은 게 같아) 비겼다/빚진 거 없다.",
+      "examples": [
+        "Pay me back the five bucks and we're even."
+      ]
     },
     {
       "type": "dialogue",
@@ -1055,7 +1108,8 @@
       "type": "dialogue",
       "speaker": "Lizzie",
       "english": "Keep the change. (To Phoebe) Sure you don't wanna pretzel?",
-      "korean": ""
+      "korean": "잔돈은 가지세요.",
+      "explanation": "Keep the change. = (거스름돈을 안 받을 때) 잔돈은 가지세요 — 식당·택시 등에서 팁처럼 흔히 쓰는 표현."
     },
     {
       "type": "dialogue",
@@ -1103,13 +1157,15 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!",
-      "korean": ""
+      "korean": "안에 그냥 둥둥 떠 있더라고, 꼭 조그만 히치하이커처럼!",
+      "explanation": "hitch-hiker = 차를 얻어 타려고 엄지를 치켜드는 사람. 캔에서 나온 '엄지손가락(thumb)'을 엄지를 드는 히치하이킹 동작에 빗댄 말장난."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Well, maybe it's a contest, y'know? Like, collect all five?",
-      "korean": ""
+      "korean": "뭐 일종의 이벤트 아닐까? '다섯 개 모으기' 같은?",
+      "explanation": "'Collect all five/six!'는 과자·완구 등에서 여러 종을 다 모으게 유도하는 마케팅 문구. 손가락이 또 나올지도 모른다는 챈들러의 농담."
     },
     {
       "type": "dialogue",
@@ -1131,7 +1187,11 @@
       "type": "dialogue",
       "speaker": "All",
       "english": "Oh, hey, don't do that! Cut it out!",
-      "korean": ""
+      "korean": "야, 그러지 마! 그만해!",
+      "explanation": "Cut it out! = 그만해!/집어치워! (짜증 섞인 제지).",
+      "examples": [
+        "Cut it out, you two!"
+      ]
     },
     {
       "type": "dialogue",
@@ -1155,7 +1215,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "So I have a flaw! Big deal! Like Joey's constant knuckle-cracking isn't annoying? And Ross, with his over-pronouncing every single word? And Monica, with that snort when she laughs? I mean, what the hell is that thing? ...I accept all those flaws, why can't you accept me for this?",
-      "korean": ""
+      "korean": "그래, 나도 단점 하나 있다! 그게 뭐 대수라고! …모니카는 웃을 때 그 콧소리 내잖아?",
+      "explanation": "Big deal! = 그게 뭐 대수라고/별것 아니네 (반어적 무시). snort = 웃을 때 코로 '킁' 하고 내는 소리. flaw = 결점/흠.",
+      "examples": [
+        "So you're late. Big deal."
+      ]
     },
     {
       "type": "direction",
@@ -1187,7 +1251,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Oh, now, don't listen to him, Pheebs, I think it's endearing.",
-      "korean": ""
+      "korean": "신경 쓰지 마, 피비. 난 그게 오히려 사랑스럽다고 생각해.",
+      "explanation": "endearing = (행동·버릇이) 사랑스러운/정이 가는.",
+      "examples": [
+        "Her clumsiness is oddly endearing."
+      ]
     },
     {
       "type": "dialogue",
@@ -1221,7 +1289,11 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on.",
-      "korean": ""
+      "korean": "머리카락이 나오고, 이제 본격적으로 싸울 태세네.",
+      "explanation": "the gloves are/come off = (봐주기 없이) 본격적으로 맞붙다 (권투 글러브를 벗고 맨주먹으로 싸운다는 데서 유래). 피비가 화나면 머리를 씹는 설정과 엮어 'gloves come on'으로 비틂.",
+      "examples": [
+        "Once the talks broke down, the gloves came off."
+      ]
     },
     {
       "type": "direction",
@@ -1277,7 +1349,11 @@
       "type": "dialogue",
       "speaker": "Paula",
       "english": "Well, he's a big boy, he'll get over it.",
-      "korean": ""
+      "korean": "걘 다 큰 어른이니까, 알아서 잘 추스를 거야.",
+      "explanation": "a big boy/girl = 다 큰 어른(스스로 감당할 수 있는). get over it = (실연·충격을) 극복하다/잊다.",
+      "examples": [
+        "Don't worry about him - he'll get over it."
+      ]
     },
     {
       "type": "dialogue",
@@ -1305,7 +1381,12 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease. The bottom line is, smoking is cool, and you know it.",
-      "korean": ""
+      "korean": "야, 너희들이랑 암이니 폐기종이니 심장병이니 하는 얘기 이제 지긋지긋해. 결론은, 담배는 멋있고 너희도 그걸 알잖아.",
+      "explanation": "have had it with ~ = ~에 질리다/넌더리 나다. the bottom line is ~ = 결론은/핵심은 ~다.",
+      "examples": [
+        "I've had it with these delays.",
+        "The bottom line is, we can't afford it."
+      ]
     },
     {
       "type": "dialogue",
@@ -1329,7 +1410,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "If only he were a woman.",
-      "korean": ""
+      "korean": "걔가 여자이기만 했어도 (좋았을 텐데).",
+      "explanation": "If only + 과거형(were) = ~이기만 하면/했더라면 좋을 텐데 (현재 사실의 반대를 아쉬워하는 가정법). 가정법에선 was 대신 were를 흔히 씀.",
+      "examples": [
+        "If only I were taller."
+      ]
     },
     {
       "type": "dialogue",
@@ -1349,7 +1434,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Ooh, Lambchop. How old is that sock? If I had a sock on my hand for thirty years it'd be talking too.",
-      "korean": ""
+      "korean": "오, 램찹이네. 저 양말 도대체 몇 년 된 거야?",
+      "explanation": "Lamb Chop = 미국 어린이 프로그램의 양 모양 양말 인형(진행자 Shari Lewis). 손인형이라 '양말'이라고 농담한 것."
     },
     {
       "type": "dialogue",
@@ -1391,7 +1477,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "(deadpan) Ooh, I'm alive with pleasure now.",
-      "korean": ""
+      "korean": "(무표정하게) 오, 이제 기쁨이 넘쳐 살아나는군.",
+      "explanation": "deadpan = 무표정하게 (농담을) 던지는. 'Alive with pleasure!'는 옛 담배(Newport) 광고 슬로건으로, 니코틴 패치를 붙인 챈들러가 이를 비꼬아 읊은 것."
     },
     {
       "type": "dialogue",
@@ -1533,7 +1620,11 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "You know.. you let your guard down, you start to really care about someone, and I just- I- (starts chewing her hair)",
-      "korean": ""
+      "korean": "경계를 풀고 누군가를 진심으로 아끼기 시작하면…",
+      "explanation": "let your guard down = 경계를 풀다/마음의 빗장을 내리다.",
+      "examples": [
+        "He finally let his guard down and opened up."
+      ]
     },
     {
       "type": "dialogue",
@@ -1639,7 +1730,11 @@
       "type": "dialogue",
       "speaker": "Alan",
       "english": "Yeah, well, I had a great time with you.. I just can't stand your friends.",
-      "korean": ""
+      "korean": "너랑은 정말 즐거웠어… 그런데 네 친구들은 도저히 못 견디겠더라.",
+      "explanation": "can't stand ~ = ~을 못 견디다/질색이다. 앨런이 모니카는 좋아했지만 친구들은 질색이었다는 반전.",
+      "examples": [
+        "I can't stand the smell of cigarettes."
+      ]
     },
     {
       "type": "section",

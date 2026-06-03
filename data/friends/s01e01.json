@@ -19,7 +19,12 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "C'mon, you're going out with the guy! There's gotta be something wrong with him!",
-      "korean": ""
+      "korean": "분명 그 사람한테 뭔가 문제가 있을 거라고!",
+      "explanation": "gotta = (have) got to의 구어. 'there's gotta be ~'는 '분명/틀림없이 ~가 있을 거야'라는 강한 추측·확신.",
+      "examples": [
+        "There's gotta be a better way to do this.",
+        "There's gotta be a reason he left."
+      ]
     },
     {
       "type": "dialogue",
@@ -156,7 +161,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(mortified) Hi.",
-      "korean": ""
+      "korean": "(몹시 창피하고 풀이 죽은 채로) 안녕.",
+      "explanation": "mortified = 쥐구멍에 숨고 싶을 만큼 몹시 창피한/면목 없는. 이혼 직후라 풀 죽은 로스의 상태. (철자는 mortified)",
+      "examples": [
+        "I was mortified when I forgot her name in front of everyone."
+      ]
     },
     {
       "type": "dialogue",
@@ -220,7 +229,12 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Ooh! Oh! (She starts to pluck at the air just in front of Ross.)",
-      "korean": ""
+      "korean": "(허공을 집어 뜯듯 잡아당기며)",
+      "explanation": "pluck = 손가락으로 집어 뽑다/잡아당기다(눈썹을 뽑다, 기타 줄을 튕기다 등). 여기선 피비가 로스의 '기운(aura)'을 정화한다며 허공을 집는 시늉. pluck at ~ = ~을 가볍게 잡아당기다.",
+      "examples": [
+        "She plucked a grape from the bunch.",
+        "He plucked at the guitar strings."
+      ]
     },
     {
       "type": "dialogue",
@@ -267,7 +281,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?",
-      "korean": ""
+      "korean": "왜 다들 그것만 물고 늘어지는 거야?",
+      "explanation": "fixate on ~ = ~에 (지나치게) 집착하다/계속 꽂혀 있다. 여기선 '왜 다들 그 얘기에만 매달리냐'는 짜증.",
+      "examples": [
+        "Don't fixate on one bad review."
+      ]
     },
     {
       "type": "dialogue",
@@ -390,7 +408,8 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
-      "korean": ""
+      "korean": "결혼식 30분 전쯤, 선물 놔두는 방에서 그레이비 그릇을 보고 있었는데 갑자기 배리보다 그 그릇한테 더 끌린다는 걸 깨달았어. 겁이 확 나면서 '내가 왜, 누굴 위해 이걸 하지?' 싶더라고. 너랑 좀 멀어진 건 알지만, 이 도시에서 내가 아는 사람은 너뿐이라 왔어.",
+      "explanation": "gravy boat = 고기 요리에 끼얹는 그레이비 소스를 담아 따르는 길쭉한 배 모양 식기. (대사의 'Lamauge'는 고급 도자기 브랜드 Limoges를 잘못 적은 것)"
     },
     {
       "type": "dialogue",
@@ -494,7 +513,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You can see where he'd have trouble.",
-      "korean": ""
+      "korean": "(아버지가) 왜 이해를 못 하실지 알 만하네.",
+      "explanation": "'You can see where he'd have trouble' = '그가 어디서 어려움을 겪을지(왜 이해 못 할지) 알 만하다'. he'd = he would이고, 이 would는 '~할 만하다/그럴 것이다'라는 추측. where는 '어느 지점에서/왜'에 가깝게 쓰임.",
+      "examples": [
+        "I can see where this might get confusing."
+      ]
     },
     {
       "type": "dialogue",
@@ -536,7 +559,8 @@
           "unseen": true
         }
       ],
-      "korean": ""
+      "korean": "(좋은 생각을 떠올리려다 엉뚱한 노래를 엉터리로 흥얼거린다)",
+      "explanation": "피비가 영화 '사운드 오브 뮤직'의 노래 'My Favorite Things'를 엉터리로 흥얼거리는 장면. bluebells = 종 모양의 보라색 야생화. sleighbells = 썰매에 매다는 방울. mittens = 손가락이 갈라지지 않은 벙어리장갑."
     },
     {
       "type": "dialogue",
@@ -548,7 +572,11 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "(grins and walks to the kitchen and says to Chandler and Joey.) I helped!",
-      "korean": ""
+      "korean": "(씩 웃으며)",
+      "explanation": "grin = 이를 드러내고 활짝/씩 웃다. 만족·장난기·뿌듯함이 담긴 웃음. 여기선 피비가 자기가 도움 됐다며 뿌듯하게 씩 웃는 것.",
+      "examples": [
+        "He grinned from ear to ear."
+      ]
     },
     {
       "type": "dialogue",
@@ -652,7 +680,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Ooh, this is a Dear Diary moment.",
-      "korean": ""
+      "korean": "일기에 적어둘 만한 순간이네. (비꼼)",
+      "explanation": "'Dear Diary'는 일기 첫머리에 쓰는 '일기장에게~'. 'a Dear Diary moment'는 '일기에 기록할 만큼 인상적인 순간'을 뜻하며, 여기선 챈들러가 살짝 비꼬듯 던지는 말.",
+      "examples": [
+        "Aww, this is such a Dear Diary moment."
+      ]
     },
     {
       "type": "dialogue",
@@ -834,7 +866,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Right, you're not even getting your honeymoon, God.. No, no, although, Aruba, this time of year... talk about your- (thinks) -big lizards... Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.",
-      "korean": ""
+      "korean": "그래, 넌 신혼여행도 못 가는구나, 참… 아니 근데 이맘때 아루바는… 그 왜, 큰 도마뱀들 말이야… 아무튼 오늘 밤 혼자 있기 싫으면, 조이랑 챈들러가 내 새 가구 조립 도와주러 오거든.",
+      "explanation": "'Talk about ~!' = '~로 말하자면 정말 대단하다'는 강조 감탄. 로스가 아루바의 매력을 어색하게 띄우려다 엉뚱하게 '큰 도마뱀'으로 끝내는 머쓱한 농담. (여기 your는 특정 '너의'가 아니라 일반적 강조용)",
+      "examples": [
+        "Talk about bad timing!",
+        "Talk about a comeback!"
+      ]
     },
     {
       "type": "dialogue",
@@ -906,7 +943,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",
-      "korean": ""
+      "korean": "설명서엔 이 브래킷 같은 걸 옆판에 이 작은 벌레 같은 것들로 붙이라는데, 브래킷 같은 건 없고 벌레 같은 것도 하나도 안 보이고- 다리에 감각이 없어.",
+      "explanation": "가구 조립 설명서를 못 알아본 로스가 부품을 유치하게 부르는 말 — brackety thing(브래킷 비슷한 것), worm guys(벌레처럼 생긴 작은 것들 = 나사·볼트류). whatsoever = 부정문 뒤에서 '전혀'를 강조(no ~ whatsoever = 전혀 ~ 없다).",
+      "examples": [
+        "I have no idea whatsoever.",
+        "There's no doubt whatsoever."
+      ]
     },
     {
       "type": "direction",
@@ -1072,7 +1114,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "My brother's going through that right now, he's such a mess. How did you get through it?",
-      "korean": ""
+      "korean": "걘 지금 완전 엉망이야 (정신을 못 차려).",
+      "explanation": "be a mess = (감정·상태가) 엉망진창이다. 사람에 쓰면 '정신적으로 무너져 엉망인 상태'. 여기선 이혼으로 힘들어하는 오빠(로스)를 가리킴.",
+      "examples": [
+        "After the breakup, she was a complete mess."
+      ]
     },
     {
       "type": "dialogue",
@@ -1090,7 +1136,12 @@
       "type": "dialogue",
       "speaker": "Paul",
       "english": "(laughing) That's one way! Me, I- I went for the watch.",
-      "korean": ""
+      "korean": "(부술 물건으로) 시계를 노렸어.",
+      "explanation": "go for ~ = ~을 택하다/공략하다/노리다. 여기선 '망가뜨릴 대상으로 시계를 골랐다'는 뜻. ('go for it'=한번 해봐 등 다양하게 쓰임)",
+      "examples": [
+        "I'll go for the steak.",
+        "You can do it — go for it!"
+      ]
     },
     {
       "type": "dialogue",
@@ -1104,7 +1155,11 @@
           "unseen": true
         }
       ],
-      "korean": ""
+      "korean": "너 진짜로 걔 시계를 부쉈다고? 와! 내가 한 최악의 짓은 남자친구가 아끼던 목욕 수건을 갈가리 찢은 거야.",
+      "explanation": "shred = (종이·천 등을) 갈가리/잘게 찢다. 여기선 남자친구가 아끼던 수건을 갈기갈기 찢었다는 것. (명사 shredder = 문서 분쇄기. 대사의 'by'는 'my'의 오타)",
+      "examples": [
+        "He shredded the documents before leaving."
+      ]
     },
     {
       "type": "dialogue",
@@ -1346,7 +1401,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(scornful) Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?",
-      "korean": ""
+      "korean": "'빌리, 영웅이 되지 마'라는 말 알아? — 무모하게 나섰다간 큰일 난다는 경고.",
+      "explanation": "'Billy, Don't Be a Hero'는 1974년 히트곡으로, 전쟁에서 영웅이 되려다 죽는 군인 이야기. 로스는 '숟가락을 잡은(= 연애·결혼이라는 모험을 한)' 지 얼마나 됐냐며, 무모하게 뛰어들면 큰일 난다는 경고로 인용. 'Do the words ... mean anything to you?' = '~라는 말 뭔지 알아?/떠오르는 거 없어?'라며 교훈·암시를 상기시키는 표현.",
+      "examples": [
+        "Do the words 'measure twice, cut once' mean anything to you?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1448,7 +1507,11 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that hungry...",
-      "korean": ""
+      "korean": "한창 잘나가는 김에 (비꼼).",
+      "explanation": "be on a roll = 연달아 잘되는 중, 흐름을 탄 상태. 'while you're on a roll' = '한창 잘나가는 김에'. 여기선 형편없는 커피를 두고 '그렇게 뭐든 잘하는 김에 오믈렛도 만들지?'라는 비꼼.",
+      "examples": [
+        "She's on a roll — three wins in a row."
+      ]
     },
     {
       "type": "dialogue",
@@ -1597,7 +1660,11 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "I doubt it. Mostly regional work.",
-      "korean": ""
+      "korean": "글쎄, 아닐걸. 대부분 지역(소규모) 일이라.",
+      "explanation": "I doubt it = '글쎄, 아닐 거야'(부정적 추측). regional (work) = 전국구가 아닌 '지역 단위'의 연극·방송 일 — 무명 배우라는 머쓱한 뉘앙스.",
+      "examples": [
+        "Will he show up? - I doubt it."
+      ]
     },
     {
       "type": "dialogue",
@@ -1687,7 +1754,11 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Oh wow. Are you in trouble.",
-      "korean": ""
+      "korean": "야, 너 큰일 났다!",
+      "explanation": "형태는 의문문(Are you in trouble)이지만 여기선 감탄으로 '너 진짜 큰일 났다!'는 뜻. 영어는 'Boy, are you in trouble!'처럼 주어-동사를 도치해 강한 감탄을 만듦. be in trouble = 곤경에 처하다.",
+      "examples": [
+        "Oh, are you in for a surprise!"
+      ]
     },
     {
       "type": "dialogue",
@@ -1811,7 +1882,8 @@
       "type": "dialogue",
       "speaker": "Frannie",
       "english": "Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years.",
-      "korean": ""
+      "korean": "걔(폴)는 나 만나기 전 2년 동안 영 그쪽으로 활기가 없었어.",
+      "explanation": "프래니가 만들어낸 우스꽝스러운 완곡 표현으로, 폴이 (프래니를 만나기 전) 2년간 성적으로 기력·활기가 없었다는 뜻. 직역하면 '거북이에 탁 무는 힘이 없었다' 정도로, 정형 표현이 아니라 캐릭터 특유의 능청스러운 농담."
     },
     {
       "type": "scene",
@@ -1855,13 +1927,21 @@
           "unseen": true
         }
       ],
-      "korean": ""
+      "korean": "그런 (부정적인) 기운을 우주에 내보내지 마.",
+      "explanation": "뉴에이지·영적 사고에서 나온 표현 — 말·생각을 입 밖에 내면 그 기운이 '우주로 퍼져' 현실에 영향을 준다는 믿음. 피비답게 '미워하지 마, 그런 걸 우주에 내보내면 안 돼'라고 함.",
+      "examples": [
+        "Stay positive and put good energy out into the universe."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?",
-      "korean": ""
+      "korean": "나 때문인가? 나한테 개랑 정서불안 남자들만 들을 수 있는 무슨 발신기라도 달렸나?",
+      "explanation": "beacon = 등대·봉화처럼 신호를 내보내는 불빛/표지. 모니카는 '나한테 개와 정서불안 남자들만 들을 수 있는 신호를 내는 발신기라도 달렸나?'라고 자조. (원래 시각 신호인데 'hear'와 엮어 과장한 농담)",
+      "examples": [
+        "The lighthouse beacon guided the ships home."
+      ]
     },
     {
       "type": "dialogue",
@@ -1901,13 +1981,22 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.",
-      "korean": ""
+      "korean": "면접마다 비웃음만 사고 (쫓겨나듯) 떨어졌어.",
+      "explanation": "laugh someone out of ~ = ~에서 비웃어 내쫓다. 수동태 'I was laughed out of the interviews' = '면접에서 비웃음만 받고 퇴짜 맞았다'는 과장된 자조.",
+      "examples": [
+        "His idea got laughed out of the room."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "And yet you're surprisingly upbeat.",
-      "korean": ""
+      "korean": "그런데도 넌 의외로 기분이 좋아 보이네.",
+      "explanation": "(and) yet = '그런데도/그럼에도'(앞 내용과 대조). upbeat = 밝고 긍정적인, 기운찬. 면접에서 다 떨어졌는데도 신나 보이는 게 의외라는 챈들러의 비꼼.",
+      "examples": [
+        "It was pouring rain, and yet she was cheerful.",
+        "He stayed upbeat despite the bad news."
+      ]
     },
     {
       "type": "dialogue",
@@ -1970,7 +2059,12 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "C'mon, you can't live off your parents your whole life.",
-      "korean": ""
+      "korean": "평생 부모한테 얹혀살 순 없잖아.",
+      "explanation": "live off ~ = ~에 기대어/의존해 살다(남의 돈·지원으로 생활). 'live off your parents' = 부모 돈으로 얹혀살다.",
+      "examples": [
+        "He still lives off his parents.",
+        "They live off the land."
+      ]
     },
     {
       "type": "dialogue",
@@ -1994,7 +2088,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel.",
-      "korean": ""
+      "korean": "포트 오소리티(버스터미널) 앞에서 (차) 앞유리를 닦던.",
+      "explanation": "windshield = 자동차 앞유리. Port Authority = 뉴욕 맨해튼의 대형 버스 터미널. 'cleaning windshields outside Port Authority'는 터미널 앞에 선 차의 앞유리를 닦아주고 푼돈을 받던, 빈민·노숙자의 거리 벌이를 가리킴 — 피비의 고단했던 과거."
     },
     {
       "type": "direction",
@@ -2133,13 +2228,21 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Well, that's it (To Ross) You gonna crash on the couch?",
-      "korean": ""
+      "korean": "소파에서 자고 갈래?",
+      "explanation": "crash = (지쳐) 쓰러져 자다; 'crash on the couch / at someone's place' = (남의 집) 소파에서 하룻밤 자다·신세 지다. 격식 없는 구어.",
+      "examples": [
+        "Can I crash on your couch tonight?"
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Ross",
       "english": "No. No, I gotta go home sometime.",
-      "korean": ""
+      "korean": "언젠가는 집에 가야지.",
+      "explanation": "sometime(한 단어) = (미래의) 언젠가/조만간. 구분: sometimes = 가끔, some time = 얼마간의 시간.",
+      "examples": [
+        "Let's grab dinner sometime."
+      ]
     },
     {
       "type": "dialogue",
@@ -2220,7 +2323,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Okay. (They split it.) You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
-      "korean": ""
+      "korean": "(너한테) 완전 푹 빠져 있었어 (짝사랑).",
+      "explanation": "have a crush on ~ = ~에게 (보통 말 못 하고) 반하다/짝사랑하다. major crush = 엄청 크게 반한 상태. 주로 풋사랑·짝사랑에 씀.",
+      "examples": [
+        "She had a crush on her classmate.",
+        "I had a major crush on him in college."
+      ]
     },
     {
       "type": "dialogue",
@@ -2232,7 +2340,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You did! Oh.... I always figured you just thought I was Monica's geeky older brother.",
-      "korean": ""
+      "korean": "난 늘 네가 날 그냥 모니카의 범생이 오빠쯤으로 여긴다고 생각했어.",
+      "explanation": "figure (that) ~ = ~라고 생각하다/짐작하다(구어). think와 비슷하나 '나름 추측하다'는 뉘앙스. geeky = 공부벌레·괴짜 같고 좀 촌스러운(geek의 형용사형, 약간 자조·놀림조).",
+      "examples": [
+        "I figured you'd be running late.",
+        "He's a bit geeky but really fun."
+      ]
     },
     {
       "type": "dialogue",
@@ -2244,7 +2357,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Oh. Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out? Sometime? Maybe?",
-      "korean": ""
+      "korean": "그… 있잖아, 내 극심한 감정적 취약함은 변수로 치지 말고- 너한테 데이트 신청해도 될까? 언젠가? 어쩌면?",
+      "explanation": "intense = (감정·정도가) 매우 강렬한/격한. 'my intense vulnerability' = 극도로 여리고 상처받기 쉬운 상태 — 이혼 직후라 마음이 몹시 약한 걸 (반쯤 농담으로) 강조하며 데이트를 신청.",
+      "examples": [
+        "There was an intense silence in the room.",
+        "intense pain"
+      ]
     },
     {
       "type": "dialogue",
