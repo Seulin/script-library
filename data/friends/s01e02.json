@@ -563,7 +563,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Yeah. Do that for another two hours, you might be where I am right about now. (He enters.)",
-      "korean": ""
+      "korean": "그래. 그렇게 두 시간만 더 하면, 너도 지금 내가 와 있는 이 상태가 될지도 몰라.",
+      "explanation": "where I am (right about now) = 지금 내가 (감정적으로) 와 있는 그 지점/처지. 'right about now'는 '바로 지금쯤'으로, about이 '대충 이쯤'이라는 어림잡는·구어적 뉘앙스를 더한다 ('right now'는 정확히 '바로 지금'이라 더 직접적). 충격으로 말을 더듬는 모니카에게, 그렇게 계속하면 (이혼 소식에 무너진) 나처럼 될 거라는 자조적 농담."
     },
     {
       "type": "dialogue",
@@ -579,7 +580,12 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Well now, how-how do you fit into this whole thing?",
-      "korean": ""
+      "korean": "그래서 넌 이 일 전체에서 어떤 위치(역할)인 거야?",
+      "explanation": "fit into ~ = ~ 안에서 어떤 자리/역할을 차지하다, ~에 (어떻게) 들어맞다. 'this whole thing' = 이 전체 상황/일. '이 상황에서 네 역할·입지가 뭐냐'고 묻는 것.",
+      "examples": [
+        "Where do I fit into your plans?",
+        "How does this piece fit into the puzzle?"
+      ]
     },
     {
       "type": "dialogue",
@@ -730,7 +736,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "I know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
+      "english": "I know this is going to sound unbelievably selfish on my part, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
       "korean": "그 임신/레즈비언 얘기 꺼낼 거야? 나한테 쏠린 관심이 좀 분산될 것 같아서.",
       "explanation": "take the heat off (someone) = ~에게 쏠린 비난·관심·압박을 덜어 주다. (the heat = 비난/압박)",
       "examples": [
