@@ -19,7 +19,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "C'mon, you're going out with the guy! There's gotta be something wrong with him!",
-      "korean": "분명 그 사람한테 뭔가 문제가 있을 거라고!",
+      "korean": "…분명 그 사람한테 뭔가 문제가 있을 거라고!",
       "explanation": "gotta = (have) got to의 구어. 'there's gotta be ~'는 '분명/틀림없이 ~가 있을 거야'라는 강한 추측·확신.",
       "examples": [
         "There's gotta be a better way to do this.",
@@ -281,7 +281,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "No!! Okay?! Why does everyone keep fixating on that? She didn't know, how should I know?",
-      "korean": "왜 다들 그것만 물고 늘어지는 거야?",
+      "korean": "…왜 다들 그것만 물고 늘어지는 거야?…",
       "explanation": "fixate on ~ = ~에 (지나치게) 집착하다/계속 꽂혀 있다. 여기선 '왜 다들 그 얘기에만 매달리냐'는 짜증.",
       "examples": [
         "Don't fixate on one bad review."
@@ -1114,7 +1114,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "My brother's going through that right now, he's such a mess. How did you get through it?",
-      "korean": "걘 지금 완전 엉망이야 (정신을 못 차려).",
+      "korean": "걘 지금 완전 엉망이야 (정신을 못 차려)…",
       "explanation": "be a mess = (감정·상태가) 엉망진창이다. 사람에 쓰면 '정신적으로 무너져 엉망인 상태'. 여기선 이혼으로 힘들어하는 오빠(로스)를 가리킴.",
       "examples": [
         "After the breakup, she was a complete mess."
@@ -1401,7 +1401,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(scornful) Grab a spoon. Do you know how long it's been since I've grabbed a spoon? Do the words 'Billy, don't be a hero' mean anything to you?",
-      "korean": "'빌리, 영웅이 되지 마'라는 말 알아? — 무모하게 나섰다간 큰일 난다는 경고.",
+      "korean": "…'빌리, 영웅이 되지 마'라는 말, 뭔지 알아?",
       "explanation": "'Billy, Don't Be a Hero'는 1974년 히트곡으로, 전쟁에서 영웅이 되려다 죽는 군인 이야기. 로스는 '숟가락을 잡은(= 연애·결혼이라는 모험을 한)' 지 얼마나 됐냐며, 무모하게 뛰어들면 큰일 난다는 경고로 인용. 'Do the words ... mean anything to you?' = '~라는 말 뭔지 알아?/떠오르는 거 없어?'라며 교훈·암시를 상기시키는 표현.",
       "examples": [
         "Do the words 'measure twice, cut once' mean anything to you?"
@@ -1507,7 +1507,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that hungry...",
-      "korean": "한창 잘나가는 김에 (비꼼).",
+      "korean": "한창 잘나가는 김에 (비꼼)…",
       "explanation": "be on a roll = 연달아 잘되는 중, 흐름을 탄 상태. 'while you're on a roll' = '한창 잘나가는 김에'. 여기선 형편없는 커피를 두고 '그렇게 뭐든 잘하는 김에 오믈렛도 만들지?'라는 비꼼.",
       "examples": [
         "She's on a roll — three wins in a row."
@@ -1882,7 +1882,7 @@
       "type": "dialogue",
       "speaker": "Frannie",
       "english": "Are you kidding? I take credit for Paul. Y'know before me, there was no snap in his turtle for two years.",
-      "korean": "걔(폴)는 나 만나기 전 2년 동안 영 그쪽으로 활기가 없었어.",
+      "korean": "…걔(폴)는 나 만나기 전 2년 동안 영 그쪽으로 활기가 없었어.",
       "explanation": "프래니가 만들어낸 우스꽝스러운 완곡 표현으로, 폴이 (프래니를 만나기 전) 2년간 성적으로 기력·활기가 없었다는 뜻. 직역하면 '거북이에 탁 무는 힘이 없었다' 정도로, 정형 표현이 아니라 캐릭터 특유의 능청스러운 농담."
     },
     {
@@ -1981,7 +1981,7 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Are you kidding? I'm trained for nothing! I was laughed out of twelve interviews today.",
-      "korean": "면접마다 비웃음만 사고 (쫓겨나듯) 떨어졌어.",
+      "korean": "…면접마다 비웃음만 사고 (쫓겨나듯) 떨어졌어.",
       "explanation": "laugh someone out of ~ = ~에서 비웃어 내쫓다. 수동태 'I was laughed out of the interviews' = '면접에서 비웃음만 받고 퇴짜 맞았다'는 과장된 자조.",
       "examples": [
         "His idea got laughed out of the room."
@@ -2088,7 +2088,7 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "You're welcome. I remember when I first came to this city. I was fourteen. My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody. And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy. So believe me, I know exactly how you feel.",
-      "korean": "포트 오소리티(버스터미널) 앞에서 (차) 앞유리를 닦던.",
+      "korean": "…포트 오소리티(버스터미널) 앞에서 (차) 앞유리를 닦던…",
       "explanation": "windshield = 자동차 앞유리. Port Authority = 뉴욕 맨해튼의 대형 버스 터미널. 'cleaning windshields outside Port Authority'는 터미널 앞에 선 차의 앞유리를 닦아주고 푼돈을 받던, 빈민·노숙자의 거리 벌이를 가리킴 — 피비의 고단했던 과거."
     },
     {
@@ -2323,7 +2323,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Okay. (They split it.) You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
-      "korean": "(너한테) 완전 푹 빠져 있었어 (짝사랑).",
+      "korean": "…(너한테) 완전 푹 빠져 있었어 (짝사랑).",
       "explanation": "have a crush on ~ = ~에게 (보통 말 못 하고) 반하다/짝사랑하다. major crush = 엄청 크게 반한 상태. 주로 풋사랑·짝사랑에 씀.",
       "examples": [
         "She had a crush on her classmate.",
@@ -2340,7 +2340,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You did! Oh.... I always figured you just thought I was Monica's geeky older brother.",
-      "korean": "난 늘 네가 날 그냥 모니카의 범생이 오빠쯤으로 여긴다고 생각했어.",
+      "korean": "…난 늘 네가 날 그냥 모니카의 범생이 오빠쯤으로 여긴다고 생각했어.",
       "explanation": "figure (that) ~ = ~라고 생각하다/짐작하다(구어). think와 비슷하나 '나름 추측하다'는 뉘앙스. geeky = 공부벌레·괴짜 같고 좀 촌스러운(geek의 형용사형, 약간 자조·놀림조).",
       "examples": [
         "I figured you'd be running late.",

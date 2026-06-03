@@ -64,7 +64,7 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? I mean, we're in the car, we're fighting traffic... basically just trying to stay awake.",
-      "korean": "막히는 길과 씨름하면서, 그냥 안 졸려고 버티는 거지.",
+      "korean": "…막히는 길과 씨름하면서, 그냥 안 졸려고 버티는 거지.",
       "explanation": "fight traffic = 꽉 막힌 차량 속을 헤치며 운전하다(교통체증과 씨름하다).",
       "examples": [
         "I fought traffic for an hour just to get here."
@@ -348,7 +348,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Yeah, calm down. You don't see Ross getting all chaotic and twirly every time they come.",
-      "korean": "너처럼 안절부절 호들갑 떨지는 않잖아.",
+      "korean": "…너처럼 안절부절 호들갑 떨지는 않잖아.",
       "explanation": "'chaotic and twirly'의 twirly(빙글빙글 도는)는 정식 단어라기보다 즉흥 조어로, '안절부절 못하며 부산 떠는' 모습을 익살스럽게 표현. (get all + 형용사 = 잔뜩 ~한 상태가 되다)",
       "examples": [
         "Don't get all worked up about it."
@@ -358,7 +358,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "That's because as far as my parents are concerned, Ross can do no wrong. Y'see, he's the Prince. Apparently they had some big ceremony before I was born.",
-      "korean": "부모님한텐 로스는 뭘 해도 잘못이 없거든. 걔가 왕자님이야.",
+      "korean": "부모님한텐 로스는 뭘 해도 잘못이 없거든. 걔가 왕자님이야…",
       "explanation": "as far as ~ is concerned = ~에 관한 한/~의 입장에서는. 여기선 부모님 입장에서는 이라는 뜻. can do no wrong = 무슨 짓을 해도 흠잡히지 않다(편애받는 대상). the Prince = 집안에서 떠받들어지는 존재라는 비유.",
       "examples": [
         "In her eyes, her son can do no wrong."
@@ -673,7 +673,7 @@
       "type": "dialogue",
       "speaker": "Mr. Geller",
       "english": "(To Ross) Do you remember the Ludwins? The big one had a thing for you, didn't she?",
-      "korean": "그 큰 애가 너한테 마음 있었잖아, 안 그래?",
+      "korean": "…그 큰 애가 너한테 마음 있었잖아, 안 그래?",
       "explanation": "have a thing for someone = ~에게 (은근히) 마음이 있다/끌리다.",
       "examples": [
         "I think she has a thing for you."
@@ -737,7 +737,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I know this is going to sound unbelievably selfish on my part, but, were you planning on bringing up the whole baby/lesbian thing? Because I think it might take some of the heat off me.",
-      "korean": "그 임신/레즈비언 얘기 꺼낼 거야? 나한테 쏠린 관심이 좀 분산될 것 같아서.",
+      "korean": "…그 임신/레즈비언 얘기 꺼낼 거야? 나한테 쏠린 관심이 좀 분산될 것 같아서.",
       "explanation": "take the heat off (someone) = ~에게 쏠린 비난·관심·압박을 덜어 주다. (the heat = 비난/압박)",
       "examples": [
         "The new scandal took the heat off the mayor."
@@ -751,7 +751,7 @@
       "type": "dialogue",
       "speaker": "Mrs. Geller",
       "english": "What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.",
-      "korean": "클럽에서 걔네 부모를 우연히 마주쳤는데, 영 안 좋아 보이더라.",
+      "korean": "…클럽에서 걔네 부모를 우연히 마주쳤는데, 영 안 좋아 보이더라.",
       "explanation": "run into ~ = ~을 우연히 마주치다. 'not playing very well'은 클럽(골프·테니스)에서 '경기가 잘 안 풀린다'는 말이자 딸 일로 '상태가 안 좋다'는 뜻을 겹친 말.",
       "examples": [
         "I ran into an old friend downtown."
@@ -803,7 +803,7 @@
       "speaker": "Mr. Geller",
       "english": "Look, there are people like Ross who need to shoot for the stars, with his museum, and his papers getting published. Other people are satisfied with staying where they are- I'm telling you, these are the people who never get cancer.",
       "korean": "로스처럼 별을 향해 높이 도전해야 하는 사람도 있고…",
-      "explanation": "shoot for the stars = 큰 꿈/높은 목표를 향해 도전하다.",
+      "explanation": "shoot for the stars = 큰 꿈/높은 목표를 향해 도전하다. I'm telling you = (강조) 정말이지/내 말 믿어 — 자기 말에 힘을 싣는 구어 표현.",
       "examples": [
         "Shoot for the stars, but have a backup plan."
       ]
@@ -823,8 +823,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(trying desperately to change the subject) So, Ross, what's going on with you? Any stories? (Digs her elbow into his hand.) No news, no little anecdotes to share with the folks?",
-      "korean": "식구들한테 들려줄 얘깃거리 없어?",
-      "explanation": "folks = (구어) 식구들, 특히 부모님. 'share with the folks' = 가족들한테 들려주다.",
+      "korean": "…식구들한테 들려줄 얘깃거리 없어?",
+      "explanation": "folks = (구어) 식구들, 특히 부모님. 'share with the folks' = 가족들한테 들려주다. anecdote = 짤막한 일화/이야깃거리(특히 실제로 있었던 재미난 일).",
       "examples": [
         "How are your folks doing?"
       ]
@@ -833,7 +833,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(pulls his hand away) Okay! Okay. (To his parents) Look, I, uh- I realise you guys have been wondering what exactly happened between Carol and me, and, so, well, here's the deal. Carol's a lesbian. She's living with a woman named Susan. She's pregnant with my child, and she and Susan are going to raise the baby.",
-      "korean": "자, 사정은 이래.",
+      "korean": "…자, 사정은 이래…",
       "explanation": "here's the deal = '상황·요점을 정리하면 이래'라며 본론을 꺼낼 때 쓰는 표현.",
       "examples": [
         "Okay, here's the deal: we split the cost."
@@ -897,7 +897,7 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Yeah. We don't speak. She's like this high-powered, driven career type.",
-      "korean": "걘 완전 잘나가는 야심가 스타일이야.",
+      "korean": "…걘 완전 잘나가는 야심가 스타일이야.",
       "explanation": "high-powered = 정력적이고 잘나가는; driven = 목표 지향적이고 추진력 강한. 바로 뒤 '직업은 웨이트리스'라는 반전으로 웃기는 장면.",
       "examples": [
         "She's a driven, high-powered executive."
@@ -936,7 +936,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "The lights, please..",
+      "english": "Hit the lights, please..",
       "korean": ""
     },
     {
@@ -1012,7 +1012,7 @@
       "speaker": "Ross",
       "english": "Well, you may wanna steer clear of the word 'dumped'. Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard. Or, y'know, uh, hey!, I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/GYN...",
       "korean": "'차였다(dumped)'는 말은 피하는 게 좋아. 걘 아마 껍데기만 남은 폐인 꼴일 테니…",
-      "explanation": "steer clear of ~ = ~을 (의도적으로) 피하다. a broken shell of a man = (충격으로) 껍데기만 남은 사람. OB/GYN = 산부인과(obstetrics & gynecology).",
+      "explanation": "steer clear of ~ = ~을 (의도적으로) 피하다. a broken shell of a man = (충격으로) 껍데기만 남은 사람. OB/GYN = 산부인과(obstetrics & gynecology). Chances are (that) ~ = 아마 ~일 거야(그럴 가능성이 높다). 'I'll go down there' = 거기(병원/그곳)에 내가 갈게 — go down은 (특정 장소로) 가다, here/there와 함께 구어로 흔히 씀.",
       "examples": [
         "Steer clear of that topic at dinner."
       ]
@@ -1021,7 +1021,8 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Oh, you've got Carol tomorrow.. When did it get so complicated?",
-      "korean": ""
+      "korean": "아 맞다, 너 내일 캐롤 만나야지… 이게 대체 언제 이렇게 복잡해진 거야?",
+      "explanation": "When did it get so complicated? = 이게 언제 이렇게 복잡해진 거지? — 상황이 갑자기 꼬여버린 걸 한탄하는 수사적 표현."
     },
     {
       "type": "dialogue",
@@ -1108,7 +1109,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(they shake hands) Hello, Susan. (To Carol) Good shake. Good shake. So, uh, we're just waiting for...?",
-      "korean": ""
+      "korean": "(악수하며) 안녕, 수잔. (캐롤에게) 악수 좋네, 악수 좋아. 그래서… 우린 누굴 기다리는 거지?",
+      "explanation": "Good shake = (handshake가 좋다며) '악수 좋네' — 어색한 상황에서 상대의 악수를 두고 머쓱하게 던지는 칭찬. shake는 handshake의 줄임."
     },
     {
       "type": "dialogue",
@@ -1253,7 +1255,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "So, um- so how's this, uh, how's this gonna work? Y'know, with us? Y'know, when, like, important decisions have to be made?",
-      "korean": ""
+      "korean": "그러니까… 이거 우리끼리 어떻게 되는 거야? 그 왜, 중요한 결정을 내려야 할 때 같은 거.",
+      "explanation": "how's this gonna work? = (앞으로) 이걸 어떻게 풀어갈/해나갈 건데? — 관계·방식이 어떻게 굴러갈지 막막하게 묻는 표현. (work = 일이 굴러가다/잘 풀리다)",
+      "examples": [
+        "How is this going to work between us?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1319,7 +1325,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "'S'funny, um, uh, we agreed we'd spend the rest of our lives together. Things change, roll with the punches. I believe Julia's on the table..?",
-      "korean": "상황 따라 유연하게 가야지. 'Julia'도 후보로 올라 있다고 봐.",
+      "korean": "…상황 따라 유연하게 가야지. 'Julia'도 후보로 올라 있다고 봐.",
       "explanation": "roll with the punches = (권투에서 유래) 닥치는 상황에 맞춰 유연하게 대처하다. on the table = (제안이) 논의 대상에 올라 있다.",
       "examples": [
         "You've got to roll with the punches.",
@@ -1388,7 +1394,8 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Mindy?! My maid of honour, Mindy?!",
-      "korean": ""
+      "korean": "민디?! 내 들러리 대표였던 그 민디?!",
+      "explanation": "maid of honour = (결혼식에서) 신부 들러리 대표(보통 가장 친한 친구·자매). 영국식 철자 honour, 미국식은 honor (maid of honor)."
     },
     {
       "type": "dialogue",
@@ -1555,7 +1562,8 @@
       "type": "dialogue",
       "speaker": "Susan",
       "english": "Yeah, and we all know what a challenge that is!",
-      "korean": ""
+      "korean": "그래, 그게 얼마나 대단한 일인지 우리 다 알지!",
+      "explanation": "반어법 — 로스가 '넌 정자도 안 만들었잖아'라고 하자, 수잔이 '그래, 정자 만드는 게 얼마나 대단한 일이라고!'라며 비꼬는 것. what a challenge that is = 그게 얼마나 어려운 일인지 (여기선 반어로 '하나도 안 어렵다')."
     },
     {
       "type": "dialogue",
@@ -1573,7 +1581,7 @@
       "type": "dialogue",
       "speaker": "Carol",
       "english": "Ross. You're not actually suggesting Helen Willick-Bunch-Geller? 'Cause I think that borders on child abuse.",
-      "korean": "그건 거의 아동 학대 수준이야.",
+      "korean": "…그건 거의 아동 학대 수준이야.",
       "explanation": "border on ~ = ~에 가깝다/~이라 할 정도다 (주로 부정적 정도를 강조).",
       "examples": [
         "His behavior borders on rude."
@@ -1589,7 +1597,7 @@
       "type": "dialogue",
       "speaker": "Susan",
       "english": "Oh, no, nonononono, you see what he's doing? He knows no-one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
-      "korean": "결국 다들 걔를 그냥 'Geller'라고 부르게 될 거고, 그럼 쟤 뜻대로 되는 거지!",
+      "korean": "…결국 다들 걔를 그냥 'Geller'라고 부르게 될 거고, 그럼 쟤 뜻대로 되는 거지!",
       "explanation": "wind up -ing = 결국 ~하게 되다. get one's (own) way = 자기 뜻대로 하다/관철하다.",
       "examples": [
         "We wound up taking a cab.",
@@ -1600,7 +1608,11 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "My way?! You-you think this is my way? Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what? Uh, um, this is too hard. I'm not, I can't do-",
-      "korean": ""
+      "korean": "…내가 이 순간을 상상했던 그 숱한 방식 중에, 이건 내가 바라던 방식이 아니야…",
+      "explanation": "of all the ~ = (그 많은) ~ 중에 (하필). 구조: 'of all the ways I imagined this moment being, this is not my way' = 이 순간을 그려본 온갖 모습 중에 이건 내가 원한 모습이 아니다.",
+      "examples": [
+        "Of all the restaurants in town, you picked this one?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1618,7 +1630,7 @@
       "type": "dialogue",
       "speaker": "Dr. Oberman",
       "english": "Well, I was just wondering about the mother-to-be, but.. thanks for sharing. (To Carol) Uh, lie back..",
-      "korean": "난 예비 엄마(임신부) 얘기였는데… 어쨌든 공유 고마워요.",
+      "korean": "난 예비 엄마(임신부) 얘기였는데… 어쨌든 공유 고마워요…",
       "explanation": "mother-to-be = 곧 엄마가 될 사람(임신부). '명사-to-be'는 '곧 ~가 될'(bride-to-be 예비 신부 등).",
       "examples": [
         "The bride-to-be looked nervous."
@@ -1753,7 +1765,7 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "(on phone) Hi, Mindy. Hi, it-it's Rachel. Yeah, I'm fine. I-I saw Barry today. Oh, yeah, yeah he-he told me. No, no, it's okay. I hope you two are very happy, I really do. Oh, oh, and Mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose. (Slams the phone down.) (To everyone) Okay, I know it was a cheap shot, but I feel so much better now.",
-      "korean": "치사한 한 방인 거 아는데, 그래도 속이 후련하네.",
+      "korean": "…치사한 한 방인 거 아는데, 그래도 속이 후련하네.",
       "explanation": "cheap shot = 비열한/치사한 공격(말). 'his old hairline and your old nose'는 배리의 모발이식과 민디의 코 성형을 겨냥한 빈정.",
       "examples": [
         "That was a cheap shot."
