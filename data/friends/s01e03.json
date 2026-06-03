@@ -317,7 +317,11 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "(leaving to serve others) Good for me!",
-      "korean": ""
+      "korean": "(다른 손님 서빙하러 가며) 나 잘했지!",
+      "explanation": "Good for you/me = '잘됐네/잘했네'라며 축하·칭찬하는 표현. 여기선 레이첼이 주문을 제대로 해내고 스스로 '나 잘했지!'라며 자축하는 것.",
+      "examples": [
+        "You got the job? Good for you!"
+      ]
     },
     {
       "type": "direction",
@@ -332,7 +336,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Yeah- no- I'm just- it's, I haven't worked- It's my bank.",
+      "english": "Yeah- no- I'm just- it's, It's not even worth- It's my bank.",
       "korean": ""
     },
     {
@@ -345,7 +349,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "It's nothing, it's just- Okay. I'm going through my mail, and I open up their monthly, you know, STATEMENT-",
-      "korean": ""
+      "korean": "…우편물을 보다가 그 은행 월 명세서를 펼쳤는데-",
+      "explanation": "(bank) statement = 은행 거래 내역서/명세서. monthly statement = 월별 명세서. 피비가 단어를 강조해 또박또박 말하는 장면."
     },
     {
       "type": "dialogue",
@@ -370,7 +375,12 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Yes, 'cause now I have to go down there, and deal with them.",
-      "korean": ""
+      "korean": "응, 이제 거기(은행)에 직접 가서 그 사람들을 상대해야 하잖아.",
+      "explanation": "go down there = 거기에 (직접) 가다 — down은 방향과 무관하게 '특정 장소로 가다'는 구어. deal with ~ = ~을 상대하다/처리하다(귀찮은 일을 떠안는 뉘앙스).",
+      "examples": [
+        "I'll go down to the bank tomorrow.",
+        "I don't want to deal with him right now."
+      ]
     },
     {
       "type": "dialogue",
@@ -394,13 +404,22 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Okay. Okay, let's say I bought a really great pair of shoes. Do you know what I'd hear, with every step I took? 'Not-mine. Not-mine. Not-mine.' And even if I was happy, okay, and, and skipping- 'Not-not-mine, not-not-mine, not-not-mine, not-not-mine'...",
-      "korean": ""
+      "korean": "…행복해서 깡충깡충 뛰어도 '내 거 아냐, 내 거 아냐' 소리가 들릴 거라고…",
+      "explanation": "skip = (기뻐서) 깡충깡충 뛰며 걷다 — 한 발씩 가볍게 뛰는 경쾌한 걸음. 신나서 들뜬 모습.",
+      "examples": [
+        "The kids skipped down the street."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "We're with you. We got it.",
-      "korean": ""
+      "korean": "무슨 말인지 알아. 이해했어.",
+      "explanation": "be with someone = (말·생각을) 따라가다/이해하다, 같은 편이다. 'I'm with you' = 무슨 말인지 알겠어/동의해. We got it = 알아들었어/이해했어(그만 설명해도 돼).",
+      "examples": [
+        "Are you with me so far?",
+        "Okay, I got it."
+      ]
     },
     {
       "type": "direction",
@@ -493,7 +512,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Alright. I'm gonna go change, I've got a date.",
-      "korean": ""
+      "korean": "자, 나 옷 갈아입을게. 데이트 있어.",
+      "explanation": "change (자동사) = 옷을 갈아입다. 'go change' = 가서 옷 갈아입다. (get changed도 같은 뜻)",
+      "examples": [
+        "Give me a minute to change."
+      ]
     },
     {
       "type": "dialogue",
@@ -529,7 +552,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "No. Not after what happened with Steve.",
-      "korean": ""
+      "korean": "안 돼. 스티브 때 있었던 일이 있는데.",
+      "explanation": "Not after ~ = ~(일)이 있고 난 다음엔 안 돼/그럴 수 없어 — 앞일을 근거로 거절하는 표현. 'what happened with Steve' = 스티브와 사이에 있었던 그 일.",
+      "examples": [
+        "I'm not going back there, not after last time."
+      ]
     },
     {
       "type": "dialogue",
@@ -572,9 +599,9 @@
     {
       "type": "dialogue",
       "speaker": "Paula",
-      "english": "Listen. As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing. I mean, they're your friends, they're just looking out after you.",
+      "english": "Listen. As someone who's seen more than her share of bad beef, I'll tell you: that is not such a terrible thing. Come on now. I mean, they're your friends, they're just looking out after you.",
       "korean": "형편없는 남자라면 남들보다 훨씬 많이 겪어본 사람으로서 말하는데, 그건 그렇게 나쁜 게 아니야. 친구들이 널 챙겨주는 거잖아.",
-      "explanation": "(more than) one's fair share of ~ = (남들보다) 많이/충분히 겪다. bad beef = (소고기에 빗대어) 형편없는 남자. look out for someone = ~를 챙기다/지켜주다 (대사의 'look out after'는 look out for/after가 섞인 구어).",
+      "explanation": "(more than) one's (fair) share of ~ = (남들보다) 많이/충분히 겪다 — 보통 'fair share'(마땅한 몫)로 쓰는 관용구인데, 이 대사에선 fair가 빠진 형태. bad beef = (소고기에 빗대어) 형편없는 남자. look out for someone = ~를 챙기다/지켜주다 (대사의 'look out after'는 look out for/after가 섞인 구어).",
       "examples": [
         "I've had my fair share of bad luck.",
         "Good friends look out for each other."
@@ -589,7 +616,7 @@
     {
       "type": "dialogue",
       "speaker": "Paula",
-      "english": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..",
+      "english": "Well, you do realise that the odds of that happening are a little slimmer if they never get to meet the guy..",
       "korean": "친구들이 그 남자를 아예 못 만나면, 그렇게 될 가능성은 좀 더 희박해진다는 거 알지.",
       "explanation": "the odds (of) = 가능성/확률. slim = (가능성이) 희박한, slimmer = 더 희박한.",
       "examples": [
@@ -796,7 +823,12 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Know what was great? The way his smile was kinda crooked.",
-      "korean": ""
+      "korean": "뭐가 좋았는지 알아? 그 사람 미소가 살짝 삐뚜름했던 거.",
+      "explanation": "crooked = 삐뚤어진/한쪽으로 비뚜름한. 'crooked smile' = 한쪽 입꼬리만 올라간 비뚜름한 미소(여기선 매력 포인트). 발음은 [krʊkɪd], 끝 -ed가 [-id]로 두 음절.",
+      "examples": [
+        "He gave a crooked grin.",
+        "That picture is hanging crooked."
+      ]
     },
     {
       "type": "dialogue",
@@ -835,7 +867,12 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "What future boyfriends? Nono, I th- I think this could be, y'know, it.",
-      "korean": ""
+      "korean": "무슨 미래의 남자친구들? 아니 아니, 내 생각엔 이게… 그러니까, 바로 그(운명의 상대)일 수도 있어.",
+      "explanation": "this could be it = '이게 (바로) 그거일 수도 있어'. 여기서 it은 '운명의 상대/결정적인 그것'을 막연히 가리키는 대명사. could be = ~일 수도 있다(가능성 추측).",
+      "examples": [
+        "This could be the one.",
+        "Don't give up - this could be your big break."
+      ]
     },
     {
       "type": "dialogue",
@@ -866,7 +903,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "The way he makes me feel about myself.",
-      "korean": ""
+      "korean": "그가 나 자신을 어떻게 느끼게 해주는지, 그게 제일 좋아.",
+      "explanation": "make me feel ~ = 나를 ~하게 만들다(사역동사 make + 목적어 + 동사원형). 'how he makes me feel about myself' = 그 사람 덕분에 내가 나 자신을 어떻게(얼마나 좋게) 느끼게 되는지.",
+      "examples": [
+        "She makes me feel confident.",
+        "It comes down to how you feel about yourself."
+      ]
     },
     {
       "type": "dialogue",
@@ -951,13 +993,18 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "..I dunno, a little too Alan?",
-      "korean": ""
+      "korean": "…글쎄, 좀… 너무 '앨런다운' 거 아닐까?",
+      "explanation": "too + 이름(Alan) = 이름을 형용사처럼 써서 '지나치게 ~다운'이라는 즉흥 표현. 'a little too Alan' = 좀 지나치게 앨런스러운."
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Well, no. That's impossible. You can never be too Alan.",
-      "korean": ""
+      "korean": "아니, 그건 불가능해. 앨런다움은 아무리 넘쳐도 지나치지 않거든.",
+      "explanation": "You can never be too ~ = 아무리 ~해도 지나치지 않다(많을수록 좋다). 'You can never be too careful'(아무리 조심해도 지나치지 않다) 패턴을 'too Alan'에 적용한 말장난.",
+      "examples": [
+        "You can never be too careful."
+      ]
     },
     {
       "type": "dialogue",
@@ -1011,7 +1058,8 @@
       "type": "dialogue",
       "speaker": "Lizzie",
       "english": "Saltines?",
-      "korean": ""
+      "korean": "솔틴 크래커 줄까?",
+      "explanation": "Saltines = 소금이 뿌려진 네모난 짭짤한 크래커(소다 크래커). 미국에서 흔한 간식이자 속이 안 좋을 때 먹는 크래커."
     },
     {
       "type": "dialogue",
@@ -1228,14 +1276,22 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "...Does the knuckle-cracking bother everybody?",
-      "korean": ""
+      "english": "...Does the knuckle-cracking bother everybody or just him?",
+      "korean": "…그 손가락 마디 꺾는 거, 다들 거슬려 아니면 쟤만 그래?",
+      "explanation": "knuckle-cracking = 손가락 관절을 꺾어 '우두둑' 소리 내는 버릇(crack one's knuckles = 손가락 마디를 꺾다). bother = 거슬리다/신경 쓰이게 하다.",
+      "examples": [
+        "Does the noise bother you?"
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Well, I-I could live without it.",
-      "korean": ""
+      "korean": "음, 나야 없어도 그만이야.",
+      "explanation": "I could/can live without it = '그거 없어도 살 수 있어' = 별로 좋아하지 않는다/없는 편이 낫다는 완곡한 표현(여기선 마디 꺾는 버릇이 싫다는 걸 부드럽게).",
+      "examples": [
+        "The trip was fine, but I could live without the long drive."
+      ]
     },
     {
       "type": "dialogue",
@@ -1282,15 +1338,19 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Yeah, 'cause otherwise someone might get what they actually ordered.",
-      "korean": ""
+      "english": "Yeah, otherwise someone might get what they actually ordered.",
+      "korean": "그래, 안 그러면 누가 진짜로 주문한 걸 받게 될지도 모르니까.",
+      "explanation": "비꼼 — 레이첼이 주문을 자꾸 틀리게 갖다줘서, '네가 일하러 안 가면 (실수가 없어져) 손님이 진짜 주문한 걸 받게 될지도 모른다'고 놀리는 것. otherwise = (그렇지 않으면) 안 그러면.",
+      "examples": [
+        "Hurry up, otherwise we'll miss the train."
+      ]
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on.",
+      "english": "Ohh-ho-hooohhh. The hair comes out, and the gloves come off.",
       "korean": "머리카락이 나오고, 이제 본격적으로 싸울 태세네.",
-      "explanation": "the gloves are/come off = (봐주기 없이) 본격적으로 맞붙다 (권투 글러브를 벗고 맨주먹으로 싸운다는 데서 유래). 피비가 화나면 머리를 씹는 설정과 엮어 'gloves come on'으로 비틂.",
+      "explanation": "the gloves are/come off = (봐주기 없이) 본격적으로 맞붙다 (권투 글러브를 벗고 맨주먹으로 싸운다는 데서 유래). 피비가 머리를 씹는 설정과 엮음.",
       "examples": [
         "Once the talks broke down, the gloves came off."
       ]
@@ -1398,7 +1458,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Really? He does? (taking the phone) Hey, buddy, what's up! Oh, she told you about that, huh. Well, yeah, I have one now and then. Well, yeah, now. Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before. Well, okay, thanks! (He hands the phone back and stubs out his cigarette.)",
-      "korean": ""
+      "korean": "…그 왜, 아무도 그런 식으로 말해준 적은 없었네. 그래, 고마워!",
+      "explanation": "put it (like that) = (말로) 그렇게 표현하다. 'No-one's ever put it like that before' = 아무도 그런 식으로 말한 적 없다 — 상대의 표현·관점에 수긍·감탄할 때. (앨런이 설득력 있게 말해 챈들러가 담배를 끄는 장면)",
+      "examples": [
+        "I never thought of it that way - nicely put."
+      ]
     },
     {
       "type": "dialogue",
@@ -1453,7 +1517,11 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Joey ate my last stick of gum, so I killed him. Do you think that was wrong?",
-      "korean": ""
+      "korean": "조이가 내 마지막 껌 한 개를 먹어서, 죽여버렸어. 내가 잘못한 걸까?",
+      "explanation": "a stick of gum = (막대 모양) 껌 한 개. stick은 가늘고 긴 낱개를 세는 단위(a stick of butter = 버터 한 토막 등).",
+      "examples": [
+        "Can I have a stick of gum?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1514,7 +1582,11 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "And on my way over here, I stepped in gum. ...What is up with the universe?!",
-      "korean": ""
+      "korean": "게다가 여기 오는 길엔 껌까지 밟았어. 도대체 우주가 왜 이러는 거야?!",
+      "explanation": "step in ~ = (실수로) ~을 밟다. 'stepped in gum' = (바닥에 붙은) 껌을 밟았다. (step on은 위를 밟다, step in은 발이 그 안으로 들어가 밟히는 뉘앙스)",
+      "examples": [
+        "Ugh, I stepped in a puddle."
+      ]
     },
     {
       "type": "dialogue",
@@ -1586,7 +1658,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Okay. It's-it's about Alan. There's something that you should know. I mean, there's really no easy way to say this.. uh.. I've decided to break up with Alan.",
-      "korean": ""
+      "korean": "…이걸 어떻게 꺼내야 할지 모르겠는데… 나 앨런이랑 헤어지기로 했어.",
+      "explanation": "There's no easy way to say this = '이걸 (부드럽게) 전할 마땅한 방법이 없네' — 나쁜 소식·곤란한 말을 꺼내기 전에 쓰는 상투적 도입 표현.",
+      "examples": [
+        "There's no easy way to say this, but we're letting you go."
+      ]
     },
     {
       "type": "direction",
@@ -1778,7 +1854,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Oh, y'know..",
-      "korean": ""
+      "korean": "아 뭐, 그냥… (말끝 흐림)",
+      "explanation": "'Oh, y'know..'를 답으로 쓰면 구체적 설명을 흐리며 '그냥 뭐 그랬어/말 안 해도 알지'라는 뉘앙스. 'how'd it go?(어떻게 됐어?)'에 이렇게 답하면 '영 별로였다'를 에둘러 내비치는 것."
     },
     {
       "type": "dialogue",
@@ -1797,6 +1874,16 @@
       "speaker": "Ross",
       "english": "You had a rough day, huh.. c'mere. (She sits down and Ross strokes her forehead.)",
       "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh, you have no idea.",
+      "korean": "아, 넌 상상도 못 할 거야.",
+      "explanation": "You have no idea = '넌 (얼마나 그런지) 짐작도 못 할걸' — 정도가 매우 심함을 강조. 앞말(rough day, 힘든 하루)을 받아 '말도 못 하게 힘들었다'는 뜻.",
+      "examples": [
+        "You have no idea how tired I am."
+      ]
     },
     {
       "type": "dialogue",
