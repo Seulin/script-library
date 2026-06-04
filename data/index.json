@@ -19,6 +19,10 @@
         {
           "title": "S01E04 · The One with George Stephanopoulos",
           "file": "friends/s01e04.json"
+        },
+        {
+          "title": "S01E05 · The One with the East German Laundry Detergent",
+          "file": "friends/s01e05.json"
         }
       ]
     }

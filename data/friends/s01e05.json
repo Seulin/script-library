@@ -1,0 +1,1724 @@
+{
+  "drama": "Friends",
+  "season": 1,
+  "episode": 5,
+  "writtenBy": "Jeff Greenstein & Jeff Strauss",
+  "transcribedBy": "Mindy Mattingly Phillips",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, all six are there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Would you let it go? It's not that big a deal.",
+      "korean": "그냥 넘어가면 안 돼? 그렇게 대단한 일도 아니잖아.",
+      "explanation": "let it go = 그냥 넘어가다/잊어버리다(phrasal). not that big a deal = 그렇게 대단한 일은 아니다.",
+      "examples": [
+        "Just let it go, it's fine."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?",
+      "korean": "대단한 일이 아니라고? 굉장한 거야. 손을 쓱 넣어서 작은 동작 하나로, 짠- 소매로 브라가 쏙. 내가 보기엔 남자가 하는 그 어떤 것도 거기 견줄 게 없어. 내 말 맞지?",
+      "explanation": "maneuver = 솜씨 있는 동작/책략. come close = (그에) 견줄 만하다/비슷하게 근접하다. as far as I'm concerned = 내가 보기엔/내 생각엔.",
+      "examples": [
+        "Nothing comes close to her cooking."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Come on! You guys can pee standing up.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "We can? All right, I'm tryin' that.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Ok, you know what blows my mind? Women can see breasts any time they want. You just look down and there they are. How you get any work done is beyond me.",
+      "korean": "내가 진짜 놀라는 게 뭔지 알아? 여자들은 가슴을 보고 싶을 때 언제든 볼 수 있다는 거야. 그냥 내려다보면 거기 있잖아. 너희가 어떻게 일을 하는지 난 도무지 모르겠어.",
+      "explanation": "blow one's mind = (놀라서) 충격받게 하다/엄청 놀랍다. be beyond me = 난 도무지 이해가 안 된다.",
+      "examples": [
+        "That movie blew my mind.",
+        "How he passed is beyond me."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, ok, you know what I don't get? The way guys can do so many mean things, and then not even care.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Long pause.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Multiple orgasms!",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, all are there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "So, Saturday night, the big night, date night, Saturday night, Sat-ur-day night!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "No plans, huh?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Not a one.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Not even, say, breaking up with Janice?",
+      "korean": "이를테면, 재니스랑 헤어지는 거 같은 것도 없고?",
+      "explanation": "say = (예를 들 때) 이를테면/예를 들어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, right, right, shut up.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Chandler, nobody likes breaking up with someone. You just gotta do it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "No, I know, but it's just so hard, you know? I mean, you're sitting there with her, she has no idea what's happening, and then you finally get up the courage to do it, and there's the horrible awkward moment when you've handed her the note.",
+      "korean": "아니, 알아, 근데 너무 힘들어. 그 앞에 앉아 있는데 상대는 무슨 일인지도 모르고, 겨우 용기를 내서 하고 나면, 쪽지를 건넨 그 끔찍하고 어색한 순간이 오잖아.",
+      "explanation": "get up the courage = 용기를 내다. handed her the note = (헤어지자고) 쪽지를 건네다 — 챈들러의 비겁한 이별 방식."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Why do you have to break up with her? Be a man, just stop calling.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "You know, if you want, I'll do it with you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, thanks, but I think she'd feel like we're gangin' up on her.",
+      "korean": "고맙긴 한데, 그럼 우리가 떼로 몰아붙이는 것처럼 느낄 것 같아.",
+      "explanation": "gang up on someone = ~를 떼지어 몰아붙이다/협공하다(phrasal).",
+      "examples": [
+        "They all ganged up on me."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "No, I mean you break up with Janice and I'll break up with Tony.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Tony?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh, you're breaking up with Tony?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah, I know, he's sweet, but it's just not fun anymore, you know? I don't know if it's me, or his hunger strike, or, I don't know.",
+      "korean": "응, 알아, 착하긴 한데 이제 재미가 없어. 나 때문인지, 걔 단식 투쟁 때문인지, 모르겠어.",
+      "explanation": "hunger strike = 단식 투쟁(항의 표시로 굶음). 남자친구가 단식 투쟁 중이라는 뜬금없는 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(waitressing) Does anybody want anything else?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh, yeah, last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing. (Rachel gives him a dirty look) Nothing, just, just, I'm fine.",
+      "korean": "아 맞다, 지난주에 그 끝내주는, 견과류 든, 초콜릿 같은, 케이크 같은 파이 같은 거 있었잖아. (레이첼이 째려본다) 아니야, 그냥, 난 괜찮아.",
+      "explanation": "dirty look = 못마땅해 째려보는 표정/눈초리.",
+      "examples": [
+        "She gave me a dirty look."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(to Rachel) What's the matter? Why so scrunchy?",
+      "korean": "왜 그래? 왜 그렇게 잔뜩 찡그렸어?",
+      "explanation": "scrunchy = (얼굴을) 잔뜩 찡그린/구긴(scrunch = 찡그리다·구기다에서 온 구어). 피비다운 표현."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "It's my father. He wants to give me a Mercedes convertible.",
+      "korean": "우리 아빠 때문에. 메르세데스 오픈카를 주신대.",
+      "explanation": "convertible = (지붕을 접을 수 있는) 오픈카."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That guy, he burns me up.",
+      "korean": "그 양반, 사람 속을 부글부글 끓게 한다니까.",
+      "explanation": "burn someone up = ~를 몹시 화나게 하다(속을 끓이다).",
+      "examples": [
+        "His attitude really burns me up."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah, well, it's a Mercedes if I move back home. Oh, it was horrible. He called me young lady.",
+      "korean": "응, 근데 집으로 돌아오면 메르세데스래. 끔찍했어. 날 '아가씨'라고 부르더라.",
+      "explanation": "young lady = (부모가 딸을 나무랄 때) '아가씨/얘야' — 훈계조의 호칭."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Ooh, I hate when my father calls me that.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Did he give you that whole \"You're-not-up-to-this\" thing again?",
+      "korean": "또 그 '넌 이걸 감당 못 해' 어쩌고 했어?",
+      "explanation": "be up to this/it = 이걸 해낼/감당할 능력이 되다. 'You're not up to this' = 넌 이걸 감당 못 한다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, yeah, yeah. Actually, I got the extended disco version, with three choruses of \"You'll never make it on your own\".",
+      "korean": "어, 응. 이번엔 아예 디스코 확장판으로, '넌 혼자선 절대 못 해낼 거야' 후렴을 세 번이나 들었어.",
+      "explanation": "make it on one's own = 혼자 힘으로 성공하다/해내다. 'extended disco version'은 아버지의 잔소리를 길게 늘인 음악에 빗댄 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(rhythmically) Uh-huh, uh-huh.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Angela, a beautiful woman in a tight dress, enters.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Hi, Joey.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "My god, Angela.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Angela takes a seat at the counter.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Wow, being dumped by you obviously agrees with her.",
+      "korean": "와, 너한테 차인 게 쟤한텐 오히려 잘 맞나 보다.",
+      "explanation": "agree with someone = (음식·환경·상황이) ~에게 잘 맞다/좋은 영향을 주다. '차인 게 그녀에게 agree한다' = 차이고 나서 오히려 더 좋아 보인다는 뜻.",
+      "examples": [
+        "The sea air agrees with her."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Are you gonna go over there?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "No, yeah, no, ok, but not yet. I don't wanna seem too eager. One Mississippi, two Mississippi, three Mississippi. That seems pretty cool. (he walks over to her) Hey, Angela.",
+      "korean": "아니, 응, 아니, 근데 아직. 너무 안달난 것처럼 보이긴 싫어. 일초, 이초, 삼초. 이쯤이면 쿨해 보이네.",
+      "explanation": "too eager = 너무 안달난/적극적인. 'One Mississippi, two Mississippi...' = 초를 셀 때 한 박자(약 1초)씩 천천히 세는 미국식 방법."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "(casually) Joey.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You look good.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "That's because I'm wearing a dress that accents my boobs.",
+      "korean": "이건 내 가슴을 돋보이게 하는 드레스라서 그래.",
+      "explanation": "accent (동사) = 강조하다/돋보이게 하다(옷·색이 어떤 부분을 부각).",
+      "examples": [
+        "A red scarf accents the outfit."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You don't say.",
+      "korean": "그러시겠지.",
+      "explanation": "You don't say. = (반어) 설마/그래?/별말을 다 하네 — 뻔한 말을 들었을 때 시큰둥하게 받는 말."
+    },
+    {
+      "type": "direction",
+      "text": "(Cut to Ross and Rachel, talking next to one of the tables.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So, uh, Rachel, what are you, uh, what're you doing tonight?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, big glamour night. Me and Monica at Laundorama.",
+      "korean": "오, 아주 화려한 밤이지. 모니카랑 빨래방에서.",
+      "explanation": "big glamour night = (반어) '아주 화려한 밤' — 빨래방 가는 걸 비꼬는 것. Laundorama = 빨래방(laundromat) 이름."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Who?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Me. Was that not clear? Hey, why don't, um, why don't I just join you both, here?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Don't you have a laundry room in your building?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yes, I do have a laundry room in my building, um, but there's a.... rat problem. Apparently they're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all.... fluffy. Anyway, say, sevenish?",
+      "korean": "응, 우리 건물에 빨래방 있긴 한데, 쥐가 좀 있어서. 섬유유연제 시트에 끌리나 봐, 멀쩡히 들어갔다가 죄다… 보송보송해져서 나와. 아무튼, 7시쯤?",
+      "explanation": "dryer sheet = 건조기에 넣는 섬유유연제 시트. -ish = ~쯤(sevenish = 7시쯤). fluffy = 보송보송한."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Sure.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Cut back to Joey and Angela at the counter.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Forget it Joey. I'm with Bob now.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Bob? Who the hell's Bob?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Bob is great. He's smart, he's sophisticated, and he has a real job. You, you go on three auditions a month and you call yourself an actor, but Bob...",
+      "korean": "밥은 멋져. 똑똑하고, 세련됐고, 번듯한 직업도 있어. 넌 한 달에 오디션 세 번 보면서 배우라고 하지만, 밥은…",
+      "explanation": "sophisticated = 세련된/교양 있는. go on auditions = 오디션 보러 다니다. a real job = 번듯한(제대로 된) 직업."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Come on, we were great together. And not just at the fun stuff, but like, talking too.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Yeah, well, sorry, Joe. You said let's just be friends, so guess what?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "We're just friends.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Fine, fine, so, why don't the four of us go out and have dinner together tonight? You know, as friends?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "What four of us?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You know, you and Bob, and me and my girlfriend, uh, uh, Monica.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's apartment, Joey is there, trying to convince Monica to pose as his girlfriend. His plan is to hook Monica up with Angela's boyfriend Bob and then take Angela back for himself.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Monica, I'm tellin' you, this guy is perfect for you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Forget it. Not after your cousin who could belch the alphabet.",
+      "korean": "됐어. 트림으로 알파벳 외던 네 사촌 이후론 안 돼.",
+      "explanation": "belch = 트림하다. 'belch the alphabet' = 트림으로 알파벳을 말하는 (역겨운) 장기."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Come on. This guy's great. His name's Bob. He's Angela's... brother. He's smart, he's sophisticated, and he has a real job. Me, I go on three auditions a month and call myself an actor, but Bob is...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(looking out window) Oh, god help us.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Ugly Naked Guy's laying kitchen tile. Eww!",
+      "korean": "'벗은 못생긴 남자'가 부엌에 타일 깔고 있어. 으윽!",
+      "explanation": "lay tile = 타일을 깔다. Ugly Naked Guy = 친구들이 건너편 건물에서 늘 지켜보는 인물(러닝개그)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What's going on here? You go out with tons of girls.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(proud) I know, but, I made a huge mistake. I never should have broken up with her. Will you help me? Please?",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Ross' apartment, Chandler is over.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(on phone) Ok, bye. (hangs up) Well, Monica's not coming, it's just gonna be me and Rachel.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh. Well, hold on camper, are you sure you've thought this thing through?",
+      "korean": "어. 잠깐 친구, 이거 충분히 생각해 본 거 맞아?",
+      "explanation": "think (something) through = 충분히/끝까지 숙고하다(phrasal). camper = (구어) 친구/녀석을 친근하게 부르는 말.",
+      "examples": [
+        "Have you thought this through?"
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "It's laundry. The thinking through is minimal.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "It's just you and Rachel, just the two of you? This is a date. You're going on a date.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Nuh-uh.",
+      "korean": "아니거든.",
+      "explanation": "Nuh-uh = '아니거든/아니야'의 구어, Yuh-huh = '맞거든/맞아'의 구어(주로 티격태격할 때)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yuh-huh.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So what're you saying here? I should shave again, pick up some wine, what?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear—you want it to be dirty?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(sheepish) No.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, and uh, the fabric softener?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.",
+      "korean": "내 스너글스가 어때서? 이건 내가 섬세하고 따뜻한 사람이란 거지, 포근한 곰 인형처럼. 알았어, 오는 길에 다른 걸로 사 올게.",
+      "explanation": "Snuggles = 미국 섬유유연제 브랜드(곰 마스코트). fabric softener = 섬유유연제. warm and fuzzy = 포근하고 다정한."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "There you go.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: A fancy restaurant, Joey and Monica are there, meeting Angela and Bob, who Monica thinks is Angela's brother.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Thank you. So what does this Bob guy look like? Is he tall? Short?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yep.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Which?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Which what?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "You've never met Bob, have you?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "No, but he's...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh my god, Joey, for all we know this guy could be horribly...",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Angela and Bob walk in. Bob is good-looking.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Hey, Joey.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "...horribly attractive. I'll be shutting up now.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Chandler and Phoebe are there, both ready to break up with their significant others.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Where are they? Where are they?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "This is nice. We never do anything just the two of us.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "It's great. Maybe tomorrow we can rent a car and run over some puppies.",
+      "korean": "좋네. 내일은 차 빌려서 강아지들이나 치고 다닐까.",
+      "explanation": "run over = (차로) 치다/깔다(phrasal). 챈들러의 음울한 농담.",
+      "examples": [
+        "He ran over a squirrel."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Eww, I don't wanna do that.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Janice and Phoebe's boyfriend, Tony, walk in.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Here we go.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Ok, have a good break-up.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, Janice.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "Oh, my god, I am so glad you called me. I had the most supremely awful day.",
+      "korean": "아, 세상에, 네가 전화해줘서 너무 기뻐. 오늘 더없이 끔찍한 하루였거든.",
+      "explanation": "supremely = 더없이/지극히(강조). awful = 끔찍한."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, that's not good. Can I get an espresso and a latte over here, please?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "We got the proofs back from that photo shoot, you know, the one with the little vegetables. Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...(looks through her bags)... and I got you, I'm looking, I'm looking, I'm looking, I got you...",
+      "korean": "그 사진 촬영 시안이 나왔는데, 왜 그 채소들 나오는 거. 근데 완전 형편없어서, 남은 하루는 다 제껴버리고 쇼핑하러 갔어.",
+      "explanation": "proofs = (사진) 시안/교정용 견본. photo shoot = 사진 촬영. suck = 형편없다(구어). blow off = (일·약속을) 제껴버리다/땡땡이치다(phrasal)."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler sees Phoebe breaking up with Tony. She talks to him for a few seconds, hugs him, and then he leaves. Chandler is amazed how easy it was for her.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(covering) What... did you get me there?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "I got you...these. (pulls out a pair of socks)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Bullwinkle socks. That's so sweet.",
+      "korean": "불윙클 양말이네. 정말 다정하다.",
+      "explanation": "Bullwinkle = 옛 미국 만화 'Rocky and Bullwinkle'의 무스(말코손바닥사슴) 캐릭터(Rocky는 다람쥐). 캐릭터 양말."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
+      "korean": "그게, 너 로키 양말도 있잖아, 그래서 불윙클-불윙클로 신든가, 로키-로키로 신든가, 아니면 섞어서 무스랑 다람쥐로 신어도 되고. 맘대로 해.",
+      "explanation": "mix and match = (서로 다른 걸) 섞어 맞추다/믹스매치. moose = 무스(불윙클), squirrel = 다람쥐(로키) — 만화 두 캐릭터."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "That's great.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(The drinks arrive, and Chandler downs his espresso in one gulp.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Well, I'm gonna get another espresso. Can I get you another latte?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "(holding the full cup) No, no, I'm still working on mine.",
+      "korean": "(가득 찬 잔을 들고) 아니, 난 아직 마시는 중이야.",
+      "explanation": "be working on (a drink/food) = (음료·음식을) 아직 다 못 먹고 먹는 중이다.",
+      "examples": [
+        "I'm still working on my coffee."
+      ]
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler walks over to the counter where Phoebe is, and is asking her about the break-up.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "That's it?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yeah, it was really hard.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, yeah, that hug looked pretty brutal.",
+      "korean": "오, 그래, 그 포옹 꽤 가혹해 보이던데.",
+      "explanation": "brutal = 잔혹한/혹독한 — 여기선 (이별의 포옹이) 가혹해 보였다는 비꼼."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Ok, you weren't there.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The Launderama, Rachel is there, waiting for Ross. An old woman takes Rachel's clothes off the machine and begins loading it with her things.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Comin' through. Move, move.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, 'scuse me. I was kinda using that machine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Yeah, well, now you're kinda not.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "But I saved it. I put my basket on top.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "No suds, no save. Ok?",
+      "korean": "거품 없으면 자리 맡기 무효. 알겠어?",
+      "explanation": "suds = 비누 거품. 'No suds, no save' = 거품(=빨래 시작)이 없으면 기계 맡아둔 걸 인정 안 한다는, 빨래방 텃세 규칙을 운율 있게 말한 것."
+    },
+    {
+      "type": "direction",
+      "text": "(Ross arrives.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What's goin' on?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Hi, uh, nothing. That horrible woman just took my machine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Was your basket on top?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah, but, there were no suds.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, you know, no suds, no save.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No suds? Excuse me, hold on a second. (to woman) That's my friend's machine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Hey, hey, hey, her stuff wasn't in it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Hey, hey, hey, that's not the rule and you know it.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(The woman and Ross stare at each other. Finally she takes her stuff out of the machine and leaves.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(to the crowd in the laundromat) All right, show's over. Nothing to see here. (to Rachel) Ok, let's do laundry.",
+      "korean": "(빨래방 사람들에게) 자, 상황 종료. 볼 거 없습니다. (레이첼에게) 자, 빨래하자.",
+      "explanation": "show's over, nothing to see here = '상황 끝났으니 흩어지세요' — 구경꾼을 해산시킬 때 쓰는 상투적 표현."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "That was amazing. I can't even send back soup.",
+      "korean": "대단했어. 난 수프도 못 무르는데.",
+      "explanation": "send back = (식당에서 음식을) 돌려보내다/무르다(phrasal). 소심해서 잘못 나온 수프조차 못 무른다는 뜻.",
+      "examples": [
+        "She sent the steak back."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, that's because you're such a sweet, gentle, uh...Do you, uh, do you...Oh, hey, uh you must need detergent.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Ross pulls out a huge box of laundry detergent.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What's that?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Uberveiss. It's new, it's German, it's extra-tough.",
+      "korean": "우버바이스야. 신제품이고, 독일제고, 엄청 강력해.",
+      "explanation": "Uberveiss = 극강의 세제처럼 들리게 만든 가짜 독일 브랜드명(über '매우' + weiss '하얀'). extra-tough = 아주 강력한."
+    },
+    {
+      "type": "direction",
+      "text": "(Rachel starts to load her clothes.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Rach, do you uh, are you gonna separate those?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh god. Oh, am I being like a total laundry spaz? I mean, am I supposed to use like one machine for shirts and another machine for pants?",
+      "korean": "오 이런. 나 완전 빨래 똥손처럼 굴고 있어? 셔츠는 이 기계, 바지는 저 기계 이렇게 써야 해?",
+      "explanation": "spaz = (구어) 허둥대는·서툰 사람(다소 비하적인 옛 속어). 'laundry spaz' = 빨래 잘 못하는 사람."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Rach, have you never done this before?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, not myself, but I know other people that have. Ok, you caught me. I'm a laundry virgin.",
+      "korean": "혼자 해본 적은 없는데, 해본 사람은 알아. 알았어, 들켰어. 나 빨래 완전 초보야.",
+      "explanation": "you caught me = 들켰네/딱 걸렸네. (laundry) virgin = (비유) ~을 한 번도 안 해본 초보. virgin은 '처음 해보는 사람'이라는 뜻으로도 씀."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Uh, well, don't worry, I'll use the gentle cycle. Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.",
+      "korean": "걱정 마, 약한 코스로 돌릴게. 기본적으로 흰옷은 한 기계, 색깔옷은 완전히 다른 기계, 세 번째는 섬세한 빨랫감 — 그러니까 브라랑 속옷류.",
+      "explanation": "a whole nother = 완전히 별개의(another를 'a whole + nother'로 쪼갠 구어). delicates = 섬세한 빨랫감(속옷·약한 옷감). gentle cycle = (세탁기) 약한 코스."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(visibly nervous) Uh, that, that, that would be a judgment call.",
+      "korean": "그건, 그건… 그건 알아서 판단할 문제지.",
+      "explanation": "judgment call = (정답이 없어) 그때그때 알아서 내리는 주관적 판단/재량 결정.",
+      "examples": [
+        "Whether to wait or go is a judgment call."
+      ]
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Fancy restaurant, Monica, Joey, Angela, and Bob are seated at the table.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(to Joey) He is so cute. (to Angela and Bob) So, where did you guys grow up?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Brooklyn Heights.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bob",
+      "english": "Cleveland.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "How, how did that happen?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Oh my god.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "I suddenly had the feeling that I was falling. But I'm not.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Fancy restaurant, Joey and Bob are talking.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "So, you and Angela, huh?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bob",
+      "english": "Yep. Pretty much.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You're a lucky man. You know what I miss the most about her? That cute nibbly noise when she eats. Like a happy little squirrel, or a weasel.",
+      "korean": "넌 운 좋은 남자야. 내가 걔한테서 제일 그리운 게 뭔지 알아? 먹을 때 그 귀여운 오물오물 소리. 행복한 다람쥐나 족제비처럼.",
+      "explanation": "nibble = 조금씩 갉아먹다 → nibbly = 오물오물 갉아먹는. weasel = 족제비."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bob",
+      "english": "Huh, I never really noticed.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Oh, yeah, yeah, listen for it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Bob",
+      "english": "Monica, Monica is great.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah, but it's not gonna last. She's too much for me in bed. Sexually.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The ladies' bathroom at the restaurant, Monica and Angela are talking.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I've gotta tell you, Bob is terrific.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Yeah, isn't he?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "You know what else? He's unbelievable in bed.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Wow. My brother never even told me when he lost his virginity.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Angela",
+      "english": "Huh. That's nice.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Phoebe is coaching Chandler on how to break up with Janice.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Ok, you can do this. It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.",
+      "korean": "그래, 할 수 있어. 반창고 떼는 거랑 똑같아. 그냥 아주 빨리 떼면 상처가 드러나는 거야.",
+      "explanation": "pull off a Band-aid = 반창고를 떼다 → 괴롭더라도 단번에 빨리 해치우라는 비유. Band-aid = 반창고(상표명이 일반명사처럼 쓰임)."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler walks back to couch, where Janice is.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "All right. Well, there you go. (she gets extremely wound up, and begins to try and calm herself down) Stop it, stop it, stop it.",
+      "korean": "알았어. 자, 그럼 그렇게. (잔뜩 격해져서는 스스로 진정시키려 한다) 그만, 그만, 그만.",
+      "explanation": "wound up = (감정이) 잔뜩 긴장·흥분한 상태(wind up '감다/조이다'의 과거분사). get wound up = 흥분하다."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The laundromat.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? (the buzzer on the washer goes off) I'm sorry, that's all the time we have. Next on Ross...(opens up the washer) Uh-oh.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What uh-oh?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(not wanting to tell her) Uh-oh, uh-oh, the laundry's done. It's, uh, it's a song. The laundry song that we sing. (singing) Uh-oh the laundry's done, uh-oh, uh-oh.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ross, what's the matter?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Nothing, nothing. Lee-lo, the laundry's done.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Come on, show me.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "All right, all right, it's just that you left a red sock in with all your whites, and now, everything's kinda pink.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, everything's pink.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!",
+      "korean": "그래도 안 그랬어. 나한테 그랬지. 아, 나 완전 큰 마시멜로 핍처럼 보이겠다. 나 뭐 하는 거야? 아빠 말이 맞아. 난 혼자 못 살아! 빨래도 못 하잖아!",
+      "explanation": "marshmallow Peep(s) = 부활절에 파는 분홍·노랑 병아리 모양 마시멜로 과자. 옷이 다 분홍이 돼 '큰 마시멜로 핍 같다'는 비유."
+    },
+    {
+      "type": "direction",
+      "text": "(The woman who had tried to steal the washing machine walks by, and laughs.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The fancy restaurant, Angela has her hand in Bob's shirt, and Monica is very uncomfortable.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Something went wrong with Underdog, and they couldn't get his head to inflate. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?",
+      "korean": "…언더독에 뭔가 문제가 생겨서 머리에 바람을 못 넣은 거야. 그래서 머리가 브로드웨이를 따라 흐물흐물 늘어지는데, 난 그냥… 이거 너무 부적절하다 싶었지. 어, 눈에 뭐가 들어갔어, 조이, 밝은 데서 봐줄래?",
+      "explanation": "Underdog = 미국 만화 캐릭터 — 추수감사절 메이시 퍼레이드의 대형 풍선으로 등장. flop = 흐물흐물 늘어지다/널브러지다."
+    },
+    {
+      "type": "direction",
+      "text": "(Her and Joey walk away from the table.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh my god.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hello! Were we at the same table? It's like... cocktails in Appalachia.",
+      "korean": "여보세요! 우리 같은 테이블에 있던 거 맞아? 이건 무슨… 애팔래치아 칵테일파티네.",
+      "explanation": "Appalachia = 미국 동부 산간 지역(가난·근친 결혼 스테레오타입의 대상). 'cocktails in Appalachia' = 앤절라와 밥이 너무 가까워 마치 근친처럼 보인다는 비꼼(둘은 실제 남매)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Come on, they're close.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Close? She's got her tongue in his ear.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Oh, like you've never gotten a little rambunctious with Ross.",
+      "korean": "왜, 너도 로스랑 좀 거칠게 논 적 있을 거 아냐.",
+      "explanation": "rambunctious = 제멋대로 떠들썩한/거칠게 흥분한. (모니카의 오빠 로스를 들먹이는 조이의 짓궂은 농담)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Joey, this is sick, it's disgusting, it's, it's—not really true, is it?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Well, who's to say what's true? I mean...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh my god, what were you thinking?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "All right, look, I'm not proud of this, ok? Well, maybe I am a little.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(hits him lightly) Oh!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Ow!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(leaving) I'm outta here.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Wait, wait, wait. You want him, I want her. He likes you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Really?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "[Time lapse, Monica accidentally spilled her drink on Bob's shirt and is wiping it off. Joey is making eyes at Angela.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.",
+      "korean": "정말 미안, 내가 이러면 안 되는데, 네 노먼 메일러 얘기에 웃음을 참을 수가 없었어.",
+      "explanation": "Norman Mailer = 미국의 유명 소설가·논객(실존 인물). 그의 일화를 들으며 웃다가 그만 키스했다는 맥락."
+    },
+    {
+      "type": "direction",
+      "text": "(Angela is eating chicken wings and making the weasel-like noise Joey had told Bob about.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Uh, waiter, one more plate of chicken wings over here.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Chandler is still trying to ease things over with Janice, and there are about a dozen empty Espresso cups in front of him. He is extremely wired.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Here's the thing, Janice. You know, I mean, it's like we're different. I'm like the bing, bing, bing. You're like the boom, boom, (Chandler flails his hand out and hits Janice in the eye)... boom.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "Ow!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, my god, I'm so sorry. Are you ok?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Janice",
+      "english": "Ow. Um, it's just my lens. It's just my lens. I'll be right back.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(She leaves.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(to Phoebe) I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh my god. (Chandler downs another espresso.) How many of those have you had?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, I don't know, a million?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Chandler, easy, easy. Go to your happy place. La la la la la la la.",
+      "korean": "챈들러, 진정해, 진정해. 네 행복한 곳으로 가. 라라라라라.",
+      "explanation": "(go to your) happy place = 스트레스 받을 때 떠올리는 마음속 평온한 장소 — 진정하라는 뜻의 표현."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm fine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "All right.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Janice returns from the bathroom.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm not fine. Here she comes.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Wait here. Breathe.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe goes over to speak to Janice. She talks to her for a few seconds, and then Janice immediately smiles, hugs her, waves to Chandler, and leaves.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "How do you do that?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "It's like a gift.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "We should always always break up together.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, I'd like that.",
+      "korean": ""
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The Launderama. Rachel is sorting her now-pink clothes.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You got the clothes clean. Now that's the important part.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, I guess. Except everything looks like jammies now.",
+      "korean": "그런가 봐. 근데 이제 다 잠옷처럼 보여.",
+      "explanation": "jammies = 잠옷(pajamas의 애칭). 옷이 다 분홍·연한 색이 돼 잠옷 같다는 것."
+    },
+    {
+      "type": "direction",
+      "text": "(The same woman walks over and takes Rachel's laundry cart.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Whoa, I'm sorry. Excuse me. We had this cart.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Yeah, well, I had a 24-inch waist. You lose things. Now come on, get outta my way.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Rachel looks at Ross, who motions to her to get the cart back.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I'm sorry, you know, maybe I wasn't being clear. Uh, this is our cart.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Hey, hey, hey there aren't any clothes in it.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Hey, hey, hey, hey, quit making up rules!",
+      "korean": "야, 야, 야, 규칙 좀 멋대로 지어내지 마!",
+      "explanation": "make up (rules) = (규칙 등을) 멋대로 지어내다/꾸며내다(phrasal).",
+      "examples": [
+        "Stop making up excuses."
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Woman",
+      "english": "Let go!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(They struggle for the cart. Finally, Rachel climbs inside of it.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "All right, listen, missy. If you want this cart, you're gonna have to take me with it!",
+      "korean": "좋아, 들어 봐, 아가씨. 이 카트 가져가려면 나까지 데려가야 할 거야!",
+      "explanation": "missy = (시비조·훈계조로) '아가씨/이봐 아가씨' — 못마땅한 상대 여성을 부를 때."
+    },
+    {
+      "type": "direction",
+      "text": "(She thinks it over, and then walks away.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(to Ross) Yes! Did you see that?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You were incredible! Brand new woman, ladies and gentlemen.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I could not have done this without you.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Rachel stands up and kisses Ross. He is stunned. A moment of silence follows.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Are you sure?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No.",
+      "korean": ""
+    },
+    {
+      "type": "section",
+      "text": "Closing Credits"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Ross, Rachel, and Phoebe are there. Ross has an icepack to his head.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, are you sure you're ok?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Does it still hurt?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(seeing Rachel's clothes) What a neat idea. All your clothes match. I'm gonna do this.",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Monica and Joey enter.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Hey, how'd it go?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Excellent.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "We ripped that couple apart, and kept the pieces for ourselves.",
+      "korean": "우리 그 커플 갈가리 찢어놓고, 조각은 우리가 하나씩 챙겼지.",
+      "explanation": "rip apart = 갈가리 찢다 → (커플 등을) 갈라놓다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What a beautiful story. Hey, I'm fine by the way.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(notices his head) Oh, I'm sorry.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Where's Chandler?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, he needed some time to grieve.",
+      "korean": "아, 슬퍼할 시간이 좀 필요하대.",
+      "explanation": "grieve = (상실을) 슬퍼하다/애도하다. 이별 후 슬퍼할 시간 — 하지만 챈들러는 '자유다!'라며 좋아하는 반전."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler runs by the window outside, joyous.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm free! I'm free!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "That oughta do it.",
+      "korean": "그럼 됐네.",
+      "explanation": "That oughta do it. = 그럼 됐네/그거면 충분해(ought to = ~할 것이다; '그 정도면 충분히 효과가 있을 것'이라는 뜻)."
+    },
+    {
+      "type": "section",
+      "text": "End"
+    }
+  ]
+}
