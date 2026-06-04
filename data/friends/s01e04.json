@@ -1110,8 +1110,8 @@
       "type": "dialogue",
       "speaker": "Pizza Guy",
       "english": "Yeah. This one goes across the street, I must have given him yours. Oh, bonehead, bonehead!",
-      "korean": "…아, 멍청이, 이 돌대가리!",
-      "explanation": "bonehead = 멍청이·돌대가리(bone+head). 배달부가 주문을 바꿔 준 자기를 자책하는 말."
+      "korean": "네. 이건 길 건너로 갈 거예요, 그쪽 걸 그 사람한테 줬나 봐요. 아, 멍청이, 이 돌대가리!",
+      "explanation": "this one goes across the street = 이 피자는 길 건너(집)로 가는 주문이에요 — go = (배달·물건 등이) ~로 가다/~행이다. bonehead = 멍청이·돌대가리(bone+head)."
     },
     {
       "type": "dialogue",
@@ -1135,7 +1135,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "And-and a power tie?",
-      "korean": ""
+      "korean": "그-그리고 파워 타이도?",
+      "explanation": "power tie = (권위·자신감을 드러내는) 강렬한 색의 넥타이 — 보통 빨강처럼 눈에 띄는 색으로, 정치인·비즈니스맨이 힘 있어 보이려 매는 넥타이(1980년대 유행어)."
     },
     {
       "type": "dialogue",
@@ -1159,7 +1160,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Are you nuts?! We've got George Stephanopoulos' pizza! (Rachel pays him, Monica grabs some binoculars, and runs to the window.)",
-      "korean": ""
+      "korean": "너 미쳤어?! 우리한테 조지 스테파노풀로스 피자가 있는데!",
+      "explanation": "be nuts = (구어) 미치다/제정신이 아니다. 'Are you nuts?!' = 너 미쳤어?/무슨 소리야?! 배달부가 피자를 도로 가져갈까 묻자 모니카가 펄쩍 뛰는 것.",
+      "examples": [
+        "Give it back? Are you nuts?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1349,7 +1354,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+      "english": "Little louder, okay, I think there's a man on the twelfth floor in a coma who didn't quite hear you...",
       "korean": "좀 더 크게 말하지 그래, 12층에 혼수상태인 사람이 못 들은 것 같으니까…",
       "explanation": "반어 — 챈들러가 비밀을 너무 큰 소리로 떠들자 '저 위층 혼수상태 환자도 들리게 더 크게 말해라'라고 비꼬는 것. in a coma = 혼수상태인."
     },
@@ -1549,8 +1554,8 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "No, you kidding? The guy's a freak.. (Ross enters off camera)",
-      "korean": "아니, 농담해? 그 사람 완전 별종이야.",
+      "english": "No, you kidding? The guy's a freak. I judge him. (Ross enters off camera)",
+      "korean": "아니, 농담해? 걔 완전 별종이야. 이상한 놈이라고 생각해.",
       "explanation": "freak = 별종·괴짜(정상에서 벗어난 사람). (you) kidding? = 농담해?/말이 돼?(= Are you kidding?). 앞에선 멋지다더니 곧장 뒤집는 챈들러식 반전."
     },
     {
@@ -1640,8 +1645,9 @@
     {
       "type": "dialogue",
       "speaker": "Receptionist",
-      "english": "Hey! Hey! No rough holding in my ER!",
-      "korean": ""
+      "english": "Hey! Hey! No roughhousing in my ER!",
+      "korean": "야! 야! 내 응급실에서 거칠게 몸싸움 금지야!",
+      "explanation": "roughhousing = 거칠게 몸싸움하듯 떠들며 노는 것/난투(roughhouse = 거칠게 뛰놀다). ER = emergency room(응급실). (로스와 아이가 퍽을 두고 몸싸움하자 접수원이 제지하는 말)"
     },
     {
       "type": "dialogue",
