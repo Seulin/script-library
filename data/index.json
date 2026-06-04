@@ -15,6 +15,10 @@
         {
           "title": "S01E03 · The One with the Thumb",
           "file": "friends/s01e03.json"
+        },
+        {
+          "title": "S01E04 · The One with George Stephanopoulos",
+          "file": "friends/s01e04.json"
         }
       ]
     }

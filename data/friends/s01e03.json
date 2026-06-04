@@ -1742,7 +1742,12 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "(tearful) I just can't believe this! I mean, with the holidays coming up- I wanted him to meet my family-",
-      "korean": ""
+      "korean": "정말 믿을 수가 없어! 그러니까, 연휴도 다가오는 마당에- 그 사람을 우리 가족한테 소개하고 싶었는데-",
+      "explanation": "with + 명사 + 분사 = 「부대상황」 구문으로 '~가 ~하는 상황에서/~인 마당에'라는 배경·이유를 덧붙임. with the holidays coming up = 연휴가 다가오는 마당에(come up = 행사·날짜가 다가오다). 분사가 능동이면 -ing, 수동이면 과거분사(with the door closed = 문이 닫힌 채로).",
+      "examples": [
+        "With winter coming, prices are rising.",
+        "He left with the engine still running."
+      ]
     },
     {
       "type": "dialogue",
@@ -1901,7 +1906,12 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "(leaving) I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!",
-      "korean": ""
+      "korean": "(나가며) 상관없어, 상관없어! 게임 끝이야! 난 약해 빠졌어! 담배 피워야 해! 그 담배를 꼭 피워야 한다고!",
+      "explanation": "gotta = (have) got to = '~해야 한다'의 구어(have to보다 절박·강조). have a smoke = 담배 한 대 피우다(smoke가 명사로 '담배 한 대'). 여기선 a 대신 the를 써서 '바로 그 담배(그토록 원하는 그것)'를 가리키며 갈망을 극적으로 과장한 표현.",
+      "examples": [
+        "I've gotta have it.",
+        "Let me step outside for a smoke."
+      ]
     },
     {
       "type": "dialogue",
