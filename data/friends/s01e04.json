@@ -41,7 +41,11 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "See, there's always one guy. (Mocking) \"If I had a wish, I'd wish for three more wishes.\" (Joey enters.)",
-      "korean": ""
+      "korean": "봐, 꼭 이런 애가 하나 있어. (흉내) '소원이 하나 있으면, 소원 세 개를 더 빌 거야.'",
+      "explanation": "there's always one guy = '꼭 이런 사람 하나는 있다'는 관용 표현. 'If I had a wish, I'd ~'도 가정법(소원이 있다면 ~할 텐데). 소원으로 소원을 더 비는 얄미운 타입을 흉내 내는 것.",
+      "examples": [
+        "There's always one in every group."
+      ]
     },
     {
       "type": "dialogue",
@@ -71,7 +75,8 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Hey, if Little Joey's dead, then I got no reason to live!",
-      "korean": ""
+      "korean": "야, '리틀 조이'가 죽으면 난 살 이유가 없다고!",
+      "explanation": "'Little Joey' = 조이가 자기 남성 부위를 의인화해 부르는 별명. impotent(발기불능)로 오해한 데서 이어지는 농담. I got no ~ = I have no ~(구어)."
     },
     {
       "type": "dialogue",
@@ -151,7 +156,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "My grandmother has this new boyfriend, and they're both kind of insecure in bed. Oh, and deaf. So they're constantly, like, having to reassure each other that they're having a good time. You have no idea how loud they are!",
-      "korean": ""
+      "korean": "할머니한테 새 남자친구가 생겼는데, 둘 다 잠자리에서 좀 자신이 없어. 게다가 귀도 안 들리고. 그래서 서로 좋았다고 끊임없이 안심시켜 줘야 해. 둘이 얼마나 시끄러운지 넌 상상도 못 해!",
+      "explanation": "insecure = (불안해서) 자신 없는. reassure = 안심시키다/다독이다. You have no idea = 넌 짐작도 못 할걸(정도 강조)."
     },
     {
       "type": "dialogue",
@@ -219,7 +225,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
-      "korean": ""
+      "korean": "그러니까, 표가 하나 남는데 너희 둘 중 누가 데이트 상대를 데려올지 못 정한 거지?",
+      "explanation": "get to + 동사원형 = ~할 기회·특권을 얻다, ~하게 되다. 'which one of you got to bring a date' = 너희 중 누가 데이트 상대를 '데려오는 기회'를 가질지. 표가 한 장 남아 둘 중 한 명만 데려올 수 있는 상황을 비꼬는 것.",
+      "examples": [
+        "I got to meet the author.",
+        "Do I get to choose?"
+      ]
     },
     {
       "type": "dialogue",
@@ -334,7 +345,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "I remember the day I got my first pay check. There was a cave in in one of the mines, and eight people were killed.",
+      "english": "I remember the day I got my first pay check. There was a cave-in in one of the mines, and eight people were killed.",
       "korean": "나도 첫 월급 받던 날 기억나. 광산 한 곳에서 갱도가 무너져서 여덟 명이 죽었거든.",
       "explanation": "cave-in = (광산·갱도의) 붕괴/무너짐(동사 cave in = 무너지다). 피비 특유의 뜬금없이 음울한 농담."
     },
@@ -348,7 +359,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "I worked in a Dairy Queen, why?",
-      "korean": ""
+      "korean": "나 데어리 퀸에서 일했는데, 왜?",
+      "explanation": "Dairy Queen(DQ) = 미국의 소프트 아이스크림·패스트푸드 체인점. 앞서 '광산 붕괴' 얘기를 듣고 모니카가 '광산에서 일했냐'고 묻자, 피비가 '아니, 데어리 퀸'이라며 받아치는 장면."
     },
     {
       "type": "dialogue",
@@ -389,7 +401,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Oh, by the way, great service tonight.",
-      "korean": ""
+      "korean": "아 그나저나, 오늘 밤 서비스 아주 좋았어.",
+      "explanation": "반어/농담 — 친구를 식당에서 손님인 척 대하며 '서비스 좋았다'고 능청 떠는 것(레이첼이 웨이트리스라). by the way = 그나저나/참고로."
     },
     {
       "type": "dialogue",
@@ -416,7 +429,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Oh my God! (Rachel, Leslie, Kiki, and Joanne all scream and hug each other.",
+      "english": "Oh my God! (Rachel, Leslie, Kiki, and Joanne all scream and hug each other.)",
       "korean": ""
     },
     {
@@ -442,7 +455,8 @@
       "type": "dialogue",
       "speaker": "Joanne",
       "english": "Look at you in the apron. You look like you're in a play.",
-      "korean": ""
+      "korean": "앞치마 두른 너 좀 봐. 무슨 연극에 나온 사람 같아.",
+      "explanation": "Look at you = (놀람·감탄) '얘 좀 봐/너 좀 봐'. in a play = 연극에 출연한. 레이첼이 웨이트리스 차림인 게 어색·신기하다는 뉘앙스."
     },
     {
       "type": "dialogue",
@@ -474,7 +488,8 @@
       "type": "dialogue",
       "speaker": "Kiki",
       "english": "And while we're on the subject of news.. (She holds up here finger to show off her engagement ring and they all scream again.)",
-      "korean": ""
+      "korean": "그리고 소식 얘기가 나온 김에…",
+      "explanation": "while we're on the subject of ~ = ~ 얘기가 나온 김에. on the subject of ~ = ~에 관하여."
     },
     {
       "type": "dialogue",
@@ -489,14 +504,15 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "...Poulet passes it up to Leetch! (Passes it to Joey.)",
+      "english": "Crosses the blue line and passes it up to Leetch! (Passes it to Joey.)",
       "korean": ""
     },
     {
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Leetch spots Messier in the crease- there's the pass! (He kicks it to Ross, but Ross is staring into a shop window.)",
-      "korean": ""
+      "korean": "리치가 크리스에 있는 메시어를 포착- 패스 들어갑니다!",
+      "explanation": "crease = (아이스하키) 골 크리스 — 골문 앞에 표시된 골키퍼 전용 반원 구역. (일반적으로는 '주름·접힌 자국'이라는 뜻도 있음) Leetch·Messier는 당시 뉴욕 레인저스의 스타 선수로, 챈들러·조이가 길에서 하키 중계를 흉내 내는 장면."
     },
     {
       "type": "dialogue",
@@ -524,13 +540,15 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Peach pit.",
-      "korean": ""
+      "korean": "복숭아씨네.",
+      "explanation": "peach pit = 복숭아씨(가운데 단단한 씨/핵). pit = (복숭아·자두·체리 등의) 굵은 씨. 로스가 길에 떨어진 복숭아씨를 보고 캐럴과의 그날 밤을 떠올리는 장면."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Yes, Bunny?",
-      "korean": ""
+      "korean": "응, 버니?",
+      "explanation": "Bunny(토끼) = 챈들러가 감상에 젖은 로스를 짐짓 다정하게/놀리듯 부르는 애칭."
     },
     {
       "type": "dialogue",
@@ -548,13 +566,18 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Actually, nectarines, but basically...",
-      "korean": ""
+      "korean": "사실은 천도복숭아였지만, 뭐 거기서 거기지…",
+      "explanation": "nectarine = 천도복숭아 — 복숭아의 한 품종으로 껍질에 솜털이 없고 매끈하다. (조이가 'Peaches?'라고 묻자 로스가 '정확히는 천도복숭아'라고 정정하는 것)"
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "(to Joey) Could've been a peach.",
-      "korean": ""
+      "korean": "복숭아였을 수도 있지, 뭐.",
+      "explanation": "could have + 과거분사 = (과거에) ~였을 수도 있다(추측·가정). 천도복숭아든 복숭아든 상관없다는 챈들러의 시큰둥한 한마디.",
+      "examples": [
+        "It could have been worse."
+      ]
     },
     {
       "type": "dialogue",
@@ -634,7 +657,8 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Okay, I'm not just waitressing. I'm.. I, um... I write the specials on the specials board, and, uh... and I, uh... I take the uh dead flowers out of the vase... Oh, and, um, sometimes Artelle lets me put the little chocolate blobbies on the cookies.",
-      "korean": ""
+      "korean": "…오늘의 메뉴를 칠판에 적고, 꽃병에서 시든 꽃을 빼고… 가끔 아르텔이 쿠키에 작은 초콜릿 방울을 짜 얹게 해줘.",
+      "explanation": "blob = (액체·반죽의) 방울/덩어리 → 'blobbies'는 거기에 귀여운 어미를 붙인 즉흥 조어(작은 초콜릿 방울). specials board = 오늘의 특선 메뉴를 적는 칠판."
     },
     {
       "type": "dialogue",
@@ -650,7 +674,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Hey, Rach. How was it with your friends? (She and Phoebe scream.) Okay! How would you like some Tiki Death Punch? (She pours the contents of the blender into some glasses.)",
-      "korean": ""
+      "korean": "음- 그게, 럼주에다-",
+      "explanation": "punch = 과일주스에 술을 섞은 파티 음료(여기선 Tiki Death Punch라는 럼주 칵테일). rum = 럼주."
     },
     {
       "type": "dialogue",
@@ -700,7 +725,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "(on phone) Could you please tell me what this is in reference to? (Listens) Yes, hold on. (To Rachel) Um, they say there's been some unusual activity on your account.",
-      "korean": ""
+      "korean": "이게 무슨 일로 연락 주신 건지 말씀해 주시겠어요?… 계좌에 평소와 다른 사용 내역이 있대.",
+      "explanation": "in reference to ~ = ~에 관하여/~ 건으로(격식). unusual activity on your account = 계좌의 평소와 다른 사용 내역(카드사·은행의 상투적 표현)."
     },
     {
       "type": "dialogue",
@@ -718,7 +744,8 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "They wanna know if I'm okay. Okay.. they wanna know if I'm okay, okay, let's see. Well, let's see, the FICA guys took all my money, everyone I know is either getting married, or getting promoted, or getting pregnant, and I'm getting coffee! And it's not even for me! So if that sounds like I'm okay, okay, then you can tell them I'm okay, okay?",
-      "korean": ""
+      "korean": "…피카가 내 돈 다 가져가지, 아는 사람들은 죄다 결혼하거나 승진하거나 임신하는데, 난 커피나 나르고 있어! 그것도 내가 마실 것도 아니고!",
+      "explanation": "'getting married/promoted/pregnant'(다들 뭔가 이루는데)와 'getting coffee'(난 커피 심부름이나)를 대비시킨 말장난·자조. get coffee = 커피를 가져다주다(심부름)."
     },
     {
       "type": "dialogue",
@@ -753,7 +780,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "No, actually I was just saying it looks like we're not sitting together. But now you mention it, there was ice there that night... It was the first frost...",
-      "korean": ""
+      "korean": "…그날 밤에도 얼음이 있었지… 첫 서리가 내린 날이었거든…",
+      "explanation": "frost = 서리. the first frost = 그해 처음 내린 서리(첫 서리). 하키장 얼음을 보고 또 캐럴과의 추억을 떠올리는 로스."
     },
     {
       "type": "dialogue",
@@ -768,7 +796,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "You should feel great about yourself! You're doing this amazing independence thing!",
+      "english": "You should feel great about yourself! You're doing this amazing independent thing!",
       "korean": ""
     },
     {
@@ -844,7 +872,11 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "So what, you're not the only one. I mean, half the time we don't know where we're going. You've just gotta figure at some point it's all gonna come together, and it's just gonna be... un-floopy.",
-      "korean": ""
+      "korean": "…언젠가는 다 맞아떨어질 거라고 생각해야지, 그럼 그게… 안 '플루피'해지는 거고.",
+      "explanation": "come together = (일·계획이) 잘 맞아떨어지다/정리되다. figure (that) ~ = ~라고 생각하다(짐작하다). un-floopy = 피비의 조어 floopy에 un-을 붙인 즉흥 반대말.",
+      "examples": [
+        "Don't worry, it'll all come together."
+      ]
     },
     {
       "type": "dialogue",
@@ -965,7 +997,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(jumping to his feet) Look, I don't wanna make any trouble, okay, but I'm in a lot of pain here, alright? My face is dented.",
-      "korean": ""
+      "korean": "…나 지금 엄청 아프거든요. 얼굴이 움푹 들어갔다고요.",
+      "explanation": "dented = 움푹 들어간/찌그러진(dent = 움푹 들어간 자국; 동사로 찌그러뜨리다). 하키 퍽에 맞아 얼굴이 들어갔다는 과장."
     },
     {
       "type": "dialogue",
@@ -1295,7 +1328,11 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "He's right, enough, already. What is the big deal about today? So you slept with her for the first time, so what? You slept with her for seven years after that.",
-      "korean": ""
+      "korean": "…오늘이 뭐가 그렇게 대수야? 그래, 그 여자랑 처음 잤다 치자, 그래서 뭐? 그 뒤로 7년이나 같이 잤잖아.",
+      "explanation": "so what? = 그래서 뭐/어쩌라고(대수롭지 않다는 반문). big deal = 대단한 일(다른 화에서도 다룸).",
+      "examples": [
+        "So I'm late, so what?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1313,7 +1350,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
-      "korean": ""
+      "korean": "좀 더 크게 말하지 그래, 12층에 혼수상태인 사람이 못 들은 것 같으니까…",
+      "explanation": "반어 — 챈들러가 비밀을 너무 큰 소리로 떠들자 '저 위층 혼수상태 환자도 들리게 더 크게 말해라'라고 비꼬는 것. in a coma = 혼수상태인."
     },
     {
       "type": "dialogue",
@@ -1356,7 +1394,8 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",
-      "korean": ""
+      "korean": "와, 진짜, 하키는 큰 실수였어! 오늘 밤 (그거 말고) 할 수 있었던 게 엄청 많았는데!",
+      "explanation": "a whole bunch of ~ = 엄청 많은 ~(구어). could have done = ~할 수 있었는데(못 한 일에 대한 아쉬움, 가정법 과거완료)."
     },
     {
       "type": "scene",
@@ -1378,7 +1417,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Well, unless goose is a vegetable...ha haaaah!",
-      "korean": ""
+      "korean": "…거위가 채소가 아니라면 말이지… 하하하!",
+      "explanation": "vegetarian pate(채식 파테)인 줄 알고 좋아했는데 사실은 goose(거위)로 만든 거였다는 폭로 — '거위가 채소라면 모를까'라며 비꼬는 것. pate = 고기·간을 곱게 갈아 만든 프랑스식 스프레드."
     },
     {
       "type": "dialogue",
@@ -1432,13 +1472,15 @@
       "type": "dialogue",
       "speaker": "Rachel",
       "english": "Hello? Like he was really gonna send you one? (To Phoebe) She was a big girl.",
-      "korean": ""
+      "korean": "뭐래? 걔가 정말 너한테 (밸런타인을) 보냈겠어? (피비에게) 쟤 덩치 컸거든.",
+      "explanation": "'Like he was really gonna ~?' = '걔가 정말 ~했겠어?'라는 반어(아니라는 뜻). big girl = 여기선 '덩치 큰 애'(다음 줄에서 '다 큰 애'라는 뜻과 엮여 말다툼으로 번짐)."
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Really. Well, at least 'big girls' don't pee in their pants in seventh grade!",
-      "korean": ""
+      "korean": "그러셔. 적어도 '다 큰 애들'은 7학년 때 바지에 오줌은 안 싸거든!",
+      "explanation": "big girl의 다른 뜻('다 큰 애/어른스러운 애')을 받아쳐서 레이첼의 어릴 적 실수를 들춰 반격하는 말. seventh grade = (미국) 7학년(중학교 1학년 무렵)."
     },
     {
       "type": "dialogue",
@@ -1508,7 +1550,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "No, you kidding? The guy's a freak.. (Ross enters off camera)",
-      "korean": ""
+      "korean": "아니, 농담해? 그 사람 완전 별종이야.",
+      "explanation": "freak = 별종·괴짜(정상에서 벗어난 사람). (you) kidding? = 농담해?/말이 돼?(= Are you kidding?). 앞에선 멋지다더니 곧장 뒤집는 챈들러식 반전."
     },
     {
       "type": "dialogue",
@@ -1630,7 +1673,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Could've played Monopoly, but nooooo.",
-      "korean": ""
+      "korean": "그냥 모노폴리나 할 수도 있었는데, 아니나 다를까…",
+      "explanation": "Monopoly = 부동산을 사고파는 미국의 대표 보드게임. 'but nooooo' = '근데 (굳이) 아니래'라며 못마땅함을 길게 빼는 말투."
     },
     {
       "type": "direction",
