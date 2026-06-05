@@ -552,11 +552,7 @@
       "speaker": "Phoebe",
       "english": [
         {
-          "text": "(sings) Raindrops on roses and rabbits and kittens, (Rachel and Monica turn to look at her.) bluebells and sleighbells and- something with mittens... La la la la..."
-        },
-        {
-          "text": "something and noodles with string. These are a few...",
-          "unseen": true
+          "text": "(sings) Raindrops on roses and whiskers and kittens, (Rachel and Monica turn to look at her.) bluebells and sleighbells and- something with mittens... La la la la... something and noodles with string. These are a few..."
         }
       ],
       "korean": "(좋은 생각을 떠올리려다 엉뚱한 노래를 엉터리로 흥얼거린다)",
@@ -595,7 +591,7 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "(comforting her) And hey, you need anything, you can always come to Joey. Me and Chandler live across the hall. And he's away a lot.",
+      "english": "(comforting her) And hey, you need anything, you can always come to Joey. Me and Chandler live right across the hall. And he's away a lot.",
       "korean": ""
     },
     {
@@ -695,7 +691,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Please, no, go, that'd be fine!",
+      "english": "Please, no, go, I'll be fine!",
       "korean": ""
     },
     {
@@ -942,7 +938,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "(squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",
+      "english": "(squatting and reading the instructions) I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no worm guys whatsoever and- I cannot feel my legs.",
       "korean": "설명서엔 이 브래킷 같은 걸 옆판에 이 작은 벌레 같은 것들로 붙이라는데, 브래킷 같은 건 없고 벌레 같은 것도 하나도 안 보이고- 다리에 감각이 없어.",
       "explanation": "가구 조립 설명서를 못 알아본 로스가 부품을 유치하게 부르는 말 — brackety thing(브래킷 비슷한 것), worm guys(벌레처럼 생긴 작은 것들 = 나사·볼트류). whatsoever = 부정문 뒤에서 '전혀'를 강조(no ~ whatsoever = 전혀 ~ 없다).",
       "examples": [
@@ -1135,7 +1131,7 @@
     {
       "type": "dialogue",
       "speaker": "Paul",
-      "english": "(laughing) That's one way! Me, I- I went for the watch.",
+      "english": "(laughing) That's one way of going through it! Me, I- I went for the watch.",
       "korean": "(부술 물건으로) 시계를 노렸어.",
       "explanation": "go for ~ = ~을 택하다/공략하다/노리다. 여기선 '망가뜨릴 대상으로 시계를 골랐다'는 뜻. ('go for it'=한번 해봐 등 다양하게 쓰임)",
       "examples": [
@@ -1192,7 +1188,7 @@
       "speaker": "Rachel",
       "english": [
         {
-          "text": "Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju- (She stops talking and dials the phone.) Hi, machine cut me off again... anyway..."
+          "text": "Barry, I'm sorry... I am so sorry... I know you probably think this is all about what I said the other night about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju- (She stops talking and dials the phone.) Hi, machine cut me off again... anyway..."
         },
         {
           "text": "look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance too... (The maching cuts her off again and she redials.)",
@@ -1346,7 +1342,12 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I know being spit on is probably not what you need right now. Um... how long?",
-      "korean": ""
+      "korean": "지금 침 세례 받는 게 (네가) 필요한 건 아니겠지. 음… 얼마나 됐어?",
+      "explanation": "being spit on = (수동) 침/음료를 뱉음을 당하는 것 — spit on someone(~에게 침을 뱉다)의 수동형. being + 과거분사는 '~당하는 것'(수동 동명사). 모니카가 놀라 마시던 걸 폴에게 뿜은 걸 두고 '지금 침 세례 받는 게 필요한 건 아닐 텐데'라며 멋쩍게 농담하는 것. (spit 활용: spit-spit/spat)",
+      "examples": [
+        "No one likes being lied to.",
+        "I hate being interrupted."
+      ]
     },
     {
       "type": "dialogue",
@@ -1444,7 +1445,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Y'know, here's the thing. Even if I could get it together enough to- to ask a woman out,... who am I gonna ask? (He gazes out of the window.)",
-      "korean": ""
+      "korean": "그게, 문제는 이거야. 설사 내가 여자한테 데이트 신청할 만큼 정신을 추스른다 쳐도… 누구한테 신청해?",
+      "explanation": "get it together = 정신을 차리다/마음을 다잡다(흐트러진 자신을 추스르다). 'get it together enough to ~' = ~할 만큼 (정신을) 추스르다. here's the thing = 문제는/요점은 이거야(본론을 꺼낼 때). ask someone out = ~에게 데이트 신청하다.",
+      "examples": [
+        "Get it together, we have work to do.",
+        "You need to get your life together."
+      ]
     },
     {
       "type": "direction",
@@ -1506,11 +1512,11 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that hungry...",
-      "korean": "한창 잘나가는 김에 (비꼼)…",
-      "explanation": "be on a roll = 연달아 잘되는 중, 흐름을 탄 상태. 'while you're on a roll' = '한창 잘나가는 김에'. 여기선 형편없는 커피를 두고 '그렇게 뭐든 잘하는 김에 오믈렛도 만들지?'라는 비꼼.",
+      "english": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something... (Joey and Chandler taste the coffee, grimace, and pour it into a plant pot.) Although actually I'm really not that hungry this morning.",
+      "korean": "한창 잘나가는 김에, 혹시 웨스턴 오믈렛 같은 거라도 만들어야 할 것 같으면… (한 모금 맛보곤 인상 쓰며 화분에 부어버린다) 아, 근데 사실 나 별로 안 배고프다…",
+      "explanation": "be on a roll = 연달아 잘되는 중, 흐름을 탄 상태('while you're on a roll' = 한창 잘나가는 김에). 'if you feel like you gotta ~'의 if절은 권유를 완곡하게(여기선 비꼬듯) 돌려 말하는 장치 — '혹시 ~해야 할 것 같은 기분이 들면'. 직접 '오믈렛 만들어'라고 시키지 않고 그녀의 충동에 맡기는 척하는 농담이다. feel like (that) you gotta ~ = ~해야 할 것 같은 기분이 들다(gotta = got to). Western omelet = 햄·피망·양파를 넣은 오믈렛.",
       "examples": [
-        "She's on a roll — three wins in a row."
+        "If you feel like you have to say something, go ahead."
       ]
     },
     {
@@ -1560,11 +1566,20 @@
     },
     {
       "type": "dialogue",
+      "speaker": "Monica",
+      "english": [
+        {
+          "text": "I had a really great time last night."
+        }
+      ],
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
       "speaker": "Paul",
       "english": [
         {
-          "text": "Thank you! Thank you so much!",
-          "unseen": true
+          "text": "Thank you! Thank you so much!"
         }
       ],
       "korean": ""
@@ -1596,8 +1611,7 @@
       "speaker": "Monica",
       "english": [
         {
-          "text": "We'll talk later.",
-          "unseen": true
+          "text": "We'll talk later, okay?"
         }
       ],
       "korean": ""
@@ -1671,14 +1685,18 @@
       "speaker": "Monica",
       "english": [
         {
-          "text": "Oh wait, wait, unless you happened to catch the Reruns' production of Pinocchio"
+          "text": "Oh wait, wait, unless you happened to catch the Wee One's production of Pinocchio"
         },
         {
           "text": ", at the little theater in the park.",
           "unseen": true
         }
       ],
-      "korean": ""
+      "korean": "아 잠깐, 잠깐, 혹시 공원 작은 극장에서 한 '꼬마들의 피노키오' 공연을 우연히 봤다면 모를까.",
+      "explanation": "wee = (구어, 특히 스코틀랜드·아일랜드) 아주 작은/꼬마. 'the Wee Ones' = 꼬마들/어린아이들 → 'the Wee One's production of Pinocchio' = 어린이(극단)의 피노키오 공연. 조이의 보잘것없는 연기 경력을 '공원 꼬마 극단 피노키오' 정도라며 비꼬는 것. happen to ~ = 우연히 ~하다, catch (a show) = (공연을) 보다.",
+      "examples": [
+        "Did you happen to catch the game last night?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1723,7 +1741,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "So how you doing today? Did you sleep okay? Talk to Barry? I can't stop smiling.",
+      "english": "So how you doing today? Did you sleep okay? Did you talk to Barry? I can't stop smiling.",
       "korean": ""
     },
     {
@@ -2106,8 +2124,7 @@
       "speaker": "Monica",
       "english": [
         {
-          "text": "All right, ",
-          "unseen": true
+          "text": "All right, "
         },
         {
           "text": "you ready?"
@@ -2247,7 +2264,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "You be okay?",
+      "english": "You gonnabe okay?",
       "korean": ""
     },
     {
@@ -2259,7 +2276,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Hey Mon, look what I just found on the floor. (Monica smiles.) What?",
+      "english": "Hang on, look what I just found on the floor. (Monica smiles.) What?",
       "korean": ""
     },
     {
@@ -2304,7 +2321,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "No, you have it, really, I don't want it-",
+      "english": "No, have it, really, I don't want it-",
       "korean": ""
     },
     {
@@ -2544,7 +2561,12 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Ugh. (To another customer that's leaving.) Excuse me, could you give this to that guy over there? (Hands him the coffee pot.) Go ahead. (He does so.) Thank you. (To the gang.) Sorry. Okay, Las Vegas.",
+      "english": [
+        {
+          "text": "Ugh. (To another customer that's leaving.) Excuse me, could you give this to that guy over there? (Hands him the coffee pot.) Go ahead. (He does so.) Thank you. (To the gang.) Sorry. Okay, Las Vegas.",
+          "unseen": true
+        }
+      ],
       "korean": ""
     },
     {
@@ -2559,7 +2581,8 @@
           "text": "I'm Liza Minelli-"
         }
       ],
-      "korean": ""
+      "korean": "자, 그러니까, 나 라스베이거스에 있는데… 내가 라이자 미넬리인 거야-",
+      "explanation": "Liza Minnelli = 화려한 라스베이거스 쇼와 뮤지컬(예: 'Cabaret')로 유명한 미국 여가수·배우(주디 갈런드의 딸). 평범한 남자 챈들러가 '내가 그 화려한 여성 디바 라이자 미넬리가 된' 꿈을 꿨다고 하는 황당함이 웃음 포인트. 에피소드를 닫는 마지막 농담이자, 앞서 나온 챈들러의 이상한 꿈(벌거벗은 꿈) 시리즈와 이어지는 장면."
     },
     {
       "type": "section",
