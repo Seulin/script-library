@@ -407,9 +407,9 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
+      "english": "Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Limoges gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
       "korean": "결혼식 30분 전쯤, 선물 놔두는 방에서 그레이비 그릇을 보고 있었는데 갑자기 배리보다 그 그릇한테 더 끌린다는 걸 깨달았어. 겁이 확 나면서 '내가 왜, 누굴 위해 이걸 하지?' 싶더라고. 너랑 좀 멀어진 건 알지만, 이 도시에서 내가 아는 사람은 너뿐이라 왔어.",
-      "explanation": "gravy boat = 고기 요리에 끼얹는 그레이비 소스를 담아 따르는 길쭉한 배 모양 식기. (대사의 'Lamauge'는 고급 도자기 브랜드 Limoges를 잘못 적은 것)"
+      "explanation": "gravy boat = 고기 요리에 끼얹는 그레이비 소스를 담아 따르는 길쭉한 배 모양 식기."
     },
     {
       "type": "dialogue",
@@ -528,7 +528,7 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Well, I guess we've established who's staying here with Monica...",
+      "english": "Well, I guess we've established she's staying here with Monica...",
       "korean": ""
     },
     {
@@ -883,8 +883,7 @@
           "text": "Well actually thanks, but I think I'm just gonna hang out here tonight. "
         },
         {
-          "text": "It's been kinda a long day.",
-          "unseen": true
+          "text": "It's been a long day."
         }
       ],
       "korean": ""
