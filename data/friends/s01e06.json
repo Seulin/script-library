@@ -20,7 +20,7 @@
       "speaker": "Chandler",
       "english": "You can always spot someone who's never seen one of his plays before. Notice, no fear, no sense of impending doom...",
       "korean": "이 친구 연극을 한 번도 안 본 사람은 딱 티가 나. 봐, 두려움도 없고, 닥쳐올 재앙에 대한 감도 없잖아…",
-      "explanation": "spot = (단번에) 알아채다/포착하다. impending doom = 임박한 재앙/불길한 예감(impending = 곧 닥칠)."
+      "explanation": "spot = (단번에) 알아채다/포착하다. notice = 봐봐. impending doom = 임박한 재앙/불길한 예감(impending = 곧 닥칠)."
     },
     {
       "type": "dialogue",
@@ -72,7 +72,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?",
-      "korean": ""
+      "korean": "혹시 나 말고도, 뭐라도 다른 할 일이 생기게 자기 몸 살갗이라도 벗겨내고 싶었던 사람 없어?",
+      "explanation": "peel the skin off = 살갗을 벗겨내다(peel ~ off = ~을 벗겨내다). 'to have something else to do' = 뭐라도 다른 할 일이 생기도록 — 연극이 너무 지루해서 차라리 딴짓거리라도 만들고 싶었다는 과장."
     },
     {
       "type": "dialogue",
@@ -266,7 +267,7 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "C'mon, you guys, it wasn't that bad. It was better than that thing I did with the trolls, at least you got to see my head.",
+      "english": "C'mon, you guys, it wasn't that bad. I was the lead. It was better than that thing I did with the trolls, at least you got to see my head.",
       "korean": ""
     },
     {
@@ -280,7 +281,7 @@
       "speaker": "Chandler",
       "english": "(running back) She said yes!! She said yes!! (To Joey) Awful play, man. Whoah. (To All) Her name's Aurora, and she's Italian, and she pronounces my name 'Chand-lrr'. 'Chand-lrr'. I think I like it better that way. (To Joey) Oh, listen, the usher gave me this to give to you. (He fishes a card out of his pocket.)",
       "korean": "걔가 그러자고 했어!! 이름은 오로라고, 이탈리아 사람인데, 내 이름을 '챈들르'라고 발음해… 아, 안내원이 너 주라고 이거 줬어.",
-      "explanation": "usher = (극장·결혼식 등의) 좌석 안내원. (오로라가 챈들러 이름을 이탈리아식으로 굴려 발음하는 것)"
+      "explanation": "usher = (극장·결혼식 등의) 좌석 안내원. (오로라가 챈들러 이름을 이탈리아식으로 굴려 발음하는 것) / I like it better that way = 그렇게 부르는 게 더 맘에 들어. like ~ better = 더 좋아하다, that way = 그런 식으로. 이때 목적어 it이 꼭 있어야 해서 'I like that way'는 틀리고 'I like it (better) that way'가 맞다."
     },
     {
       "type": "dialogue",
@@ -446,7 +447,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "So tell me, how do- how do you think your husband would feel about you sitting here with me?...Sliding your foot so far up my pant leg you can count the change in my pocket?",
-      "korean": ""
+      "korean": "그래서 말인데, 남편은 당신이 여기 나랑 이러고 앉아 있는 거 어떻게 생각할까?…내 바짓가랑이 안으로 발을 하도 깊이 밀어 올려서 내 주머니 잔돈까지 셀 정도로 말이야.",
+      "explanation": "pant leg = 바짓가랑이(바지 한쪽 다리 부분). so far up ~ (that) you can count ~ = 하도 위까지 깊이 밀어 올려서 ~할 정도로(so ... that 강조 구문, far up = 위로 한참 깊이). 유부녀이면서 테이블 밑으로 발을 더듬는 오로라를 비꼬는 과장."
     },
     {
       "type": "dialogue",
@@ -520,7 +522,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "Well, y'know, I had some trouble with it at first too, but the way I look at it is, I get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. I mean, this is every guy's fantasy!",
-      "korean": ""
+      "korean": "뭐, 나도 처음엔 좀 껄끄러웠는데, 내 식으로 보면 좋은 건 다 챙기는 거야. 재미, 대화, 섹스 다 있고 책임은 하나도 없고. 이건 모든 남자의 판타지라고!",
+      "explanation": "the way I look at it = 내가 보기엔/내 식으로 보면(자기 생각을 꺼낼 때 쓰는 표현). have trouble with it = 그게 좀 걸리다/받아들이기 힘들다."
     },
     {
       "type": "dialogue",
@@ -681,7 +684,7 @@
       "speaker": "Chandler",
       "english": "Thank God you didn't try to fan out the magazines. I mean, she'll scratch your eyes right out.",
       "korean": "잡지를 부채꼴로 펼쳐놓진 않아서 다행이다. 그랬으면 모니카가 네 눈을 확 할퀴어 뽑았을걸.",
-      "explanation": "fan out = (부채꼴로) 펼쳐 놓다(phrasal). scratch someone's eyes out = (격노해서) ~의 눈을 할퀴어 뽑다 — 펄펄 뛸 거라는 과장.",
+      "explanation": "fan out = (부채꼴로) 펼쳐 놓다(phrasal). scratch someone's eyes out = (격노해서) ~의 눈을 할퀴어 뽑다 — 펄펄 뛸 거라는 과장. didn't try to fan out = (그냥 안 한 게 아니라) 펼치려는 시도조차 안 했다 → try to로 '감히 그럴 엄두를 내다'라는 뉘앙스(시도 자체가 선 넘는 짓).",
       "examples": [
         "She fanned out the cards."
       ]
@@ -703,7 +706,8 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "That is so unfair!",
-      "korean": ""
+      "korean": "정말 너무해!",
+      "explanation": "That's unfair = 여기선 '공정하지 않다'는 딱딱한 뜻이 아니라 '너무해!/억울해!'라는 감정적 항변. 부당한 취급을 받았다고 느낄 때 자주 씀."
     },
     {
       "type": "dialogue",
@@ -813,20 +817,21 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Can you believe this? Al Pacino! This guy's the reason I became an actor! \"I'm out of order? Pfeeeh. You're out of order! This whole courtroom's out of order!\"",
-      "korean": "이게 믿겨? 알 파치노라고! 이 사람 때문에 내가 배우가 됐어! \\\"내가 무질서? 당신들이 무질서야! 이 법정 전체가 무질서라고!\\\"",
+      "korean": "이게 믿겨? 알 파치노라고! 이 사람 때문에 내가 배우가 됐어! \"내가 무질서? 당신들이 무질서야! 이 법정 전체가 무질서라고!\"",
       "explanation": "조이가 알 파치노 주연 영화('...And Justice for All')의 유명한 대사를 흉내 내는 것. out of order = (법정에서) 질서·규칙 위반; 일반적으로는 '고장 난/잘못된'이라는 뜻."
     },
     {
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Seriously, what-what's the part?",
-      "korean": ""
+      "korean": "진짜로, 배역이 뭔데?",
+      "explanation": "seriously = 여기선 '심각하게'가 아니라 '농담 그만하고 진짜로'. 상대가 실없는 소리를 할 때 화제를 되돌리며 진지한 답을 재촉하는 구어."
     },
     {
       "type": "dialogue",
       "speaker": "Joey",
       "english": "\"Just when I thought I was out, they pull me back in!\"",
-      "korean": "\\\"겨우 발 뺐다 싶으면, 그놈들이 날 다시 끌어들인다니까!\\\"",
+      "korean": "\"겨우 발 뺐다 싶으면, 그놈들이 날 다시 끌어들인다니까!\"",
       "explanation": "영화 '대부 3(The Godfather Part III)'의 유명한 대사를 흉내 낸 것. pull (someone) back in = ~를 (도로) 끌어들이다."
     },
     {
@@ -869,7 +874,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into showbusiness.",
+      "english": "Oh no, it's terrific, it's... it's... y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into show business.",
       "korean": "아냐, 멋지지, 그… 그… 너 그동안 고생한 끝에 드디어 연예계에 비집고 들어간 거잖아.",
       "explanation": "crack (one's way) into ~ = (어렵게) ~에 비집고 들어가다/진입하다. showbusiness(showbiz) = 연예계. (엉덩이 대역인 걸 두고 비꼬는 챈들러)"
     },
@@ -887,7 +892,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You're right, you're right, it is...So you gonna invite us all to the big opening?",
-      "korean": ""
+      "korean": "네 말이 맞아, 맞아, 그렇지… 그래서 우리 다 그 성대한 개봉식에 초대해 줄 거야?",
+      "explanation": "it is = 앞의 'This is a big break'를 받아 '정말 그래/맞아'라고 맞장구(be동사로 짧게 받는 형태). you gonna ~? = are you going to ~?의 구어 축약. the big opening = (영화의) 성대한 개봉/시사회 — 조이가 '엉덩이 대역'이라 opening(개봉 / 엉덩이의 벌어진 틈)을 동시에 노린 이중적 농담."
     },
     {
       "type": "section",
@@ -1004,8 +1010,9 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "No, no resentment, believe me, it's worth it. 'Kay? Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life? Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door? (He has armloads of stuff.)",
-      "korean": ""
+      "english": "No, no resentment, believe me, it's worth it. 'Kay? Y'know how in a relationship, you have these key moments that you know you'll remember for the rest of your life? Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door? (He has armloads of stuff.)",
+      "korean": "아니, 억울한 거 없어, 진짜 그럴 가치가 있어. 알지? 연애하다 보면 평생 기억할 그런 결정적 순간들 있잖아. 근데 오로라랑은 매 순간이 다 그래… 근데 방금 너희랑 떠드느라 그런 순간 서른다섯 개쯤 날렸으니까, 어… 모니카, 문 좀 열어줄래?",
+      "explanation": "Y'know how + 절 = '~인 거 있잖아/알잖아'. 여기 how는 '어떻게(방법)'가 아니라 '그러한 상황·사실'을 이끄는 접속사로, 상대도 아는 예를 꺼낼 때 쓰는 회화 표현. worth it = 그럴 만한 가치가 있다."
     },
     {
       "type": "dialogue",
@@ -1051,7 +1058,8 @@
       "type": "dialogue",
       "speaker": "Director",
       "english": "That would work.",
-      "korean": ""
+      "korean": "그럼 되겠네.",
+      "explanation": "That works = 그거면 되다/괜찮다. would를 붙이면 '(그렇게 하면) 그게 딱이겠네'라는 완곡·가정 뉘앙스. 조이가 'Me?(저요?)'라고 되묻자 감독이 시큰둥하게 '그래, 네가 벗으면 딱이지'라고 받는 것."
     },
     {
       "type": "dialogue",
@@ -1162,7 +1170,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "(to himself) Too bad, she's leaving.",
+      "english": "(to himself) Look at that, she's leaving.",
       "korean": ""
     },
     {
@@ -1186,7 +1194,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "What, Ethan? He got to spend the whole day with you!",
+      "english": "What, Ethan? He gets to spend the whole day with you!",
       "korean": ""
     },
     {
@@ -1301,7 +1309,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "I don't know, I-I have to listen to both of them, they don't exactly let each other finish...",
-      "korean": ""
+      "korean": "모르겠어, 난 둘 다 들어야 해, 걔네가 딱히 서로 말을 끝맺게 놔두질 않거든…",
+      "explanation": "let each other finish = 서로 말을 (끝까지) 끝맺게 놔두다 → 부정형이라 '서로 말이 안 끝나게 자꾸 끼어든다'는 뜻. 챈들러 안의 두 자아가 서로 말을 자른다는 농담."
     },
     {
       "type": "dialogue",
@@ -1318,7 +1327,7 @@
     {
       "type": "dialogue",
       "speaker": "Aurora",
-      "english": "(gets up to leave) Well, call me if you change your mind.",
+      "english": "(gets up to leave) I see. Well, call me if you change your mind.",
       "korean": ""
     },
     {
@@ -1384,7 +1393,7 @@
       "speaker": "Ross",
       "english": "It felt like a 'big guy' moment.",
       "korean": "그냥 '친구'라고 부를 만한 순간 같아서.",
-      "explanation": "big guy = (친근하게) '친구·녀석'을 부르는 호칭. 로스가 위로하려고 'big guy'라 부르자 챈들러가 어색해하는 장면."
+      "explanation": "big guy = (친근하게) '친구·녀석'을 부르는 호칭. champ/buddy처럼 남자를 다독이거나 격려·위로할 때 쓰며, 살짝 손윗사람이 아랫사람 어르는 듯한(생색·오글거리는) 뉘앙스가 있음. 평소 안 그러던 로스가 갑자기 이렇게 부르자 챈들러가 어색해하는 장면."
     },
     {
       "type": "dialogue",
