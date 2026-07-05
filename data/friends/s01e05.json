@@ -154,7 +154,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Oh, you're breaking up with Tony?",
-      "korean": ""
+      "korean": "will: 지금 내린 결론, be going to: 미리 계획된, be -ing: 이미 단서를 발견했을 때"
     },
     {
       "type": "dialogue",
@@ -184,7 +184,7 @@
       "speaker": "Phoebe",
       "english": "(to Rachel) What's the matter? Why so scrunchy?",
       "korean": "왜 그래? 왜 그렇게 잔뜩 찡그렸어?",
-      "explanation": "scrunchy = (얼굴을) 잔뜩 찡그린/구긴(scrunch = 찡그리다·구기다에서 온 구어). 피비다운 표현."
+      "explanation": "scrunchy = (얼굴을) 잔뜩 찡그린/구긴(scrunch up= 찡그리다·구기다에서 온 구어). 피비다운 표현."
     },
     {
       "type": "dialogue",
@@ -442,7 +442,11 @@
       "speaker": "Monica",
       "english": "Forget it. Not after your cousin who could belch the alphabet.",
       "korean": "됐어. 트림으로 알파벳 외던 네 사촌 이후론 안 돼.",
-      "explanation": "belch = 트림하다. 'belch the alphabet' = 트림으로 알파벳을 말하는 (역겨운) 장기."
+      "explanation": "belch = 트림하다. 뿜어내다. 'belch the alphabet' = 트림으로 알파벳을 말하는 (역겨운) 장기.",
+      "examples": [
+        "The volcano belched smoke.",
+        "The chimney belched fire."
+      ]
     },
     {
       "type": "dialogue",
@@ -473,7 +477,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.",
-      "korean": ""
+      "korean": "here: 이 상황에, 이 순간에 (강조)"
     },
     {
       "type": "dialogue",
@@ -500,7 +504,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Oh. Well, hold on camper, are you sure you've thought this thing through?",
+      "english": "Oh. Well, hold on camper, are you sure you've thought this through?",
       "korean": "어. 잠깐 친구, 이거 충분히 생각해 본 거 맞아?",
       "explanation": "think (something) through = 충분히/끝까지 숙고하다(phrasal). camper = (구어) 친구/녀석을 친근하게 부르는 말.",
       "examples": [
@@ -510,7 +514,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "It's laundry. The thinking through is minimal.",
+      "english": "It's laundry. The thinking through is pretty minimal.",
       "korean": ""
     },
     {
@@ -548,7 +552,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(sheepish) No.",
-      "korean": ""
+      "korean": "sheepish: 당황해하는"
     },
     {
       "type": "dialogue",
@@ -613,7 +617,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "Oh my god, Joey, for all we know this guy could be horribly...",
-      "korean": ""
+      "korean": "for all we know: 겨우 우리가 아는 한"
     },
     {
       "type": "direction",
@@ -629,7 +633,7 @@
       "type": "dialogue",
       "speaker": "Monica",
       "english": "...horribly attractive. I'll be shutting up now.",
-      "korean": ""
+      "korean": "be -ing: 완곡하게 표현"
     },
     {
       "type": "scene",
@@ -743,7 +747,7 @@
     {
       "type": "dialogue",
       "speaker": "Janice",
-      "english": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
+      "english": "Well, I knew you had the Rockys, and so I figured, you know, you could wear Bullwinkle and Bullwinkle, or you could wear Rocky and Rocky,or, you can mix and match, moose and squirrel. Whatever you want.",
       "korean": "그게, 너 로키 양말도 있잖아, 그래서 불윙클-불윙클로 신든가, 로키-로키로 신든가, 아니면 섞어서 무스랑 다람쥐로 신어도 되고. 맘대로 해.",
       "explanation": "mix and match = (서로 다른 걸) 섞어 맞추다/믹스매치. moose = 무스(불윙클), squirrel = 다람쥐(로키) — 만화 두 캐릭터."
     },
@@ -760,7 +764,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Well, I'm gonna get another espresso. Can I get you another latte?",
+      "english": "Well, I'm gonna get another espresso. More latte?",
       "korean": ""
     },
     {
@@ -1226,13 +1230,13 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it could happen to anyone.",
+      "english": "Yeah, uh, except for the red sock, which is still red. I'm sorry, please don't be upset, it can happen to anyone.",
       "korean": ""
     },
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Except it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!",
+      "english": "But it didn't. It happened to me. Oh, god, I'm gonna look like a big marshmallow peep. What am I doing? What am I doing? My father's right. I can't live on my own! I can't even do laundry!",
       "korean": "그래도 안 그랬어. 나한테 그랬지. 아, 나 완전 큰 마시멜로 핍처럼 보이겠다. 나 뭐 하는 거야? 아빠 말이 맞아. 난 혼자 못 살아! 빨래도 못 하잖아!",
       "explanation": "marshmallow Peep(s) = 부활절에 파는 분홍·노랑 병아리 모양 마시멜로 과자. 옷이 다 분홍이 돼 '큰 마시멜로 핍 같다'는 비유."
     },
@@ -1303,7 +1307,12 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Well, who's to say what's true? I mean...",
-      "korean": ""
+      "korean": "",
+      "explanation": "Who's to say = 누가 뭐라 하겠어/누가 판단하겠어",
+      "examples": [
+        "Who is to blame?",
+        "Who am I to judge?"
+      ]
     },
     {
       "type": "dialogue",
@@ -1315,7 +1324,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "All right, look, I'm not proud of this, ok? Well, maybe I am a little.",
-      "korean": ""
+      "korean": "나도 잘한 일이라고 생각 안 해."
     },
     {
       "type": "dialogue",
@@ -1450,8 +1459,8 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "I'm not fine. Here she comes.",
-      "korean": ""
+      "english": "I'm not fine. Here she comes. She's coming.",
+      "korean": "Here: 지금"
     },
     {
       "type": "dialogue",
@@ -1712,9 +1721,13 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "That oughta do it.",
-      "korean": "그럼 됐네.",
-      "explanation": "That oughta do it. = 그럼 됐네/그거면 충분해(ought to = ~할 것이다; '그 정도면 충분히 효과가 있을 것'이라는 뜻)."
+      "english": "That ought to do it.",
+      "korean": "다 된 것 같네.",
+      "explanation": "ought to = 당연히 ~할 것이다; (격식적)해야한다. 여기서는 강한 확신으로 다 됐다는 의미.",
+      "examples": [
+        "That ought to be enough.",
+        "You ought to see a doctor."
+      ]
     },
     {
       "type": "section",

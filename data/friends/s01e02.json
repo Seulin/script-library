@@ -175,7 +175,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Okay, okay, yes, it is. (waves) How about I'll, uh, catch up with you in the Ice Age.",
+      "english": "Okay, okay, yes, it is. (waves) How about I, uh, catch up with you in the Ice Age.",
       "korean": "알았어, 알았어, 맞아. (손을 흔들며) 그… 빙하기쯤에 다시 보는 걸로 하자.",
       "explanation": "catch up with someone = ① 앞서간 사람을 따라잡다 ② 한동안 못 본 사람과 만나 근황을 나누다. 여기선 어색한 상황을 피하려 '나중에 보자'는 뜻으로 쓰고, 박물관 전시(빙하기)와 엮은 농담.",
       "examples": [
@@ -265,6 +265,17 @@
     },
     {
       "type": "dialogue",
+      "speaker": "TV",
+      "english": "Oh, it looks like she didn't leave in such a hurry after all.",
+      "korean": "오, 보아하니 그 여자가 그렇게 급히 떠난 건 아니었나 봐요.",
+      "explanation": "문장 끝의 after all = '알고 보니/결국 (예상과 반대로)' — 앞서 생각했던 것과 반대임을 드러낸다. 'she didn't leave in such a hurry after all' = (급히 떠난 줄 알았는데) 알고 보니 그렇게 급히 떠난 건 아니었네. (문장 앞에 오면 '어쨌든/따지고 보면'이라는 다른 뜻: After all, he's only a child.)",
+      "examples": [
+        "So you came after all!",
+        "The test wasn't so hard after all."
+      ]
+    },
+    {
+      "type": "dialogue",
       "speaker": "Chandler",
       "english": "Oh, I think this is the episode of Three's Company where there's some kind of misunderstanding.",
       "korean": "늘 오해로 소동이 벌어지는 그 에피소드네.",
@@ -317,7 +328,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "She's already fluffed that pillow... Monica, you know, you've already fluffed that- (Monica glares at her.) -but, it's fine!",
+      "english": "She already fluffed that pillow... Monica, you know, you've already fluffed that- (Monica glares at her.) -but, it's fine!",
       "korean": "걔 그 베개 이미 부풀렸어… 모니카, 너 그거 벌써 부풀렸잖아- (모니카가 노려본다) -근데, 괜찮아!",
       "explanation": "fluff = (베개·쿠션 등을) 두드리거나 흔들어 폭신하게 부풀리다. 여기선 모니카가 부모 방문 전 긴장해 같은 베개를 계속 부풀리는 강박적 행동."
     },
