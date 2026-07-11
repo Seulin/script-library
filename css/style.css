@@ -148,8 +148,14 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
+.line-row {
+  display: flex;
+  align-items: stretch;
+}
+
 .line-main {
-  width: 100%;
+  flex: 1 1 auto;
+  min-width: 0; /* flex 행에서 복사 버튼 옆으로 줄어들 수 있게 */
   text-align: left;
   background: none;
   border: none;
@@ -160,6 +166,47 @@ body {
   align-items: baseline;
   font-family: inherit;
   color: var(--text);
+}
+
+/* 대사별 영어 복사 버튼 — 평소엔 은은하게, 호버/포커스 시 뚜렷하게 */
+.line-copy {
+  flex: 0 0 auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 10px;
+  font-size: 0.95rem;
+  line-height: 1;
+  color: var(--muted);
+  opacity: 0;
+  border-radius: 6px;
+  transition: opacity 0.12s, background 0.12s;
+}
+
+.line:hover .line-copy {
+  opacity: 0.5;
+}
+
+.line-copy:hover {
+  opacity: 1;
+  background: #f0f0f6;
+}
+
+.line-copy:focus-visible {
+  opacity: 1;
+  outline: 2px solid var(--accent);
+}
+
+.line-copy.copied {
+  opacity: 1;
+  color: #16a34a;
+}
+
+/* 터치 기기(호버 없음)에선 항상 보이게 */
+@media (hover: none) {
+  .line-copy {
+    opacity: 0.4;
+  }
 }
 
 .line-main:hover {

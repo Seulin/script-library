@@ -205,11 +205,14 @@ function renderLine(line, no) {
   }
 
   row.innerHTML = `
-    <button class="line-main" type="button">
-      <span class="line-no">${no ?? ""}</span>
-      <span class="speaker">${escapeHTML(line.speaker || "")}</span>
-      <span class="english">${renderSegments(line.english)}</span>
-    </button>
+    <div class="line-row">
+      <button class="line-main" type="button">
+        <span class="line-no">${no ?? ""}</span>
+        <span class="speaker">${escapeHTML(line.speaker || "")}</span>
+        <span class="english">${renderSegments(line.english)}</span>
+      </button>
+      <button class="line-copy" type="button" aria-label="영어 대사 복사" title="영어 대사 복사">${COPY_ICON}</button>
+    </div>
     <div class="line-detail">${detail.join("")}</div>
   `;
 
@@ -217,7 +220,59 @@ function renderLine(line, no) {
     row.classList.toggle("open");
   });
 
+  const copyBtn = row.querySelector(".line-copy");
+  copyBtn.addEventListener("click", () => {
+    copyText(englishPlainText(line.english), copyBtn);
+  });
+
   return row;
+}
+
+const COPY_ICON = "📋";
+
+// 복사용 영어 대사 평문. 조각 배열이면 이어 붙이고, 무대 지시 (…)는 빼고
+// 공백을 정리한다. 지시를 빼면 빈 문자열이 되는 경우(줄 전체가 지시)만 원문 유지.
+function englishPlainText(value) {
+  const parts = Array.isArray(value) ? value : [{ text: value || "" }];
+  const full = parts.map((p) => p.text || "").join("");
+  const spoken = full.replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").trim();
+  return spoken || full.replace(/\s+/g, " ").trim();
+}
+
+async function copyText(text, btn) {
+  if (!text) return;
+  let ok = false;
+  try {
+    await navigator.clipboard.writeText(text);
+    ok = true;
+  } catch (_) {
+    ok = legacyCopy(text);
+  }
+  if (!ok) return;
+  btn.classList.add("copied");
+  btn.textContent = "✓";
+  clearTimeout(btn._copiedTimer);
+  btn._copiedTimer = setTimeout(() => {
+    btn.classList.remove("copied");
+    btn.textContent = COPY_ICON;
+  }, 1100);
+}
+
+// clipboard API를 못 쓰는 환경(구형·비보안 컨텍스트)용 대체.
+function legacyCopy(text) {
+  try {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    const ok = document.execCommand("copy");
+    document.body.removeChild(ta);
+    return ok;
+  } catch (_) {
+    return false;
+  }
 }
 
 function escapeHTML(str) {
