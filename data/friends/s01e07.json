@@ -128,7 +128,7 @@
       "speaker": "Chandler",
       "english": "Jill says vestibule... I'm going with vestibule.",
       "korean": "질이 vestibule이래… 나도 vestibule으로 간다.",
-      "explanation": "go with ~: (선택지 중) ~로 정하다, ~을 택하다."
+      "explanation": "go with ~: (선택지 중) ~로 정하다, ~을 택하다. / go for ~: 도전, 목표에 대해서"
     },
     {
       "type": "dialogue",
@@ -219,9 +219,9 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "You're definitely scaring here.",
+      "english": "You're definitely scaring her.",
       "korean": "너 확실히 (그녀를) 겁주고 있어.",
-      "explanation": "대본 오타로 보이며 원래는 'You're definitely scaring her'(그녀를 겁주고 있다). 억지 미소로 여자를 겁먹게 한 자신을 지적."
+      "explanation": ""
     },
     {
       "type": "dialogue",
@@ -614,10 +614,7 @@
       "korean": "네가 너무 오래 뜸 들여서, 이제 '친구 존'에 갇힌 거야.",
       "explanation": "make a/one's move: (연애에서) 마음을 표현하고 들이대다. friend zone: 상대가 나를 '그냥 친구'로만 여겨 연인이 될 수 없는 관계.",
       "examples": [
-        {
-          "en": "You should make your move before someone else does.",
-          "ko": "다른 사람이 채가기 전에 마음을 표현해."
-        }
+        "You should make your move before someone else does."
       ]
     },
     {
@@ -647,10 +644,7 @@
       "korean": "성직자 될 판이네! 로스, 진짜, 걘 네 맘 전혀 몰라. 빨리 데이트 신청 안 하면 영영 그 존에 갇힐 거야.",
       "explanation": "Priesthood: 성직(자). '매일 조금씩 가까워진다'는 말을 받아 '그러다 (관계 진전은 없이) 신부님 되겠다'고 놀림. ask someone out: ~에게 데이트를 신청하다. end up ~ing: 결국 ~하게 되다.",
       "examples": [
-        {
-          "en": "He finally asked her out.",
-          "ko": "걔가 드디어 그녀한테 데이트 신청했어."
-        }
+        "He finally asked her out."
       ]
     },
     {
@@ -942,10 +936,7 @@
       "korean": "아니거든! 챈들러가 동물원에서 공작한테 물렸을 때도 내가 제일 늦게 알았어. 네가 조이 이사 올 때 걔한테 반한 것도 내가 제일 늦게 알았고… (모니카가 입 다물라고 손짓, 조이는 놀라지만 흐뭇) 이번엔 끝에서 두 번째였나 보네.",
       "explanation": "Yuh-huh: 'Nuh-uh(아니야)'에 맞받는 '맞거든'. get bitten by ~: ~에게 물리다. have a crush on ~: ~에게 홀딱 반하다(짝사랑). second to last: 끝에서 두 번째. 자기 말을 듣고 Joey가 방금 알았으니 이번엔 Joey가 꼴찌란 뜻.",
       "examples": [
-        {
-          "en": "I had such a crush on him in high school.",
-          "ko": "고등학교 때 걔한테 완전 반했었어."
-        }
+        "I had such a crush on him in high school."
       ]
     },
     {
@@ -1009,8 +1000,8 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "(singing) I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since...",
-      "korean": "(노래) 난 세상 꼭대기에서, 만물을 내려다보네, 내가 찾은 유일한 답은, 그날 이후 발견한 경이로움…",
+      "english": "(singing) I'm on top of the world, looking down on creation and the only explanation I can find, is the love that I've found ever since you've been around ...",
+      "korean": "(노래) 난 세상 꼭대기에서, 만물을 내려다보네, 내가 찾은 유일한 답은, 당신이 내 곁에 있어 준 그 순간부터 지금까지 줄곧(=ever) 내가 느끼고 있는 이 사랑뿐이에요.",
       "explanation": "카펜터스(The Carpenters)의 유명 팝송 'Top of the World' 가사. on top of the world: 세상을 다 가진 듯 최고로 행복한."
     },
     {
@@ -1466,8 +1457,8 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "You know, did you ride mopeds? 'Cause I've heard... (they stare at her)... oh, I see... it's not about that right now. OK.",
-      "korean": "있잖아, 너희 모페드 탔어? 왜, 내가 듣기론… (다들 쳐다봄)… 아, 알겠어… 지금은 그런 얘기 할 때가 아니구나. 오케이.",
+      "english": "You know, did you rent mopeds? 'Cause I've heard... (they stare at her)... oh, I see... it's not about that right now. OK.",
+      "korean": "있잖아, 너희 모페드 빌렸어? 왜, 내가 듣기론… (다들 쳐다봄)… 아, 알겠어… 지금은 그런 얘기 할 때가 아니구나. 오케이.",
       "explanation": "moped: 모페드(소형 스쿠터). it's not about that: '지금 중요한 건 그게 아니다'. 분위기 파악 못 하고 엉뚱한 얘길 꺼냈다 눈치채는 개그."
     },
     {
@@ -1632,7 +1623,7 @@
     {
       "type": "dialogue",
       "speaker": "Jill",
-      "english": "No, you've got to whip it.",
+      "english": "Okay? Now try it. No, you've got to whip it.",
       "korean": "아니, 확 채듯이 휘둘러야죠.",
       "explanation": "whip it: (손목으로) 획 채듯이 휘두르다."
     },
