@@ -7,7 +7,12 @@
   "lines": [
     {
       "type": "scene",
-      "text": "[Scene: Chandler's Office, Chandler is on a coffee break. Shelley enters.) Shelley: Hey gorgeous, how's it going?"
+      "text": "[Scene: Chandler's Office, Chandler is on a coffee break. Shelley enters.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Shelley",
+      "english": "Hey gorgeous, how's it going?"
     },
     {
       "type": "dialogue",
@@ -59,8 +64,8 @@
     {
       "type": "dialogue",
       "speaker": "Shelley",
-      "english": "Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye...",
-      "korean": "응 당연하지! ...세상에. 난 그냥- 난 생각하길- 잘한다, 셸리. 나 이제 변기에 나를 흘려보내야겠다...",
+      "english": "Well yeah! ...Oh God. I- just- I thought- You're not. Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye...",
+      "korean": "응 당연하지! ...세상에. 난 그냥- 난 생각하길- 아니군요. 잘한다, 셸리. 나 이제 변기에 나를 흘려보내야겠다...",
       "explanation": "flush myself down the toilet=(창피해서) 변기에 나를 내려 없애버리고 싶다는 과장 표현. Good, Shelley=제 이름 부르며 자책하는 반어('잘~한다')."
     },
     {
@@ -74,7 +79,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?",
+      "english": "...hard to enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?",
       "korean": "…그 일 이후로 컵라면을 즐길 수가 없었어. 이거 어이없지 않아? 걔가 진짜 그렇게 생각했다는 게 믿겨?",
       "explanation": "ridiculous=어이없는/황당한. cup of noodles=컵라면."
     },
@@ -243,7 +248,7 @@
     },
     {
       "type": "scene",
-      "text": "[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.)"
+      "text": "[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.]"
     },
     {
       "type": "dialogue",
@@ -593,7 +598,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her.",
+      "english": "Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get this feeling that she's like right here, y'know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her.",
       "korean": "음, 어쩌면 아무도 정말로 떠나는 게 아닐지도 몰라. 우리 엄마 돌아가신 뒤로, 가끔 엄마가 바로 여기 있는 느낌이 들거든... 그리고 데비, 중학교 단짝이었는데- 미니골프장에서 벼락에 맞았어- 그 작고 노란 연필을 쓸 때마다 항상 강한 데비의 기운이 느껴져... 걔가 그리워.",
       "explanation": "every now and then=이따금/가끔. junior high=중학교. struck by lightning=벼락 맞다. get a ~ vibe=~한 기운/느낌이 들다. 노란 연필은 미니골프장에서 점수 적을 때 쓰는 몽당연필—죽은 장소와 이어짐.",
       "examples": [
@@ -644,7 +649,7 @@
       "speaker": "Ross",
       "english": "I thought it was gonna be a closed casket.",
       "korean": "닫힌 관으로 하는 줄 알았는데요.",
-      "explanation": "closed casket=(시신을 안 보이게) 관을 닫고 치르는 장례. 그럼 옷차림이 안 보이는데 왜 신경 쓰냐는 뉘앙스."
+      "explanation": "closed casket=(시신을 안 보이게) 관을 닫고 치르는 장례. 그럼 옷차림이 안 보이는데 왜 신경 쓰냐는 뉘앙스. caske=장식함, 관"
     },
     {
       "type": "dialogue",
@@ -727,7 +732,7 @@
     {
       "type": "dialogue",
       "speaker": "Mr. Geller",
-      "english": "C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...",
+      "english": "C'mon, you'll make a day of it! You'll get a boat, pack a lunch...",
       "korean": "왜 이래, 하루 나들이로 만들면 되지! 배 빌리고, 도시락 싸고...",
       "explanation": "make a day of it=(어떤 일을) 하루 종일 즐기는 나들이로 만들다.",
       "examples": [
@@ -836,9 +841,9 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Well, yeah... 's'no Brian in Payroll.",
+      "english": "Well, yeah... he's no Brian in Payroll.",
       "korean": "뭐, 그렇지... 근데 경리팀 브라이언만은 못하잖아.",
-      "explanation": "'s'no=it's no ~=~만은 못하다/~에 비할 바 아니다. Payroll=급여/경리 부서. 챈들러가 자기도 모르게 남자를 외모로 품평하며 몰입."
+      "explanation": "he's no ~=~만은 못하다/~에 비할 바 아니다. Payroll=급여/경리 부서. 챈들러가 자기도 모르게 남자를 외모로 품평하며 몰입."
     },
     {
       "type": "dialogue",
@@ -894,7 +899,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "I have shown you everything we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.",
+      "english": "I have shown you every dress we have. Unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.",
       "korean": "가진 건 다 보여드렸어요. 어머니를 레몬색 바지정장 입혀서 영원히 보내고 싶은 게 아니면, 버건디로 하세요.",
       "explanation": "spend eternity in ~=~를 입고 영원히 지내다(=죽어서 그 상태로). go with=~로 정하다/택하다. burgundy=버건디(짙은 자줏빛 붉은색). pant-suit=바지정장.",
       "examples": [
@@ -920,7 +925,7 @@
       "speaker": "Ross",
       "english": "Oh! A fine choice. I'm coming out. (Starts to climb over the furniture)",
       "korean": "오! 훌륭한 선택이에요. 저 나갑니다.",
-      "explanation": "coming out=(벽장에서) 나온다 + come out(커밍아웃) 말장난. 이 에피소드의 게이 테마와 겹침."
+    "explanation": ""
     },
     {
       "type": "dialogue",
@@ -1269,7 +1274,7 @@
     {
       "type": "dialogue",
       "speaker": "Andrea",
-      "english": "Sorry- Hi, I'm Dorothy's daughter.",
+      "english": "Sorry- Hi, I'm Andrea. I'm Dorothy's daughter.",
       "korean": "죄송- 안녕하세요, 저 도로시 딸이에요."
     },
     {
@@ -1477,7 +1482,7 @@
     {
       "type": "dialogue",
       "speaker": "Mrs. Geller",
-      "english": "I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.",
+      "english": "I'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person she is.",
       "korean": "정말이지, 네 엄마(내)가 이렇게 긍정적이고 삶을 긍정하는 사람으로 자란 게 신기할 정도야.",
       "explanation": "it's a wonder (that)=~한 게 신기하다/용하다. turn out to be=~인 것으로 드러나다/~로 자라다. life-affirming=삶을 긍정하는. 스스로를 긍정적이라 여기는 아이러니."
     },
