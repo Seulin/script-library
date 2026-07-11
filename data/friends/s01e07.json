@@ -1,0 +1,1749 @@
+{
+  "drama": "Friends",
+  "season": 1,
+  "episode": 7,
+  "writtenBy": "Jeffrey Astrof and Mike Sikowitz",
+  "transcribedBy": "Ruth Curran",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "[Scene: Central Perk, Rachel is introducing Phoebe, who is playing her guitar for the crowd.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music of Miss Phoebe Buffay.",
+      "korean": "여러분? 쉿, 쉿. 센트럴 퍼크가 자랑스럽게 피비 부페 양의 음악을 선보입니다.",
+      "explanation": "is proud to present ~: 공연·행사에서 무언가를 '자랑스럽게 선보이다'라는 소개 상투 표현. Central Perk은 이들이 자주 가는 카페 이름."
+    },
+    {
+      "type": "direction",
+      "text": "(applause)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Hi. Um, I want to start with a song thats about that moment when you suddenly realize what life is all about. OK, here we go. (plays a chord, then the lights go out) OK, thank you very much.",
+      "korean": "인생이 무엇에 관한 건지 문득 깨닫는 그 순간에 대한 노래로 시작할게요. 자, 갑니다. (코드 연주하자 불이 나감) 네, 정말 감사합니다.",
+      "explanation": "what life is all about: '인생이 결국 무엇에 관한 것인가', 즉 인생의 본질·핵심. be all about ~은 '결국 ~가 핵심이다'. here we go: '자, 간다/시작한다'는 구어."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The ATM vestibule of a bank, Chandler is inside. The lights go out, and he realizes he is trapped inside.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, great. This is just...",
+      "korean": "아, 잘됐네. 이거 정말…",
+      "explanation": "Oh, great: 실제로는 반어. 정전으로 갇힌 상황에 '아주 잘됐네'라며 비꼬는 말."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler sees that there is a gorgeous model inside the vestibule with him. He makes a gesture of quiet exuberance.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Monica is on the phone with her mother. Phoebe, Rachel, and Ross are there.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Wow, this is so cool, you guys. The entire city is blacked out!",
+      "korean": "와, 이거 진짜 멋지다 얘들아. 도시 전체가 정전됐어!",
+      "explanation": "black out: (정전으로) 불이 다 나가다. you guys: 친한 사이에 쓰는 '얘들아, 너희들'(성별 무관)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.",
+      "korean": "엄마가 맨해튼 전체랑 브루클린, 퀸스 일부라는데, 언제 전기 들어올지 모른대.",
+      "explanation": "come back on: (전기·전원이) 다시 들어오다. Manhattan/Brooklyn/Queens는 뉴욕시 자치구(borough) 이름."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Wow, you guys, this is big.",
+      "korean": "와, 얘들아, 이거 큰일이다.",
+      "explanation": "big: 여기선 '큰(대단한) 사건이다'라는 뜻."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(into phone) Pants and a sweater? Why, mom? Who am I gonna meet in a blackout? Power company guys? Eligible looters? Could we talk about this later? OK. (hangs up)",
+      "korean": "바지랑 스웨터? 왜, 엄마? 정전에 내가 누굴 만나겠어? 전기 회사 사람들? 결혼감 약탈범들? 이거 나중에 얘기하면 안 돼? 알았어.",
+      "explanation": "eligible: 원래 '(결혼 상대로) 조건 좋은'(an eligible bachelor). looters(약탈범)에 붙여 '결혼하기 좋은 약탈범?'이라며, '누굴 만날지 모르니 잘 챙겨 입어라'라는 엄마 잔소리를 비꼬는 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Can I borrow the phone? I want to call my apartment and check on my grandma. (to Monica) What's my number?",
+      "korean": "전화 좀 빌려도 돼? 우리 집에 전화해서 할머니 잘 계신지 확인하려고. 내 번호가 뭐지?",
+      "explanation": "check on ~: ~가 괜찮은지 확인하다, 안부를 살피다."
+    },
+    {
+      "type": "direction",
+      "text": "(Monica and Rachel look at Phoebe strangely.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Well, I never call me.",
+      "korean": "뭐, 난 나한테 전화할 일이 없잖아.",
+      "explanation": "자기 집 번호를 모르는 이유를 대는 농담 — '난 나 자신한테 전화 안 하니까'."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule, Jill Goodacre is on the cellular phone. Chandler's thoughts are in italics.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh my God, it's that Victoria's Secret model. Something... something Goodacre.",
+      "korean": "세상에, 저 빅토리아 시크릿 모델이잖아. 뭐더라… 굿에이커였나.",
+      "explanation": "Victoria's Secret: 유명 란제리 브랜드. Jill Goodacre는 실제 그 브랜드 모델이었던 인물. Something... something: 이름이 정확히 기억 안 날 때 '뭐시기 굿에이커'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "(on phone) Hi Mom, it's Jill.",
+      "korean": "(전화로) 여보세요 엄마, 저 질이에요."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre! (pause) Is it a vestibule? Maybe it's an atrium. Oh, yeah, that is the part to focus on, you idiot!",
+      "korean": "맞네, 질이야. 질 굿에이커. 세상에. 나 지금 질 굿에이커랑 ATM 부스에 갇혔어! (잠깐) 이게 vestibule 맞나? atrium인가? 그래, 지금 그게 중요하겠다, 이 바보야!",
+      "explanation": "vestibule: (건물 입구의) 현관·전실. atrium: 중앙 홀·아트리움. that is the part to focus on: 반어 — 미인과 갇힌 마당에 단어나 따지는 자신에게 '그래, 그게 핵심이겠지'라며 자책."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "(on phone) Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.",
+      "korean": "(전화로) 응, 괜찮아. 그냥 은행 ATM 부스에 갇혔어.",
+      "explanation": "stuck: (~에) 갇힌·꼼짝 못 하는."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Jill says vestibule... I'm going with vestibule.",
+      "korean": "질이 vestibule이래… 나도 vestibule으로 간다.",
+      "explanation": "go with ~: (선택지 중) ~로 정하다, ~을 택하다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "(on phone) I'm fine. No, I'm not alone... I don't know, some guy.",
+      "korean": "(전화로) 괜찮아. 아니, 혼자는 아니야… 몰라, 그냥 어떤 남자.",
+      "explanation": "some guy: '어떤(이름 모를) 남자', 대수롭지 않다는 뉘앙스."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh! Some guy. Some guy. 'Hey Jill, I saw you with some guy last night. Yes, he was some guy.",
+      "korean": "오! '어떤 남자'래. '야 질, 어젯밤에 너 어떤 남자랑 있던데.' '응, 걔 좀 대단한 남자였어.'",
+      "explanation": "'some guy'를 두 가지 뜻으로 가지고 노는 말장난: Jill은 '이름 모를 아무개'로 썼지만, Chandler는 some을 강조해 '보통내기가 아닌, 대단한 남자'라는 뜻으로 상상."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler strides proudly across the vestibule and Jill stares at him.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica's apartment, Joey enters with a menorah, the candles lit.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Hi everyone.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "And officiating at tonight's blackout, is Rabbi Tribbiani.",
+      "korean": "오늘 밤 정전식을 주관하실 분은, 트리비아니 랍비님입니다.",
+      "explanation": "officiate: (예식·의식을) 주관·집전하다. Rabbi: 유대교 랍비. Joey가 유대교 촛대(메노라)를 들고 오자 그를 랍비라 부르며 놀리는 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Well, Chandler's old roomate was Jewish, and these are the only candles we have, so... Happy Chanukah, everyone.",
+      "korean": "챈들러 옛 룸메이트가 유대인이었는데, 우리한테 있는 초가 이것뿐이라… 다들 해피 하누카.",
+      "explanation": "Chanukah(Hanukkah): 유대교 명절 하누카. 이때 menorah(가지 촛대)에 초를 켠다. Joey가 그 촛대를 정전 조명으로 쓰는 상황."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(at window) Eww, look. Ugly Naked Guy lit a bunch of candles.",
+      "korean": "(창가에서) 웩, 봐봐. '못생긴 벌거벗은 남자'가 초를 잔뜩 켰어.",
+      "explanation": "Ugly Naked Guy: 친구들이 건너편 아파트에서 늘 벌거벗고 있는 남자에게 붙인 별명(반복 등장 개그). a bunch of ~: 많은 ~. lit: light(불을 켜다)의 과거형."
+    },
+    {
+      "type": "direction",
+      "text": "(They all look at the window, grossed out, then flinch in pain.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "That had to hurt!",
+      "korean": "저거 진짜 아팠겠다!",
+      "explanation": "had to hurt: '아팠음에 틀림없다', 구어에서 확신하는 추측(= must have hurt)."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Alright, alright, alright. It's been fourteen and a half minutes and you still have not said one word. Oh God, do something. Just make contact, smile!",
+      "korean": "좋아 좋아. 14분 반이 지났는데 넌 아직 한마디도 안 했어. 하느님, 뭐라도 좀 해. 눈이라도 마주치고, 웃어!",
+      "explanation": "make contact: 여기선 (눈을) 마주치다, 접촉·교감을 시도하다."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler smiles at her, she smiles back sweetly.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "There you go!",
+      "korean": "그렇지!",
+      "explanation": "There you go: 상대가 잘 해냈을 때 '옳지, 그렇지, 바로 그거야'라는 격려·맞장구."
+    },
+    {
+      "type": "direction",
+      "text": "(He continues to smile like an idiot, and she looks frightened.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "You're definitely scaring here.",
+      "korean": "너 확실히 (그녀를) 겁주고 있어.",
+      "explanation": "대본 오타로 보이며 원래는 'You're definitely scaring her'(그녀를 겁주고 있다). 억지 미소로 여자를 겁먹게 한 자신을 지적."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "(awkwardly) Would you like to call somebody? (offering phone)",
+      "korean": "(어색하게) 누구한테 전화라도 하실래요?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yeah, about 300 guys I went to high school with. Yeah, thanks. (takes phone)",
+      "korean": "네, 고등학교 같이 다닌 놈들 한 300명한테요. 네, 고마워요.",
+      "explanation": "빅토리아 시크릿 모델과 갇힌 걸 옛 동창들한테 자랑 전화하고 싶다는 속마음 농담. guys I went to high school with: 같이 고등학교 다닌 애들."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, The phone rings; it's Chandler.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hello?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hey, it's me.",
+      "korean": "야, 나야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(to everyone) It's Chandler! (on phone) Are you OK?",
+      "korean": "챈들러야! 너 괜찮아?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yeah, I'm fine. (trying to cover up what he is saying) I'm trppd in an ATM vstbl wth Jll Gdcr.",
+      "korean": "응, 괜찮아. 나 지금 ATM 부스에 질 굿에이커랑 갇혔어.",
+      "explanation": "Jill이 못 알아듣게 모음을 빼고 웅얼거리는 말: I'm trapped in an ATM vestibule with Jill Goodacre. cover up: (말·사실을) 감추다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm trppd... in an ATM vstbl... wth Jll Gdcr!",
+      "korean": "나… ATM 부스에… 질 굿에이커랑 갇혔다고!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "I have no idea what you just said.",
+      "korean": "네가 방금 뭐라 했는지 하나도 모르겠어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(angry) Put Joey on the phone.",
+      "korean": "(화내며) 조이 바꿔봐.",
+      "explanation": "put someone on (the phone): (전화를) ~에게 바꿔주다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "What's up man?",
+      "korean": "왜, 무슨 일이야?",
+      "explanation": "What's up: '무슨 일이야?/잘 지내?'라는 가벼운 인사·안부."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "I'm trppd... in an ATM vstbl... wth JLL GDCR.",
+      "korean": "나… ATM 부스에… 질 굿에이커랑 갇혔다고."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(to everyone) Oh my God! He's trapped in an ATM vestibule with Jill Goodacre! (on phone) Chandler, listen. (says something intentionally garbled)",
+      "korean": "(모두에게) 세상에! 챈들러가 ATM 부스에 질 굿에이커랑 갇혔대! (전화로) 챈들러, 들어봐. (일부러 알아듣기 힘들게 웅얼거림)",
+      "explanation": "garbled: (말이) 알아들을 수 없게 뭉개진. Joey가 챈들러 흉내로 일부러 웅얼거리는 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yeah, like that thought never entered my mind.",
+      "korean": "그래, 마치 그 생각을 내가 한 번도 안 해본 것처럼.",
+      "explanation": "반어. Joey가 '작업 걸어봐' 같은 뻔한 소리를 하자 '내가 그 생각을 안 해봤겠냐(당연히 했지)'라고 비꼼. enter one's mind: (생각이) 머리에 떠오르다."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, time has passed. The five are sitting around the coffee table talking.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Alright, somebody.",
+      "korean": "자, 누구든 (먼저 해봐)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "OK, I'll go. OK, senior year of college... on a pool table.",
+      "korean": "그래, 내가 할게. 대학교 4학년 때… 당구대 위에서.",
+      "explanation": "I'll go: (게임·차례에서) '내가 먼저 할게'. senior year: (고교·대학의) 마지막 학년. 가장 이상한 장소에서 관계한 경험을 말하는 게임 중."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Whoooaa!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That's my sister.",
+      "korean": "쟤가 내 여동생이라니.",
+      "explanation": "여동생의 야한 고백에 질색하는 반응 — '쟤가 내 동생이야(믿기지 않네)'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "OK... my weirdest place would have to be... the women's room on the second floor of the New York CIty public library.",
+      "korean": "내 가장 이상한 장소는… 뉴욕 시립도서관 2층 여자화장실이겠네.",
+      "explanation": "would have to be ~: (곰곰이 따져보면) '아마 ~일 거다'라는 완곡한 단정. women's room: 여자화장실. weirdest: weird(이상한)의 최상급."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh my God! What were you doing in a library?",
+      "korean": "세상에! 도서관엔 대체 왜 갔던 건데?",
+      "explanation": "책과 거리가 먼 Joey가 도서관에 있었다는 것 자체가 의외라 되묻는 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Pheebs, what about you?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh... Milwaukee.",
+      "korean": "음… 밀워키.",
+      "explanation": "Milwaukee: 위스콘신주의 도시. '장소'를 화장실·당구대처럼 구체적으로 답하지 않고 그냥 도시 이름을 대는 엉뚱한 대답."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Um... Ross?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Disneyland, 1989, 'It's a Small World After All.'",
+      "korean": "디즈니랜드, 1989년, '작은 세상(It's a Small World)' 놀이기구.",
+      "explanation": "It's a Small World: 디즈니랜드의 유명한 인형 보트 놀이기구 이름. 그 안이 '가장 이상한 장소'라는 뜻."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "No way!",
+      "korean": "말도 안 돼!",
+      "explanation": "No way: 믿기지 않을 때 '말도 안 돼, 설마'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "The ride broke down. So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.",
+      "korean": "놀이기구가 고장 났어. 그래서 캐롤이랑 그 기계 네덜란드 인형들 뒤로 갔지… 그러다 기구가 고쳐졌고, 우린 다신 매직 킹덤에 오지 말라는 소릴 들었어.",
+      "explanation": "break down: (기계가) 고장 나다. be asked never to return: '다신 오지 말아 달라는 요청을 받다'(완곡하게 쫓겨남). Magic Kingdom: 디즈니랜드. Carol은 Ross의 전처."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, Rachel.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh come on, I already went.",
+      "korean": "아 왜 이래, 나 이미 했잖아.",
+      "explanation": "I already went: 여기 go는 '(차례가) 이미 지나갔다', 즉 '내 차례 이미 했다'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "You did not go!",
+      "korean": "너 안 했거든!",
+      "explanation": "did not를 강조해 '안 했어!'라고 강하게 반박(조동사 강조)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "All",
+      "english": "Come on.",
+      "korean": "에이, 어서 말해.",
+      "explanation": "Come on: 여기선 재촉·회유 — '그러지 말고 어서/빨리'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, alright. The weirdest place would have to be... (sigh)... oh, the foot of the bed.",
+      "korean": "아, 알았어. 가장 이상한 장소는… (한숨)… 침대 발치.",
+      "explanation": "the foot of the bed: 침대의 발치(끝쪽). 다들 대담한 장소를 말했는데 고작 '침대 발치'라 시시하다는 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Step back.",
+      "korean": "다들 물러서.",
+      "explanation": "step back: 뒤로 물러서다. 여기선 Rachel의 소심한 대답을 '와 대단하니 물러서라'라고 비꼬는 반어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "We have a winner!",
+      "korean": "여기 우승자 나왔네!",
+      "explanation": "가장 시시한(제일 안 이상한) 대답을 한 Rachel을 비꼬는 반어. 게임쇼 투의 '우승자 나왔습니다!'."
+    },
+    {
+      "type": "direction",
+      "text": "[Time lapse, Ross and Rachel are talking, Joey is on the couch, and Monica and Phoebe are out of the room.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I just never had a relationship with that kind of passion, you know, where you have to have somebody right there, in the middle of a theme park.",
+      "korean": "난 그런 열정적인 연애를 해본 적이 없어. 왜, 테마파크 한복판에서라도 당장 그 사람을 가져야만 하는 그런 거.",
+      "explanation": "have to have somebody right there: '지금 당장 그 자리에서 그 사람을 가져야만 하는', 참을 수 없는 욕망. that kind of passion: '그런 종류의 열정'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Well, it was the only thing to do there that didn't have a line.",
+      "korean": "뭐, 거긴 줄 안 서도 되는 게 그것밖에 없었거든.",
+      "explanation": "have a line: (놀이기구 등에) 줄이 늘어서 있다. 테마파크는 뭐든 줄 서야 하는데 '그 짓'만은 줄이 없었다는 농담."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "There, well, see? Barry wouldn't even kiss me on a miniature golf course.",
+      "korean": "거봐. 배리는 미니골프장에서 나한테 키스조차 안 하려 했어.",
+      "explanation": "miniature golf: 어린이용 미니 골프(퍼팅 위주). wouldn't even ~: '~조차 하려 하지 않았다'. Barry는 Rachel이 결혼식장에서 도망친 전 약혼자."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Come on.",
+      "korean": "에이, 어서 말해.",
+      "explanation": "Come on: 여기선 재촉·회유 — '그러지 말고 어서/빨리'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "No, he said we were holding up the people behind us.",
+      "korean": "아니, 뒷사람들 붙잡아 놓는다고(민폐라고) 했어.",
+      "explanation": "hold up: (진행을) 지체시키다, 늦추다. hold up the people behind us = 뒷사람들 진행을 막다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(sarcastically) And you didn't marry him because...?",
+      "korean": "그런데 넌 그런 남자랑 왜 결혼 안 했다고…?",
+      "explanation": "비꼼(sarcastically). 그런 재미없는 남자와 '왜 결혼을 안 했는지 모르겠다'며 반어적으로 놀림. 말끝을 흐려 상대가 이유를 채우게 하는 형식."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I mean, do you think there are people who go through life never having that kind of...",
+      "korean": "그러니까, 그런 걸 한 번도 못 느껴보고 평생 사는 사람들도 있을까?",
+      "explanation": "go through life: 인생을 살아가다. never having...: '~을 결코 갖지·느끼지 못한 채'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Probably. But you know, I'll tell you something. Passion is way overrated.",
+      "korean": "아마도. 근데 말이야, 하나 말해줄게. 열정은 완전 과대평가된 거야.",
+      "explanation": "way overrated: overrated(과대평가된)에 way(=완전, 훨씬)를 붙여 강조. way는 구어에서 '엄청, 훨씬'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Yeah right.",
+      "korean": "그래, 잘도 그러겠다.",
+      "explanation": "Yeah right: 글자 그대로 '응 맞아'가 아니라 못 믿겠다는 반어 — '퍽이나/그러시겠지'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "It is. Eventually, it kind of... burns out. But hopefully, what you're left with is trust, and security, and... well, in the case of my ex-wife, lesbianism. So, you know, for all of those people who miss out on that passion... thing, there's all that other good stuff.",
+      "korean": "진짜야. 열정은 결국… 다 타서 꺼져. 그럼 남는 건 신뢰랑 안정감… 뭐, 내 전처 경우엔 레즈비언이었지만. 그러니까 그 열정이란 걸 못 누리는 사람들한텐, 대신 다른 좋은 것들이 있는 거야.",
+      "explanation": "burn out: (불이) 다 타서 꺼지다 → 열정이 사그라들다. what you're left with: (결국) 네게 남는 것. miss out on ~: ~을 놓치다·못 누리다. 전처가 레즈비언이라 이혼한 자기 처지를 씁쓸하게 끼워 넣는 자조 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(sigh) OK.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "But, um... I don't think that's going to be you.",
+      "korean": "근데… 넌 그렇게 되진 않을 것 같아."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "You don't.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Uh-uh. See, I see.... big passion in your future.",
+      "korean": "아니. 봐, 내 눈엔 보여… 네 앞날에 엄청난 열정이.",
+      "explanation": "Uh-uh: '아니'(부정). 점쟁이가 미래를 봐주듯 말하는 톤."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Really?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Mmmm.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "You do?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I do.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh Ross, you're so great. (she playfully rubs his head and gets up)",
+      "korean": "아 로스, 넌 정말 좋은 애야. (장난스레 머리를 쓰다듬고 일어남)",
+      "explanation": "you're so great: 로맨틱한 뜻이 아니라 '좋은 친구'라는 뜻 — Ross 입장에선 반갑지 않은 '그냥 친구' 취급."
+    },
+    {
+      "type": "direction",
+      "text": "(Ross gets up, pleased with himself.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "It's never gonna happen.",
+      "korean": "그건 절대 안 이뤄질 거야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(innocently) What?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You and Rachel.",
+      "korean": "너랑 레이첼 말이야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(acts surprised) What? (pause) Why not?",
+      "korean": "(놀란 척) 뭐? (잠깐) 왜 안 되는데?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Because you waited too long to make your move, and now you're in the friend zone.",
+      "korean": "네가 너무 오래 뜸 들여서, 이제 '친구 존'에 갇힌 거야.",
+      "explanation": "make a/one's move: (연애에서) 마음을 표현하고 들이대다. friend zone: 상대가 나를 '그냥 친구'로만 여겨 연인이 될 수 없는 관계.",
+      "examples": [
+        {
+          "en": "You should make your move before someone else does.",
+          "ko": "다른 사람이 채가기 전에 마음을 표현해."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No, no, no. I'm not in the zone.",
+      "korean": "아니 아니, 난 그 존에 없어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Ross, you're mayor of the zone.",
+      "korean": "로스, 넌 그 존의 시장(市長)이야.",
+      "explanation": "mayor of the zone: '친구 존의 시장'이라는 과장 농담 — 그 정도로 완전히, 깊숙이 갇혔다는 뜻."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I'm taking my time, alright? I'm laying the groundwork. Yeah. I mean, every day I get just a little bit closer to...",
+      "korean": "난 천천히 하는 거야, 알겠어? 기초를 다지는 중이라고. 매일 조금씩 가까워지고 있어…",
+      "explanation": "take one's time: 서두르지 않고 천천히 하다. lay the groundwork: (~을 위한) 기초·토대를 닦다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Priesthood! Look Ross, I'm telling you, she has no idea what you're thinking. If you don't ask her out soon you're going to end up stuck in the zone forever.",
+      "korean": "성직자 될 판이네! 로스, 진짜, 걘 네 맘 전혀 몰라. 빨리 데이트 신청 안 하면 영영 그 존에 갇힐 거야.",
+      "explanation": "Priesthood: 성직(자). '매일 조금씩 가까워진다'는 말을 받아 '그러다 (관계 진전은 없이) 신부님 되겠다'고 놀림. ask someone out: ~에게 데이트를 신청하다. end up ~ing: 결국 ~하게 되다.",
+      "examples": [
+        {
+          "en": "He finally asked her out.",
+          "ko": "걔가 드디어 그녀한테 데이트 신청했어."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I will, I will. See, I'm waiting for the right moment. (Joey looks at him) What? What, now?",
+      "korean": "할 거야, 할 거라고. 봐, 난 적절한 때를 기다리는 거야. (조이가 쳐다봄) 뭐? 뭐, 지금?",
+      "explanation": "the right moment: 딱 알맞은 순간·타이밍."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...' (Rachel comes into the room behind them)",
+      "korean": "그래애애! 뭐가 걸리는데? 와인? 촛불? 달빛? 그냥 걔한테 다가가서 말하면 돼, '레이첼, 나 생각해봤는데…' (레이첼이 뒤로 들어옴)",
+      "explanation": "mess up: 여기선 '뭐가 널 방해하냐/걸리게 하냐'. go up to someone: ~에게 다가가다. 이보다 완벽한 분위기(와인·촛불·달빛)가 어디 있냐는 뜻."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Shhhh!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "What are you shushing?",
+      "korean": "뭘 그렇게 쉿 하는 거야?",
+      "explanation": "shush: '쉿(조용히 해)' 하다(동사)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "We're shushing... because... we're trying to hear something. Listen. (everyone is silent) Don't you hear that?",
+      "korean": "우린 쉿 하는 거야… 뭔가 들어보려고. 들어봐. (다들 조용) 저거 안 들려?",
+      "explanation": "대화 내용을 Rachel에게 들킬까 봐 둘러대는 말. Don't you hear that?: 실은 안 들리는 걸 있는 척하며 얼버무림."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ahhhh!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "See?",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Huh. (she agrees, but looks very confused)",
+      "korean": "어. (알겠다는 듯 하지만 어리둥절)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Would you like some gum?",
+      "korean": "껌 드실래요?",
+      "explanation": "gum: 껌."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Um, is it sugarless?",
+      "korean": "음, 무설탕인가요?",
+      "explanation": "sugarless: 무설탕(= sugar-free)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "(checks) Sorry, it's not.",
+      "korean": "(확인하고) 미안해요, 아니에요."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Oh, then no thanks. What the hell was that? Mental note: If Jill Goodacre offers you gum, you take it. If she offers you mangled animal carcass, you take it.",
+      "korean": "아, 그럼 됐어요. 방금 뭐 한 거야? 명심하자: 질 굿에이커가 껌을 주면, 무조건 받는다. 짓이겨진 동물 사체를 줘도, 받는 거야.",
+      "explanation": "What the hell was that?: '방금 그건 뭐였어?'(왜 그런 바보짓을). mental note: 스스로에게 '기억해 두자'는 다짐. mangled animal carcass: 짓이겨진 동물 사체 — 뭘 줘도 무조건 받았어야 했다는 과장 농담."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica's apartment, Phoebe is singing.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(singing) New York City has no power, and the milk is getting sour. But to me it is not scary, 'cause I stay away from dairy.... la la la, la la, la la... (she writes the lyrics down)",
+      "korean": "(노래) 뉴욕엔 전기가 없고, 우유는 상해가네. 하지만 난 안 무서워, 유제품은 안 먹으니까… 라라라…",
+      "explanation": "power(전기)-sour, scary-dairy로 라임을 맞춘 즉흥곡. go sour: (우유가) 상하다. stay away from ~: ~을 멀리하다. dairy: 유제품."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(to Joey) OK, here goes.",
+      "korean": "(조이에게) 좋아, 간다.",
+      "explanation": "here goes: 큰맘 먹고 뭔가 시도할 때 '자, 간다/해보자'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Are you going to do it?",
+      "korean": "할 거야?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "I'm going to do it.",
+      "korean": "할 거야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Do you want any help?",
+      "korean": "도와줄까?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "You come out there, you're a dead man.",
+      "korean": "너 거기 나오기만 해봐, 죽는 줄 알아.",
+      "explanation": "you're a dead man: '넌 죽은 목숨이다', 즉 '가만 안 둔다'는 장난 섞인 협박."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Good luck, man.",
+      "korean": "행운을 빌어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Thanks. (Joey hugs him) OK.",
+      "korean": "고마워. (조이가 안아줌) 그래."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "OK. (Ross goes out on the balcony to talk to Rachel)",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Monica walks in, starts to go out on the balcony.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Hey, where are you going?",
+      "korean": "야, 어디 가?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Outside.",
+      "korean": "밖에."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "You can't go out there.",
+      "korean": "거기 나가면 안 돼."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Why not?",
+      "korean": "왜 안 되는데?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Because of... the reason.",
+      "korean": "그게… 이유가 있어서.",
+      "explanation": "이유를 못 대고 얼버무리는 말 — '이유 때문에'라며 아무 설명도 안 하는 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "And that would be?",
+      "korean": "그게 뭔데?",
+      "explanation": "And that would be?: 상대가 말끝을 흐리자 '그게 뭐냐면?' 하고 이어 말하라고 재촉하는 표현."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "I, um, can't tell you.",
+      "korean": "그게… 말 못 해."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Joey, what's going on?",
+      "korean": "조이, 무슨 일이야?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "OK, you've got to promise that you'll never, ever tell Ross that I told you.",
+      "korean": "좋아, 내가 말했다고 로스한테 절대, 절대 말 안 한다고 약속해.",
+      "explanation": "have got to (= have to): ~해야 한다. never, ever: '절대로'를 강조."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "About what?",
+      "korean": "무슨 얘긴데?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "He's planning your birthday party.",
+      "korean": "로스가 네 생일 파티를 준비 중이야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh my God! I love him!",
+      "korean": "세상에! 걔 진짜 좋아!",
+      "explanation": "I love him: 여기선 연애 감정이 아니라 '너무 고맙고 좋다'는 감탄."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(as Phoebe enters) You'd better act surprised.",
+      "korean": "(피비가 들어오자) 놀란 척해야 돼.",
+      "explanation": "act surprised: 놀란 척하다. had better ~: ~하는 게 좋을 거야(안 그러면 곤란)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "About what?",
+      "korean": "무슨 얘긴데?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "My surprise party!",
+      "korean": "내 깜짝 파티!",
+      "explanation": "surprise party: 당사자 몰래 준비하는 깜짝 생일 파티."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "What surprise party?",
+      "korean": "무슨 깜짝 파티?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Oh stop it. Joey already told me.",
+      "korean": "아 그만해. 조이가 이미 말해줬어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Well, he didn't tell me.",
+      "korean": "근데 나한텐 말 안 했잖아."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Hey, don't look at me. This is Ross's thing.",
+      "korean": "야, 날 쳐다보지 마. 이건 로스가 벌인 일이야.",
+      "explanation": "don't look at me: '나 쳐다보지 마' = '내 탓·내 소관 아니야'. one's thing: ~가 하는(벌인) 일."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "This is so typical. I'm always the last one to know everything.",
+      "korean": "이거 완전 늘 이런 식이야. 난 항상 뭐든 제일 늦게 알아.",
+      "explanation": "This is so typical: '아주 전형적이야', 즉 '늘 이런 식이지'라는 불평. the last one to know: 제일 늦게(마지막으로) 아는 사람."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "No, you are not. We tell you stuff.",
+      "korean": "아니거든. 우리 너한테 다 얘기하잖아."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Yuh-huh! I was the last one to know when Chandler got bitten by the peacock at the zoo. I was the last one to know when you had a crush on Joey when he was moving in. (Monica gestures at Phoebe to shut up; Joey looks surprised but pleased) Looks like I was second to last.",
+      "korean": "아니거든! 챈들러가 동물원에서 공작한테 물렸을 때도 내가 제일 늦게 알았어. 네가 조이 이사 올 때 걔한테 반한 것도 내가 제일 늦게 알았고… (모니카가 입 다물라고 손짓, 조이는 놀라지만 흐뭇) 이번엔 끝에서 두 번째였나 보네.",
+      "explanation": "Yuh-huh: 'Nuh-uh(아니야)'에 맞받는 '맞거든'. get bitten by ~: ~에게 물리다. have a crush on ~: ~에게 홀딱 반하다(짝사랑). second to last: 끝에서 두 번째. 자기 말을 듣고 Joey가 방금 알았으니 이번엔 Joey가 꼴찌란 뜻.",
+      "examples": [
+        {
+          "en": "I had such a crush on him in high school.",
+          "ko": "고등학교 때 걔한테 완전 반했었어."
+        }
+      ]
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's Balcony, Ross and Rachel are talking.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Hmmm... this is so nice.",
+      "korean": "음… 진짜 좋다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.",
+      "korean": "질문이 있어. 음, 사실 질문이라기보단… 그냥 일반적인 궁금함… 같은 거랄까.",
+      "explanation": "not so much A as B: 'A라기보다는 B'. wondering...ment: 긴장한 Ross가 '-ment'를 억지로 붙여 만든 없는 단어(더듬는 개그)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "OK.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "OK. Here goes. For a while now, I've been wanting to, um....",
+      "korean": "좋아. 간다. 한동안, 계속 이걸 하고 싶었는데, 음…",
+      "explanation": "For a while now: 지금까지 한동안. I've been wanting to ~: 계속 ~하고 싶어 왔다(현재완료진행)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ohhh!!!! (looking at something behind Ross)",
+      "korean": "오오오!!!! (로스 뒤 뭔가를 보며)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yes, yes, that's right...",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, look at the little cat! (a small kitten is on the roof behind Ross)",
+      "korean": "어, 저 작은 고양이 좀 봐! (로스 뒤 지붕에 새끼 고양이)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "What? (the cat jumps on his shoulders) Ow!",
+      "korean": "뭐? (고양이가 어깨로 뛰어오름) 아야!"
+    },
+    {
+      "type": "direction",
+      "text": "[Cut to inside. Monica, Joey and Phoebe are singing while outside, Ross and Rachel are trying to get the cat off of Ross' shoulder.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(singing) I'm on top of the world, looking down on creation and the only explanation I can find, is the wonders I've found ever since...",
+      "korean": "(노래) 난 세상 꼭대기에서, 만물을 내려다보네, 내가 찾은 유일한 답은, 그날 이후 발견한 경이로움…",
+      "explanation": "카펜터스(The Carpenters)의 유명 팝송 'Top of the World' 가사. on top of the world: 세상을 다 가진 듯 최고로 행복한."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Phoebe is holding the cat, Monica is treating the scratches on Ross' back. Joey is holding the menorah over the wound.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(to Ross) This is just Bactine. It won't hurt.",
+      "korean": "(로스에게) 이거 그냥 박티인이야. 안 아파.",
+      "explanation": "Bactine: 상처 소독·통증 완화용 미국 살균 스프레이 브랜드."
+    },
+    {
+      "type": "direction",
+      "text": "(Ross flinches in pain.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Sorry, that was wax.",
+      "korean": "미안, 그건 (촛농) 왁스였어.",
+      "explanation": "wax: 여기선 촛농. 메노라를 상처 위로 들고 있다 촛농을 떨어뜨린 상황."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, poor little Tooty is scared to death. We should find his owner.",
+      "korean": "아이고, 불쌍한 꼬마 투티가 무서워 죽으려 하네. 주인을 찾아줘야 해.",
+      "explanation": "scared to death: 무서워 죽을 지경인. Tooty는 Phoebe가 즉석에서 붙인 고양이 이름."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Why don't we just put 'poor little Tooty' out in the hall?",
+      "korean": "그냥 '불쌍한 꼬마 투티'를 복도에 내놓는 게 어때?",
+      "explanation": "put ~ out in the hall: ~을 복도에 내다놓다. 고양이에 질투 섞인 Ross가 Phoebe 말투('poor little Tooty')를 비꼬아 따라 함."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "During a blackout? He'd get trampled!",
+      "korean": "정전 중에? 밟혀 죽을 거야!",
+      "explanation": "trample: 짓밟다. get trampled: (사람들에게) 밟히다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(nonchalantly) Yeah?",
+      "korean": "(태연하게) 그래서?",
+      "explanation": "nonchalantly: 무심하게, 태연히. 밟혀도 상관없다는 듯 심드렁하게 '그래서 뭐?'."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "You know, on second thought, gum would be perfection. (Jill gives him a stick of gum, and a strange look) 'Gum would be perfection'? 'Gum would be perfection.' Could have said 'gum would be nice,' or 'I'll have a stick,' but no, no, no, no. For me, gum is perfection. I loathe myself.",
+      "korean": "저기, 다시 생각해보니, 껌이면 완벽하겠네요. ('완벽'이라니?) '껌이면 좋겠네요'나 '한 개 주세요'라 하면 됐잖아, 근데 하필… 나한텐 껌이 완벽이래. 나 자신이 혐오스러워.",
+      "explanation": "on second thought: 다시 생각해보니. would be perfection: '완벽하겠다' — 껌 하나에 쓰기엔 과한 말이라 스스로 민망해함. a stick (of gum): 껌 한 개. loathe: 몹시 싫어하다·혐오하다."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: The hallway of Monica's building. Phoebe and Rachel are trying to find the cat's owner.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(stops at a door) Oh no, the Mendels, they hate all living things, right?",
+      "korean": "(문 앞에서 멈추며) 아 안 돼, 멘델네 말이야, 걔넨 살아있는 건 다 싫어하잖아, 그치?",
+      "explanation": "the Mendels: 멘델네(성 앞에 the+복수형은 '~네 가족'). all living things: 살아있는 모든 것."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh. (they knock at the next door, Mr. Heckles answers) Hi. We just found this cat and we're looking for the owner.",
+      "korean": "아. (옆집 문을 두드리자 헤클스 씨가 나옴) 안녕하세요. 이 고양이를 방금 주웠는데 주인을 찾고 있어요."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "english": "Er, yeah, it's mine.",
+      "korean": "어, 그래, 내 거야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(trying to hold back the struggling cat) He seems to hate you. Are you sure?",
+      "korean": "(발버둥 치는 고양이를 붙들며) 얘가 당신을 싫어하는 것 같은데요. 확실해요?",
+      "explanation": "hold back: 붙잡아 두다, 저지하다. struggling: 벗어나려 버둥대는."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "english": "Yeah, it's my cat. Give me my cat.",
+      "korean": "그래, 내 고양이야. 내 고양이 내놔."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Wait a minute. What's his name?",
+      "korean": "잠깐만요. 얘 이름이 뭔데요?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "english": "Ehhhh... B-Buttons.",
+      "korean": "어어… 버, 버튼즈."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Bob Buttons?",
+      "korean": "밥 버튼즈요?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "english": "Mmm. Bob Buttons. Here, Bob Buttons.",
+      "korean": "음. 밥 버튼즈. 이리 와, 밥 버튼즈.",
+      "explanation": "얼떨결에 'B-Buttons'라 한 걸 Rachel이 'Bob Buttons'로 알아듣자 그냥 맞다며 우기는 개그. Here: 반려동물 부를 때 '이리 와'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(the cat runs away from her) Oooh! You are a very bad man!",
+      "korean": "(고양이가 도망침) 우우! 당신 아주 나쁜 사람이야!"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Mr. Heckles",
+      "english": "(as Phoebe and Rachel leave) You owe me a cat.",
+      "korean": "(둘이 떠나자) 너희 나한테 고양이 하나 빚졌어.",
+      "explanation": "owe someone something: ~에게 ~을 빚지다. 자기 고양이도 아니면서 '고양이 내놔라'라고 억지 부리는 개그."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Rachel has gone off on her own to look for the cat's owner.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Here, kitty-kitty. Here kitty-kitty. Where did you go, little kitty-kitty-kitty? Here kitty-kitty-kitty-kitty...",
+      "korean": "이리 와, 야옹아, 야옹아. 어디 갔어, 꼬마 야옹아? 이리 와, 야옹아…",
+      "explanation": "here, kitty-kitty: 고양이를 부를 때 쓰는 상투적인 소리('나비야~' 격)."
+    },
+    {
+      "type": "direction",
+      "text": "(While looking at the floor for the cat, Rachel runs into a pair of legs. She slowly gets up and sees a gorgeous Italian hunk holding the cat. Who, by the way, you'll hate very, very soon. The man. Not the cat.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "(something Italian)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Wow. (she exhales in amazement, blowing the candle out)",
+      "korean": "우와. (감탄하며 숨을 내쉬다 촛불을 꺼뜨림)",
+      "explanation": "잘생긴 남자(Paolo)를 보고 감탄하다 촛불을 훅 꺼버리는 개그. exhale: 숨을 내쉬다."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Ross, Monica, and Joey are playing Monopoly.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(rolling) Lucky sixes....",
+      "korean": "(주사위 굴리며) 행운의 6 나와라…",
+      "explanation": "모노폴리 주사위를 굴리며 원하는 숫자를 부르는 말. rolling: 주사위를 굴리는 중."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(entering with Paolo, arm in arm) Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",
+      "korean": "(파올로와 팔짱 끼고 들어오며) 다들, 얘는 파올로야. 파올로, 내 친구들 소개할게. 얘는 모니카.",
+      "explanation": "arm in arm: 팔짱을 낀 채. I want you to meet ~: '~를 소개할게'(사람 소개 상투 표현)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "(smitten) Hi!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "And Joey....",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hi!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "And Ross.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "Hi!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "(something in Italian)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(proudly) He doesn't speak much English.",
+      "korean": "(자랑스럽게) 얘 영어 잘 못 해."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "(pointing at game) Monopoly!",
+      "korean": "(게임을 가리키며) 모노폴리!",
+      "explanation": "Monopoly: 미국의 부동산 보드게임. 파올로가 아는 몇 안 되는 영어 단어를 반가워하며 외침."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Look at that!",
+      "korean": "저것 좀 봐!",
+      "explanation": "별것 아닌데 과하게 대견해하는 말투 — 애인이 영어 단어 하나 말했다고 감탄."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(jealous) So, um... where did Paolo come from?",
+      "korean": "(질투하며) 그래서, 음… 파올로는 어디서 온 거야?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh... Italy, I think.",
+      "korean": "아… 이탈리아, 아마도."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No, I mean tonight, in the building. Suddenly. Into our lives.",
+      "korean": "아니, 오늘 밤 말이야, 이 건물에서. 갑자기. 우리 삶 속으로.",
+      "explanation": "출신 나라가 아니라 '어쩌다 오늘 갑자기 우리 사이에 끼어들었냐'는 질투 섞인 뜻."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Well, the cat... the cat turned out to be Paolo's cat!",
+      "korean": "그게, 그 고양이가… 알고 보니 파올로 고양이였지 뭐야!",
+      "explanation": "turn out to be ~: 알고 보니 ~이다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That, that is funny... (to Joey).... and Rachel keeps touching him.",
+      "korean": "그거, 그거 참 웃기네… (조이에게) …레이첼이 자꾸 걔를 만지잖아.",
+      "explanation": "keep ~ing: 계속 ~하다. 질투가 새어 나오는 혼잣말."
+    },
+    {
+      "type": "direction",
+      "text": "(Phoebe enters.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Alright. I looked all over the building and I couldn't find the kitty anywhere.",
+      "korean": "좋아. 건물을 다 뒤졌는데 고양이를 어디서도 못 찾겠어.",
+      "explanation": "all over ~: ~ 전체를, 온통. not ~ anywhere: 어디에서도 ~않다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Oh, I found him. He was Paolo's cat.",
+      "korean": "아, 나 찾았어. 파올로 고양이였어."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.",
+      "korean": "아! 그래! 또 이러네! 또 나만 제일 늦게 알지! 그리고 아무도 말 안 해준 거 보니… 이 사람이 파올로겠구나.",
+      "explanation": "There you go: 여기선 '거봐, 또 그러네'라는 체념 섞인 반응. Last to know again: '또 나만 꼴찌로 안다'는 반복 개그. I'm guessing: '~인 것 같네/짐작건대'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Ah, Paolo, this is Phoebe.",
+      "korean": "아, 파올로, 얘는 피비야."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "(something in Italian, he is apparently attracted to Phoebe)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(smiling) You betcha!",
+      "korean": "(웃으며) 당연하지!",
+      "explanation": "You betcha: 'You bet you (are)'의 구어 축약 — '물론이지, 당연하지'. 파올로가 이탈리아어로 수작 부리자 넘어가며 하는 말."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(chewing gum) Ah, let's see. What next? Blow a bubble. A bubble's good. It's got a... boyish charm, it's impish. Here we go.",
+      "korean": "(껌 씹으며) 자, 보자. 다음은 뭐지? 풍선껌을 불자. 풍선 좋지. 그건… 소년 같은 매력이 있어, 장난기 있고. 자 간다.",
+      "explanation": "blow a bubble: 풍선껌을 불다. boyish charm: 소년 같은(풋풋한) 매력. impish: 장난꾸러기 같은, 짓궂은."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler waits until Jill is looking, then starts to blow a bubble. But instead of blow one, he accidentally spits the gum out of his mouth and hits the wall.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Nice going, imp. OK, it's OK. All I need to do is reach over and put it in my mouth. (Chandler slyly grabs the gum from the wall and slides it back in his mouth.)",
+      "korean": "잘한다, 장난꾸러기. 괜찮아, 괜찮아. 그냥 손 뻗어서 다시 입에 넣으면 돼. (몰래 벽에서 껌을 떼 도로 입에 넣음)",
+      "explanation": "Nice going: 반어 — '잘~한다'(사고 쳤을 때 비꼼). imp: 장난꾸러기·꼬마 악마(방금 impish라 한 걸 이어받음). All I need to do is ~: 내가 할 일은 ~뿐. reach over: (손을) 뻗다. slyly: 슬그머니."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Good save! We're back on track, and I'm... (grimacing) ..chewing someone else's gum. This is not my gum. Oh my God! Oh my God! And now you're choking.",
+      "korean": "잘 막았어! 다시 정상 궤도야, 그리고 난… (얼굴 찡그리며) 남의 껌을 씹고 있네. 이건 내 껌이 아니야. 세상에! 이제 넌 목이 막혀 캑캑대고.",
+      "explanation": "Good save: '잘 막았다/위기 모면'(스포츠 세이브에서). back on track: 다시 정상 궤도로. someone else's gum: 남의 껌(벽에 붙었던 걸 도로 씹음). choke: 목이 막히다·질식하다. grimace: 얼굴을 찡그리다."
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler starts to choke.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Are you alright?",
+      "korean": "괜찮아요?"
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler tries to save face and makes the 'OK' sign with his hands, while obviously unable to breathe.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "My God, you're choking! (she runs over and gives him the Heimlich, the gum flies from his mouth) That better?",
+      "korean": "세상에, 목 막혔네요! (달려가 하임리히법을 하자 껌이 튀어나옴) 좀 나아요?",
+      "explanation": "the Heimlich (maneuver): 하임리히법(기도 막힘 응급처치). That better?: 'Is that better?'의 축약 — '이제 좀 나아요?'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "(gasping) Yes... thank you. That was... that was....",
+      "korean": "(헐떡이며) 네… 고마워요. 그건… 그건…",
+      "explanation": "gasping: 숨을 헐떡이며. 감동해서 말을 잇지 못함."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Perfection?",
+      "korean": "완벽했다고요?",
+      "explanation": "앞서 Chandler가 남발한 'perfection(완벽)'을 Jill이 되받아 놀리는 마무리."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, Rachel and Paolo are at the window. Ross and Joey are watching disgustedly.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "(something romantic in Italian about Rachel and the stars)",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "(mocking Paolo) Blah blah blah, blah blah blah... blah blaaaaaah....",
+      "korean": "(파올로 흉내내며) 블라블라블라, 블라블라블라…",
+      "explanation": "mock: 흉내 내며 비웃다. blah blah blah: (내용 없는 말을) '어쩌고저쩌고'."
+    },
+    {
+      "type": "direction",
+      "text": "(Rachel walks away from Paolo, laughing.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Wha-What did he say that was so funny?",
+      "korean": "뭐-뭐라고 했길래 그렇게 웃겨?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "I have absolutely no idea.",
+      "korean": "나도 전혀 모르겠어.",
+      "explanation": "absolutely no idea: 정말 하나도 모르겠다(강조). 말도 안 통하는데 웃는 자신도 어이없어함."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That's... that's classic.",
+      "korean": "그거… 참 대단하다.",
+      "explanation": "That's classic: 반어 — '거참 기가 막히네', 어이없어하며 비꼼."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "(to Monica and Phoebe) Oh my God, you guys, what am I doing? What am I doing? This is so un-me!",
+      "korean": "(모니카와 피비에게) 세상에 얘들아, 나 지금 뭐 하는 거지? 이건 완전 나답지 않아!",
+      "explanation": "un-me: 'me'에 un-을 붙여 즉석에서 만든 말 — '나답지 않은'. un-은 원래 형용사·명사에 붙는데 대명사에 붙인 게 포인트."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Monica",
+      "english": "If you want, I'll do it.",
+      "korean": "네가 싫으면, 내가 (파올로랑) 할게.",
+      "explanation": "Rachel이 '나답지 않다'며 망설이자, 모니카가 '그럼 내가 대신 그 남자를 맡겠다'고 던지는 농담."
+    },
+    {
+      "type": "direction",
+      "text": "(Ross looks at Joey.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "I know, I just want to bite his bottom lip. (Rachel looks at her) But I won't.",
+      "korean": "그러니까, 나 그냥 걔 아랫입술을 깨물고 싶어. (레이첼이 쳐다봄) …근데 안 할게.",
+      "explanation": "bottom lip: 아랫입술. 파올로가 너무 매력적이라는 농담을 하다 Rachel 눈치를 보고 물러섬."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "God, the first time he smiled at me... those three seconds were more exciting than three weeks in Bermuda with Barry.",
+      "korean": "세상에, 걔가 처음 나한테 웃어줬을 때… 그 3초가 배리랑 버뮤다에서 보낸 3주보다 더 짜릿했어.",
+      "explanation": "Bermuda: 신혼여행지로 인기인 대서양의 섬. 3초 vs 3주를 대비해 파올로에게 얼마나 끌리는지 과장. Barry는 전 약혼자."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "You know, did you ride mopeds? 'Cause I've heard... (they stare at her)... oh, I see... it's not about that right now. OK.",
+      "korean": "있잖아, 너희 모페드 탔어? 왜, 내가 듣기론… (다들 쳐다봄)… 아, 알겠어… 지금은 그런 얘기 할 때가 아니구나. 오케이.",
+      "explanation": "moped: 모페드(소형 스쿠터). it's not about that: '지금 중요한 건 그게 아니다'. 분위기 파악 못 하고 엉뚱한 얘길 꺼냈다 눈치채는 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Rachel",
+      "english": "Y'know, I know it's totally superficial and we have absolutely nothing in common, and we don't even speak the same language but Goooooooddddddd....",
+      "korean": "알아, 완전 겉만 보는 거고 우린 공통점도 하나 없고 말도 안 통하는데… 그래도 세상에나…",
+      "explanation": "superficial: 피상적인, 겉만 보는. have nothing in common: 공통점이 하나도 없다. 이성적으론 다 아는데도 끌린다는 뜻."
+    },
+    {
+      "type": "direction",
+      "text": "[Cut to the other side of the apartment, Ross has gone over to straighten things out with Paolo.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Paolo. Hi.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Ross!",
+      "korean": ""
+    },
+    {
+      "type": "direction",
+      "text": "(Ross notices that Paolo is standing on a step, which makes him taller. Ross gets up on the same step so he can look down at Paolo.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Listen. Um, listen. Something you should... know... um, Rachel and I... we're kind of a thing.",
+      "korean": "저기. 음, 들어봐. 네가 알아둬야 할 게 있는데… 음, 레이첼이랑 나… 우리 뭔가 있는 사이야.",
+      "explanation": "a thing: 여기선 '연인 비슷한 관계, 뭔가 있는 사이'. kind of: 어느 정도, 뭐랄까(단정을 흐림)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Thing?",
+      "korean": "'씽'?"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Thing, yes. Thing.",
+      "korean": "씽, 그래. 씽."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Ah, you... have the sex?",
+      "korean": "아, 너희… 섹스 해?",
+      "explanation": "have the sex: 영어 서툰 파올로가 관사를 잘못 붙인 표현(자연스럽겐 have sex). 'a thing(뭔가 있는 사이)'을 성관계로 오해."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No, no, no. Technically the... sex is not... being had, but that's... see, that's not the point. See, um, the point is that... Rachel and I should be, er, together. You know, and if you get in the.... um...",
+      "korean": "아니 아니. 엄밀히 말하면… 섹스는… 하고 있진 않지만, 그게… 그게 요점이 아니야. 요점은… 레이첼이랑 내가 함께여야 한다는 거지. 그러니까, 네가 그… 음…에 끼어들면…",
+      "explanation": "technically: 엄밀히 따지면. the sex is not being had: 파올로의 'have the sex'를 받아 수동태로 되받는 말장난. that's not the point: 그게 핵심이 아니다. get in the way: 방해가 되다, 끼어들다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Bed?",
+      "korean": "침대?",
+      "explanation": "Ross가 'get in the...' 하고 말을 흐리자 파올로가 엉뚱하게 'bed(침대)?'로 이어받는 개그(get in bed = 잠자리)."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.",
+      "korean": "아니, 그쪽으로 가려던 게 아니야. 어, 네가 우리가 잘 되는 데… 방해가 되면, 난, 음, 아주 슬플 거야.",
+      "explanation": "that's not where I was going: '내가 말하려던 방향은 그게 아니다'. become a thing: (관계가) 뭔가로 발전하다."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Oh!",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Yeah! Se vice?",
+      "korean": "그래! 알아들어(capisce)?",
+      "explanation": "이탈리아어 capisci?(알아듣겠어?)를 어설프게 'Se vice?'라 발음한 것. 대화가 통했는지 확인."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Si.",
+      "korean": "응(Si).",
+      "explanation": "Si: 이탈리아어로 '응/네'."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "So you do know a little English.",
+      "korean": "너 영어 좀 하는구나.",
+      "explanation": "do know: 조동사 do로 '(사실은) 할 줄 아는구나'를 강조."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "Poco... a leetle.",
+      "korean": "포코… 조금(a little).",
+      "explanation": "poco: 이탈리아어로 '조금'. a leetle: 이탈리아식 억양으로 'a little'을 발음한 것."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Do you know the word crapweasel?",
+      "korean": "'크랩위즐'이란 단어 알아?",
+      "explanation": "crapweasel: 실제 단어가 아니라 Ross가 만든 욕(crap+weasel). 다음 대사의 밑밥."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Paolo",
+      "english": "No.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "That's funny, because you know, you are a huge crapweasel!",
+      "korean": "웃기네, 왜냐면 네가 바로 엄청난 '크랩위즐'이거든!",
+      "explanation": "말이 안 통하는 걸 이용해, 파올로 면전에 대고 웃으며 욕하는 개그. huge: 여기선 '엄청난'."
+    },
+    {
+      "type": "direction",
+      "text": "(They hug.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule, Chandler and Jill are sitting below the counter with two pens dangling from their chains in front of them. Jill is showing Chandler how to swing the pen around his head.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Chandler, we've been here for an hour doing this! Now watch, it's easy.",
+      "korean": "챈들러, 우리 이거 한 시간째 하고 있어요! 자 봐요, 쉬워요.",
+      "explanation": "체인에 달린 은행 펜을 머리 위로 돌리는 장난을 한 시간째 하는 중."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "OK.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Ready? (she swings the pen around her head in a circle)",
+      "korean": "준비됐어요? (펜을 머리 둘레로 빙 돌림)"
+    },
+    {
+      "type": "direction",
+      "text": "(Chandler tries to do the same thing but the pen hits him in the head.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "No, you've got to whip it.",
+      "korean": "아니, 확 채듯이 휘둘러야죠.",
+      "explanation": "whip it: (손목으로) 획 채듯이 휘두르다."
+    },
+    {
+      "type": "direction",
+      "text": "(He swings the pen hard, and it snaps back and almost hits him again.)"
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: Monica and Rachel's, the gang is all sitting around the table.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Oh, look look look. The last candle's about to burn out. 10, 9, 8, 7... (time lapse)... negative 46, negative 47, negative 48.... (someone blows it out, the room gets completely dark)",
+      "korean": "봐봐봐. 마지막 초가 곧 꺼지겠어. 10, 9, 8, 7… (시간 경과)… 마이너스 46, 마이너스 47, 마이너스 48… (누군가 불어서 끔, 방이 완전히 캄캄해짐)",
+      "explanation": "about to ~: 막 ~하려는 참인. burn out: (초가) 다 타서 꺼지다. 초가 안 꺼지니 카운트다운이 음수(negative)까지 내려가는 개그."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Thank you.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Thanks.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Kinda... spooky without any lights.",
+      "korean": "불이 하나도 없으니… 좀 으스스하네.",
+      "explanation": "kinda (= kind of): 약간, 좀. spooky: 으스스한, 무서운."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(does a maniacal laugh) Bwah-hah-hah!",
+      "korean": "(광기 어린 웃음) 으하하하!",
+      "explanation": "maniacal laugh: 미치광이 같은 웃음(공포영화 악당 톤)."
+    },
+    {
+      "type": "direction",
+      "text": "(Everyone starts to imitate him.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...",
+      "korean": "자, 얘들아, 얘들아? 내가 결정판을 보여줄게. 으하하하…",
+      "explanation": "the definitive one: 결정판, 끝판왕(여기선 '최고의 악당 웃음')."
+    },
+    {
+      "type": "direction",
+      "text": "(The lights come back on, and Rachel and Paolo are making out. Ross clutches his chest.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Ross",
+      "english": "Oh.. oh... oh.",
+      "korean": ""
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica.",
+      "korean": "야 로스. 지금 꺼낼 얘긴 아닌 것 같은데, 너 모니카 파티 열어줘야 돼.",
+      "explanation": "bring something up: (화제를) 꺼내다. throw a party: 파티를 열다. 레이첼이 딴 남자와 키스하는 걸 방금 본 로스에게 하필 이 얘길 꺼내는 타이밍 개그."
+    },
+    {
+      "type": "scene",
+      "text": "[Scene: ATM vestibule, the power has come back on.]"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Well, this has been fun.",
+      "korean": "음, 재밌었어요.",
+      "explanation": "this has been fun: 헤어질 때 '(그동안) 즐거웠다'는 인사."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Yes. Yes, thanks for letting me use your phone... and for saving my life.",
+      "korean": "네. 네, 전화 쓰게 해줘서 고마워요… 그리고 목숨 구해줘서요.",
+      "explanation": "let me use ~: ~을 쓰게 해주다(사역 let). 하임리히로 목숨을 구해준 것을 가리킴."
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Jill",
+      "english": "Well, goodbye Chandler. I had a great blackout. (she kisses him on the cheek) See ya.",
+      "korean": "잘 가요 챈들러. 덕분에 정전이 즐거웠어요. (뺨에 키스) 또 봐요.",
+      "explanation": "I had a great blackout: '정전 시간이 즐거웠다'는 재치 있는 작별 인사. See ya (= see you): 또 봐."
+    },
+    {
+      "type": "direction",
+      "text": "(She leaves. Chandler presses his face to the glass door after her, stroking the window lovingly. He then turns to the security camera and starts talking to it.)"
+    },
+    {
+      "type": "dialogue",
+      "speaker": "Chandler",
+      "english": "Hi, um, I'm account number 7143457. And, uh, I don't know if you got any of that, but I would really like a copy of the tape.",
+      "korean": "저기, 음, 저 계좌번호 7143457인데요. 어, 방금 그거 찍혔는지 모르겠지만, 그 테이프 사본 좀 꼭 받고 싶어요.",
+      "explanation": "account number: 계좌번호. get any of that: (카메라가) 그 장면을 담다·찍다. a copy of the tape: (CCTV) 녹화 테이프 사본. 질과의 순간을 녹화해 간직하고 싶다는 마무리 개그."
+    },
+    {
+      "type": "section",
+      "text": "End"
+    }
+  ]
+}

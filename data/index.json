@@ -27,6 +27,26 @@
         {
           "title": "S01E06 · The One with the Butt",
           "file": "friends/s01e06.json"
+        },
+        {
+          "title": "S01E07 · The One with the Blackout",
+          "file": "friends/s01e07.json"
+        },
+        {
+          "title": "S01E08 · The One Where Nana Dies Twice",
+          "file": "friends/s01e08.json"
+        },
+        {
+          "title": "S01E09 · The One Where Underdog Gets Away",
+          "file": "friends/s01e09.json"
+        },
+        {
+          "title": "S01E10 · The One with the Monkey",
+          "file": "friends/s01e10.json"
+        },
+        {
+          "title": "S01E11 · The One with Mrs. Bing",
+          "file": "friends/s01e11.json"
         }
       ]
     }
