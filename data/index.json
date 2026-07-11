@@ -47,6 +47,10 @@
         {
           "title": "S01E11 · The One with Mrs. Bing",
           "file": "friends/s01e11.json"
+        },
+        {
+          "title": "S01E12 · The One with the Dozen Lasagnas",
+          "file": "friends/s01e12.json"
         }
       ]
     }
