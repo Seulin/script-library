@@ -116,10 +116,11 @@ body {
 
 .script-header .drama-tag {
   color: var(--muted);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-weight: 500;
   letter-spacing: 0.02em;
   margin-bottom: 3px;
+  white-space: nowrap; /* drama · Season · Episode 를 한 줄로 (밑으로 줄바꿈되지 않게) */
 }
 
 .script-header .drama-name {
