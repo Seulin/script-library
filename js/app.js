@@ -119,8 +119,7 @@ async function renderScriptPage(id) {
     .join(" · ");
 
   const eyebrowParts = [];
-  if (data.drama)
-    eyebrowParts.push(`<span class="drama-name">${escapeHTML(data.drama)}</span>`);
+  if (data.drama) eyebrowParts.push(escapeHTML(data.drama));
   if (metaBits) eyebrowParts.push(escapeHTML(metaBits));
   const eyebrow = eyebrowParts.length
     ? `<div class="drama-tag">${eyebrowParts.join(" · ")}</div>`

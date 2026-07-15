@@ -123,11 +123,6 @@ body {
   white-space: nowrap; /* drama · Season · Episode 를 한 줄로 (밑으로 줄바꿈되지 않게) */
 }
 
-.script-header .drama-name {
-  color: var(--accent);
-  font-weight: 600;
-}
-
 .script-header h2 {
   margin: 0;
   font-size: 1.5rem;
