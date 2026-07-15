@@ -9,6 +9,7 @@ const els = {
   episodeGrid: document.getElementById("episode-grid"),
   scriptHeader: document.getElementById("script-header"),
   lines: document.getElementById("lines"),
+  episodeNav: document.getElementById("episode-nav"),
 };
 
 let dramasCache = null; // index.json 의 dramas 배열 캐시
@@ -140,6 +141,55 @@ async function renderScriptPage(id) {
 
   if (!data.lines || data.lines.length === 0) {
     els.lines.innerHTML = `<p class="empty">아직 대사가 없습니다.</p>`;
+  }
+
+  await updateEpisodeNav(id);
+}
+
+// index.json 안에서 현재 에피소드(id)의 앞/뒤 에피소드 id를 찾는다.
+async function getEpisodeNeighbors(id) {
+  const dramas = await getDramas();
+  const toId = (ep) => ep.file.replace(/\.json$/, "");
+  for (const drama of dramas) {
+    const eps = drama.episodes || [];
+    const idx = eps.findIndex((ep) => toId(ep) === id);
+    if (idx !== -1) {
+      return {
+        prev: idx > 0 ? eps[idx - 1] : null,
+        next: idx < eps.length - 1 ? eps[idx + 1] : null,
+      };
+    }
+  }
+  return { prev: null, next: null };
+}
+
+// 하단 플로팅 이동 바의 이전/이후 버튼을 현재 위치에 맞춰 갱신한다.
+async function updateEpisodeNav(id) {
+  const nav = els.episodeNav;
+  if (!nav) return;
+  let neighbors = { prev: null, next: null };
+  try {
+    neighbors = await getEpisodeNeighbors(id);
+  } catch (err) {
+    console.error(err);
+  }
+  setNavBtn(nav.querySelector(".epnav-prev"), neighbors.prev);
+  setNavBtn(nav.querySelector(".epnav-next"), neighbors.next);
+}
+
+// 대상 에피소드가 있으면 링크 활성화(+제목 툴팁), 없으면(경계) 비활성화.
+function setNavBtn(el, ep) {
+  if (ep) {
+    const epId = ep.file.replace(/\.json$/, "");
+    el.setAttribute("href", `#/episode/${epId}`);
+    el.classList.remove("disabled");
+    el.removeAttribute("aria-disabled");
+    if (ep.title) el.title = ep.title;
+  } else {
+    el.removeAttribute("href");
+    el.classList.add("disabled");
+    el.setAttribute("aria-disabled", "true");
+    el.removeAttribute("title");
   }
 }
 

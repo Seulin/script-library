@@ -136,6 +136,57 @@ body {
   display: flex;
   flex-direction: column;
   border-top: 1px solid var(--border);
+  padding-bottom: 80px; /* 하단 플로팅 이동 바에 마지막 대사가 가리지 않게 */
+}
+
+/* 하단 플로팅 에피소드 이동 바 (이전 / 목록 / 이후) */
+.episode-nav {
+  position: fixed;
+  left: 50%;
+  bottom: 18px;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 4px;
+  padding: 5px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.14);
+  z-index: 50;
+  max-width: calc(100vw - 24px);
+}
+
+.epnav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.12s, color 0.12s;
+}
+
+.epnav-btn:hover {
+  background: var(--accent-soft);
+}
+
+.epnav-list {
+  color: var(--accent);
+}
+
+.epnav-btn.disabled {
+  color: #c2c2c9;
+  pointer-events: none;
+}
+
+@media (max-width: 600px) {
+  .epnav-btn {
+    padding: 8px 13px;
+  }
 }
 
 .empty,
