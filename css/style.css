@@ -114,6 +114,14 @@ body {
   text-decoration: underline;
 }
 
+.script-header .drama-tag {
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin-bottom: 3px;
+}
+
 .script-header h2 {
   margin: 0;
   font-size: 1.5rem;

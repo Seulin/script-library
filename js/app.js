@@ -127,13 +127,18 @@ async function renderScriptPage(id) {
         .join("")}</div>`
     : "";
 
+  const dramaTag = data.drama
+    ? `<div class="drama-tag">${escapeHTML(data.drama)}</div>`
+    : "";
+
   els.scriptHeader.innerHTML = `
-    <h2>${escapeHTML(data.drama || "제목 없음")}</h2>
+    ${dramaTag}
+    <h2>${escapeHTML(data.title || data.drama || "제목 없음")}</h2>
     <div class="sub">${escapeHTML(sub)}</div>
     ${creditsHTML}
   `;
 
-  document.title = data.drama || "Script Library";
+  document.title = data.title || data.drama || "Script Library";
 
   els.lines.innerHTML = "";
   let lineNo = 0;
