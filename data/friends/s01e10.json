@@ -1,5 +1,5 @@
 {
-  "drama": "Friends",
+  "drama": "S01E10 · The One with the Monkey",
   "season": 1,
   "episode": 10,
   "writtenBy": "Adam Chase & Ira Ungerleider",
@@ -254,13 +254,14 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "(Takes mike) Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year. (Shakes bell as an introduction) (Sung:)",
+      "english": "(Takes mike) Thanks, hi. Um, I wanna start with a song that means a lot to me this time of year. (Shakes bell as an introduction)",
       "korean": "고마워, 안녕. 음, 이맘때 제게 큰 의미가 있는 노래로 시작할게요.",
       "explanation": "means a lot to me: 내게 큰 의미가 있다. this time of year: 이맘때/이 계절."
     },
     {
-      "type": "direction",
-      "text": "I made a man with eyes of coal And a smile so bewitchin', How was I supposed to know That my mom was dead in the kitchen? (shakes bell) La lalala la la la la lalala la la..."
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(Sung) I made a man with eyes of coal And a smile so bewitchin', How was I supposed to know That my mom was dead in the kitchen? (shakes bell) La lalala la la la la lalala la la..."
     },
     {
       "type": "direction",
@@ -269,12 +270,8 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "(Sung)",
-      "korean": ""
-    },
-    {
-      "type": "direction",
-      "text": "...My mother's ashes Even her eyelashes Are resting in a little yellow jar, And sometimes when it's breezy..."
+      "english": " (Sung) ...My mother's ashes Even her eyelashes Are resting in a little yellow jar, And sometimes when it's breezy...",
+      "korean": "breezy=경쾌한"
     },
     {
       "type": "direction",
@@ -283,16 +280,13 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "(Sung)",
+      "english": "(Sung) ...I feel a little sneezy And now I- (abruptly stops)",
       "korean": ""
     },
     {
-      "type": "direction",
-      "text": "...I feel a little sneezy And now I- (abruptly stops)"
-    },
-    {
-      "type": "direction",
-      "text": "Excuse me, excuse me! Yeah, noisy boys! (They stop talking and look up) Is it something that you would like to share with the entire group?"
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "Excuse me, excuse me! Yeah, noisy boys! (They stop talking and look up) Is it something that you would like to share with the entire group?"
     },
     {
       "type": "dialogue",
@@ -675,7 +669,7 @@
     {
       "type": "dialogue",
       "speaker": "David",
-      "english": "Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?",
+      "english": "Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop up?",
       "korean": "에라 모르겠다, 될 대로 되라. ...진짜로 던져 줄까요, 아니면 그냥 폴짝 올라올래요?",
       "explanation": "what the hell: '에라 모르겠다/될 대로 되라'는 결심의 감탄사. hop: 폴짝 뛰(어 오르)다."
     },
@@ -757,7 +751,7 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Okay, so on our no-date evening, three of you now have dates.",
+      "english": "Okay, so on our no-date evening, three of you now are gonna have dates.",
       "korean": "자, 그러니까 우리 '데이트 없는 저녁'에 이제 셋이나 데이트가 있네."
     },
     {
@@ -1493,8 +1487,8 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Oh yes, yes, yes you can. Just say, um, 'Phoebe, my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say (Hits him) 'no! No! I can't understand that!'.",
-      "korean": "아니, 아니, 넌 헤어질 수 있어. 그냥 이렇게 말해, '피비, 내 일이 내 인생이고 지금은 이걸 해야만 해.' 그럼 내가 '네 일? 네 일?! 어떻게 그런 말을 해?!' 하고, 그럼 네가 '가슴이 찢어지지만 선택의 여지가 없어. 이해 못 하겠어?' 하고, 그럼 내가 (그를 때리며) '못 해! 못 해! 난 이해 못 한다고!' 하는 거지.",
+      "english": "Oh yes, yes, yes you can. Just say, um, 'Phoebe, I love you, but my work is my life and that's what I have to do right now'. And I say 'your work?! Your work?! How can you say that?!'. And then you say, um, 'it's tearing me apart, but I have no choice. Can't you understand that?'. And I say (Hits him) 'no! No! I can't understand that!'.",
+      "korean": "아니, 아니, 넌 헤어질 수 있어. 그냥 이렇게 말해, '피비, 널 사랑해. 그렇지만, 내 일이 내 인생이고 지금은 이걸 해야만 해.' 그럼 내가 '네 일? 네 일?! 어떻게 그런 말을 해?!' 하고, 그럼 네가 '가슴이 찢어지지만 선택의 여지가 없어. 이해 못 하겠어?' 하고, 그럼 내가 (그를 때리며) '못 해! 못 해! 난 이해 못 한다고!' 하는 거지.",
       "explanation": "이별 장면을 대본처럼 직접 연기하며 시켜 보는 개그. it's tearing me apart: 그게 날 갈가리 찢어놓는다(너무 괴롭다). I have no choice: 선택의 여지가 없다."
     },
     {
@@ -1633,7 +1627,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "I dunno. I don't feel like kissing anyone tonight.",
+      "english": "Oh, I don't feel like kissing anyone tonight.",
       "korean": "글쎄. 오늘 밤엔 아무하고도 키스하고 싶지 않아.",
       "explanation": "feel like -ing: ~하고 싶은 기분이 들다."
     },
@@ -1687,7 +1681,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "(Watching Marcel and talking to Rachel) I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.",
-      "korean": "이게 정말 잘되길 바랐어. 아직도 기저귀 갈아주고, 벼룩 잡아주고... 근데 쟤는 그냥 대충 하는 거야. 그렇게 사랑하는 존재가 날 사랑해주지 않는다는 걸 받아들이기가 너무 힘들어.",
+      "korean": "이게 정말 잘되길 바랐어. 아직도 노력하고 있고. 아직도 기저귀 갈아주고, 벼룩 잡아주고... 근데 쟤는 그냥 대충 하는 거야. 그렇게 사랑하는 존재가 날 사랑해주지 않는다는 걸 받아들이기가 너무 힘들어.",
       "explanation": "want this to work: 이 관계가 잘 풀리길 바라다. flea: 벼룩. phone it in: (구어) 최소한의 성의만 내고 대충 때우다. love you back: (내가 사랑하는 만큼) 나를 마주 사랑해주다.",
       "examples": [
         "The actor was clearly phoning it in.",

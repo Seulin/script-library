@@ -1,5 +1,5 @@
 {
-  "drama": "Friends",
+  "drama": "S01E09 · The One Where Underdog Gets Away",
   "season": 1,
   "episode": 9,
   "writtenBy": "Jeff Greenstein & Jeff Strauss",
@@ -25,7 +25,7 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.",
+      "english": "It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I've sort of started the whole independence thing, you know, which is actually why I took this job.",
       "korean": "추수감사절을 가족과 보내려고요. 해마다 베일로 스키 타러 가는데, 원래 아빠가 표값을 내주셨거든요. 근데 제가 독립이란 걸 시작한 셈이라서요.",
       "explanation": "Vail = 콜로라도의 유명 고급 스키 리조트. sort of / the whole ~ thing = '~라는 거 있잖아' 식으로 뭉뚱그리는 구어. which is actually why ~ = '실은 그래서 ~한 거예요'."
     },
@@ -61,7 +61,7 @@
     {
       "type": "dialogue",
       "speaker": "Guy",
-      "english": "Huh?",
+      "english": "Huh? No",
       "korean": "네?",
       "explanation": "Huh? = 못 알아들었거나 어이없을 때 내는 '엥?/뭐라고요?'."
     },
@@ -683,8 +683,8 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
-      "korean": "응. 추수감사절 저녁을 한번 거꾸로 되감아 본 뒤로는 그걸 음미하기가 참 힘들어.",
+      "english": "Yes. It's very difficult to join a Thanksgiving dinner once you've seen it in reverse.",
+      "korean": "응. 추수감사절 저녁을 한번 거꾸로 되감아 본 뒤로는 그걸 즐기기가 참 힘들어.",
       "explanation": "see it in reverse = (충격에 토해서) 먹은 걸 거꾸로 게워낸 걸 완곡·과장하게 표현. 이혼 소식에 토했다는 암시로 웃기는 대사."
     },
     {
@@ -882,8 +882,8 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "All right, that's it. You know what? Just get out of my way and stop moping.",
-      "korean": "됐어, 그만. 그냥 내 앞에서 비키고 침울해하는 거 그만해.",
+      "english": "All right, that's it. You know what? Just get out of my way and stop annoying me.",
+      "korean": "됐어, 그만. 그냥 내 앞에서 비키고 거슬리게 하지마.",
       "explanation": "that's it = '이제 됐어/여기까지'. get out of my way = 비켜. mope = 시무룩하게 굴다/우울해하다.",
       "examples": [
         "Stop moping and go outside.",
@@ -1052,7 +1052,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Well, 'cause then they'd be like my mom used to make them, you know, before she died.",
+      "english": "Well, 'cause then they'd be just like the way my mom used to make it, you know, before she died.",
       "korean": "응, 그럼 우리 엄마가 만들던 거랑 비슷해지거든, 알잖아, 돌아가시기 전에.",
       "explanation": "used to make = 예전엔 만들곤 했다. before she died = 담담하게 던지는 이 한마디가 피비 특유의 갑작스러운 애잔함 포인트."
     },
@@ -1129,8 +1129,8 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Got the keys? or Got the keys!",
-      "korean": "열쇠 챙겼어? 아니면 열쇠 챙겼다!",
+      "english": "Got the keys?(Got the keys!)",
+      "korean": "열쇠 챙겼어?(열쇠 챙겼다!)",
       "explanation": "Got the keys? = 열쇠 챙겼어?(질문) / Got the keys! = 열쇠 챙겼어!(평서). 억양에 따라 뜻이 갈리는데, 이 모호함이 뒤에 문 잠기는 사건의 복선."
     },
     {
@@ -1200,8 +1200,8 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "I loved the moment when you first saw the giant dog shadow all over the park.",
-      "korean": "난 네가 공원 위에 뜬 거대한 개 그림자를 처음 봤던 그 순간이 참 좋았어.",
+      "english": "The moment when we first saw the giant dog shadow fall all over the park.",
+      "korean": "보러 가자마자 큰 개 그림자가 공원을 덮다니",
       "explanation": "the moment when ~ = ~했던 그 순간. shadow all over the park = 공원 전체에 드리운 그림자."
     },
     {
@@ -1324,8 +1324,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "And everyone's telling me, you gotta pick a major, you gotta pick a major. So, on a dare, I picked paleontology. And you have no idea what I'm saying, because, let's face it, you're a fetus. You're just happy you don't have gills anymore.",
-      "korean": "다들 나한테 그러는 거야, 전공을 골라야 한다고. 그래서 내기로 고생물학을 택했지. 넌 내 말 하나도 못 알아듣겠지, 솔직히 넌 태아니까. 이제 아가미가 없어진 게 그저 좋을 뿐이지.",
-      "explanation": "pick a major = 전공을 정하다. on a dare = 내기/부추김에 (충동적으로). paleontology = 고생물학. let's face it = 솔직히 인정하자. fetus = 태아. gills = 아가미(태아 발생 단계를 두고 던지는 농담)."
+      "korean": "다들 나한테 그러는 거야, 전공을 골라야 한다고. 그래서 용감하게도, 감히 고생물학을 택했지. 넌 내 말 하나도 못 알아듣겠지, 솔직히 넌 태아니까. 이제 아가미가 없어진 게 그저 좋을 뿐이지.",
+      "explanation": "pick a major = 전공을 정하다. paleontology = 고생물학. let's face it = 솔직히 인정하자. fetus = 태아. gills = 아가미(태아 발생 단계를 두고 던지는 농담)."
     },
     {
       "type": "dialogue",
@@ -1776,9 +1776,9 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "I'd like to propose a toast. Little toast here, ding ding. I know this isn't the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
+      "english": "I'd like to propose a toast. Little toast here, ding ding. I know this isn't exaclty the kind of Thanksgiving that all of you all planned, but for me, this has been really great, you know, I think because it didn't involve divorce or projectile vomiting. Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know? So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
       "korean": "건배 제의를 하고 싶어. 짧게 한마디, 딩딩. 이게 너희 모두가 계획했던 추수감사절이 아닌 건 알아, 근데 나한텐 정말 근사했어. 이혼이나 뿜어내는 구토 같은 게 없었으니까. 아무튼 생각해봤는데, 네가 베일에 갔더라면, 너희가 가족과 함께였더라면, 네가 매독 같은 거에 안 걸렸더라면, 우린 이렇게 다 같이 못 있었을 거야. 그래서 내가 하려는 말은, 너희 추수감사절이 다 엉망이라 정말 감사하다는 거야.",
-      "explanation": "propose a toast = 건배를 제의하다. ding ding = 잔 두드리는 소리 흉내(주목 요청). projectile vomiting = 뿜듯이 하는 구토. syphilis = 매독(조이 성병 소동을 놀림). if you'd gone ~ = 가정법 과거완료(안 그랬기에 다행이라는 역설). I'm thankful that ~ = 추수감사절답게 '~라 감사하다'.",
+      "explanation": "propose a toast = 건배를 제의하다. ding ding = 잔 두드리는 소리 흉내(주목 요청). projectile=발사체. syphilis = 매독(조이 성병 소동을 놀림). if you'd gone ~ = 가정법 과거완료(안 그랬기에 다행이라는 역설). I'm thankful that ~ = 추수감사절답게 '~라 감사하다'.",
       "examples": [
         "I'd like to propose a toast.",
         "If you'd left earlier, you'd have made it."

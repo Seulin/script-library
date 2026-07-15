@@ -55,6 +55,7 @@ async function router() {
 
 async function renderListPage() {
   showView("list");
+  document.title = "Script Library";
   let dramas;
   try {
     dramas = await getDramas();
@@ -131,6 +132,8 @@ async function renderScriptPage(id) {
     <div class="sub">${escapeHTML(sub)}</div>
     ${creditsHTML}
   `;
+
+  document.title = data.drama || "Script Library";
 
   els.lines.innerHTML = "";
   let lineNo = 0;
