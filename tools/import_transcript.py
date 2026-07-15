@@ -14,6 +14,7 @@
 
 import argparse
 import json
+import os
 import re
 import sys
 from html.parser import HTMLParser
@@ -21,6 +22,9 @@ from urllib.request import urlopen
 
 DEFAULT_URL = "https://fangj.github.io/friends/season/0101.html"
 UNSEEN_COLOR = "#0000ff"  # 파란 글씨 = 원 방영본엔 없던 부분
+
+# 에피소드 제목 앞 "S01E07 · " 같은 코드 접두어(표시엔 넣지 않음)
+EP_PREFIX_RE = re.compile(r"^\s*S\d+E\d+\s*·\s*")
 
 # 섹션 구분으로 취급할 문구(트림·대소문자 무시 후 매칭)
 SECTION_RE = re.compile(
@@ -280,6 +284,42 @@ def extract_credits(paragraphs):
     return written, ", ".join(transcribers)
 
 
+def strip_ep_prefix(title):
+    """'S01E07 · The One ...' → 'The One ...' (코드 접두어 제거)."""
+    return EP_PREFIX_RE.sub("", title or "").strip()
+
+
+def find_index_json(out_path):
+    """--out 위치에서 상위로 올라가며 index.json 을 찾는다(보통 data/index.json)."""
+    d = os.path.dirname(os.path.abspath(out_path))
+    while True:
+        cand = os.path.join(d, "index.json")
+        if os.path.isfile(cand):
+            return cand
+        parent = os.path.dirname(d)
+        if parent == d:
+            return None
+        d = parent
+
+
+def title_from_index(out_path):
+    """index.json 에서 --out 파일명과 같은 에피소드의 title(접두어 제거)을 찾는다."""
+    idx_path = find_index_json(out_path)
+    if not idx_path:
+        return None
+    try:
+        with open(idx_path, encoding="utf-8") as f:
+            idx = json.load(f)
+    except (OSError, ValueError):
+        return None
+    base = os.path.basename(out_path)
+    for drama in idx.get("dramas", []):
+        for ep in drama.get("episodes", []):
+            if os.path.basename(ep.get("file", "")) == base:
+                return strip_ep_prefix(ep.get("title", ""))
+    return None
+
+
 def load_html(url, file):
     if file:
         with open(file, encoding="utf-8", errors="replace") as f:
@@ -294,7 +334,12 @@ def main():
     ap.add_argument("--url", default=DEFAULT_URL, help="소스 HTML URL")
     ap.add_argument("--file", help="로컬 HTML 파일(있으면 --url 무시)")
     ap.add_argument("--out", required=True, help="출력 JSON 경로")
-    ap.add_argument("--drama", default="Friends")
+    ap.add_argument("--drama", default="Friends", help="작품명(쇼 이름)")
+    ap.add_argument(
+        "--title",
+        default=None,
+        help="에피소드 제목. 없으면 index.json 에서 --out 파일명으로 찾아 코드 접두어를 제거해 사용.",
+    )
     ap.add_argument("--season", type=int, default=1)
     ap.add_argument("--episode", type=int, default=1)
     args = ap.parse_args()
@@ -310,7 +355,10 @@ def main():
         norm = [(normalize_ws(t) if t.strip() else t, u, b) for t, u, b in tokens]
         entries.extend(classify(norm))
 
+    title = strip_ep_prefix(args.title) if args.title else title_from_index(args.out)
+
     data = {
+        "title": title or "",
         "drama": args.drama,
         "season": args.season,
         "episode": args.episode,
@@ -334,6 +382,7 @@ def main():
             if isinstance(v, list):
                 unseen_count += sum(1 for s in v if s.get("unseen"))
     print(f"→ {args.out}", file=sys.stderr)
+    print(f"  title: {title or '(없음 — index.json에서 못 찾음)'}", file=sys.stderr)
     print(f"  총 {len(entries)} 항목: " + ", ".join(f"{k}={n}" for k, n in kinds.items()), file=sys.stderr)
     print(f"  unseen 조각: {unseen_count}", file=sys.stderr)
 
