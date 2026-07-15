@@ -110,13 +110,21 @@ async function renderScriptPage(id) {
     return;
   }
 
-  const sub = [
+  const metaBits = [
     data.season != null ? `Season ${data.season}` : null,
     data.episode != null ? `Episode ${data.episode}` : null,
     data.scene ? data.scene : null,
   ]
     .filter(Boolean)
     .join(" · ");
+
+  const eyebrowParts = [];
+  if (data.drama)
+    eyebrowParts.push(`<span class="drama-name">${escapeHTML(data.drama)}</span>`);
+  if (metaBits) eyebrowParts.push(escapeHTML(metaBits));
+  const eyebrow = eyebrowParts.length
+    ? `<div class="drama-tag">${eyebrowParts.join(" · ")}</div>`
+    : "";
 
   const credits = [];
   if (data.writtenBy) credits.push(`Written by ${data.writtenBy}`);
@@ -127,14 +135,9 @@ async function renderScriptPage(id) {
         .join("")}</div>`
     : "";
 
-  const dramaTag = data.drama
-    ? `<div class="drama-tag">${escapeHTML(data.drama)}</div>`
-    : "";
-
   els.scriptHeader.innerHTML = `
-    ${dramaTag}
+    ${eyebrow}
     <h2>${escapeHTML(data.title || data.drama || "제목 없음")}</h2>
-    <div class="sub">${escapeHTML(sub)}</div>
     ${creditsHTML}
   `;
 
