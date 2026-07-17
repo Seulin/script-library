@@ -562,13 +562,18 @@
       "type": "dialogue",
       "speaker": "Mrs. Bing",
       "english": "Who's doing shots?",
-      "korean": ""
+      "korean": "샷 마실 사람?",
+      "explanation": "do shots = (데킬라 같은 독한 술을) 샷 잔으로 원샷하다."
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Yeah.",
-      "korean": ""
+      "english": "Hit me.",
+      "korean": "나 한 잔 줘.",
+      "explanation": "Hit me = 여기선 '나한테 한 잔 따라줘'. 원래 블랙잭에서 '카드 한 장 더 줘'라는 뜻으로 쓰던 표현이 술·음식을 더 달라는 말로 확장된 것. '날 때려줘'가 아님.",
+      "examples": [
+        "Hit me again, bartender. (한 잔 더 주세요.)"
+      ]
     },
     {
       "type": "dialogue",
