@@ -795,9 +795,9 @@
     {
       "type": "dialogue",
       "speaker": "Mrs. Bing",
-      "english": "You are gonna be fine, believe me.",
+      "english": "Oh, come on, kiddo. You are gonna be fine, believe me.",
       "korean": "넌 잘될 거야, 날 믿어.",
-      "explanation": "gonna be fine = 잘 풀릴 거야(위로)."
+      "explanation": "kiddo=친근하게 아이나 어린 사람을 부르는 애칭입니다(한국어의 '꼬맹이'나 '아가야'), gonna be fine = 잘 풀릴 거야(위로)."
     },
     {
       "type": "direction",
@@ -1233,7 +1233,10 @@
       "speaker": "Joey",
       "english": "Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.",
       "korean": "야야야, 내가 그때 딱 잡았으니 망정이지, 안 그랬으면 무슨 일이 벌어졌을지 누가 알아.",
-      "explanation": "you're lucky I ~ = 내가 ~해서 다행인 줄 알아. woulda happened = would have happened(가정법 과거완료, 안 잡았다면 벌어졌을 일)."
+      "explanation": "you're lucky I ~ = 내가 ~해서 다행인 줄 알아. when I did = 여기서 did는 앞의 caught them을 반복하지 않으려 받은 대동사 → \"내가 (실제로) 잡았던 바로 그때\". 그냥 caught them만 쓰는 것과 달리 '하필 그 타이밍에'를 강조해, 조금만 늦었으면 큰일 났다는 함의를 준다(그래서 뒤에 or else ~가 붙음). woulda happened = would have happened(가정법 과거완료, 안 잡았다면 벌어졌을 일).",
+      "examples": [
+        "It's a good thing you called when you did. (네가 그때 전화해서 다행이야.)"
+      ]
     },
     {
       "type": "dialogue",
