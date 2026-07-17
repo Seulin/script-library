@@ -642,7 +642,11 @@
       "speaker": "Mrs. Bing",
       "english": "Oh, please, honey, listen, if I can do it, anybody can. You just start with half a dozen European cities, throw in thirty euphemisms for male genitalia, and bam! You have got yourself a book.",
       "korean": "에이 얘야, 내가 할 수 있으면 누구나 할 수 있어. 유럽 도시 예닐곱 개로 시작해서 남성 성기 완곡어 서른 개쯤 던져 넣으면, 짠! 책 한 권 완성이야.",
-      "explanation": "half a dozen = 여섯 개쯤. euphemisms for ~ = ~의 완곡어법. throw in = (재료처럼) 던져 넣다. bam = \"짠!\". 자기 로맨스 소설을 자조하는 농담."
+      "explanation": "half a dozen = 여섯 개쯤. euphemisms for ~ = ~의 완곡어법. throw in = (재료처럼) 던져 넣다. bam = \"짠!\". You have got yourself a book = 'get oneself + 명사' 구문. have got은 구어체 have(완료 아님)이고, yourself는 '너 자신을'이 아니라 '너한테/네 몫으로'라는 뜻의 재귀대명사 → \"너한테 책 한 권이 생기는 거야\" = \"책 한 권 완성이야\". 요리 레시피 말투로 소설 쓰기를 설명하는 자조 개그.",
+      "examples": [
+        "You've got yourself a deal. (그럼 거래 성사야.)",
+        "Sounds like you've got yourself a new car. (새 차 생겼네.)"
+      ]
     },
     {
       "type": "dialogue",
