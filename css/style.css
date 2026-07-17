@@ -371,6 +371,7 @@ body {
   margin: 7px 0 0;
   font-size: 0.88rem;
   color: var(--muted);
+  white-space: pre-line; /* explanation 안의 줄바꿈(\n)을 그대로 살려 가독성 확보 */
 }
 
 .examples {

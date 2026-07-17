@@ -1233,9 +1233,10 @@
       "speaker": "Joey",
       "english": "Hey, hey, hey, you're lucky I caught them when I did, or else who knows what woulda happened.",
       "korean": "야야야, 내가 그때 딱 잡았으니 망정이지, 안 그랬으면 무슨 일이 벌어졌을지 누가 알아.",
-      "explanation": "you're lucky I ~ = 내가 ~해서 다행인 줄 알아. when I did = 여기서 did는 앞의 caught them을 반복하지 않으려 받은 대동사 → \"내가 (실제로) 잡았던 바로 그때\". 그냥 caught them만 쓰는 것과 달리 '하필 그 타이밍에'를 강조해, 조금만 늦었으면 큰일 났다는 함의를 준다(그래서 뒤에 or else ~가 붙음). woulda happened = would have happened(가정법 과거완료, 안 잡았다면 벌어졌을 일).",
+      "explanation": "you're lucky I ~ = 내가 ~해서 다행인 줄 알아.\nwhen I did = did는 앞의 caught them을 반복하지 않으려 받은 대동사 → \"내가 (실제로) 잡았던 바로 그때\".\n뉘앙스: when I did 없이 you're lucky I caught them만 써도 문법상 맞다. 다만 그러면 '잡았다는 사실 자체'가 다행인 게 된다. when I did를 붙이면 잡은 건 이미 기정사실로 깔고 초점이 '타이밍'으로 옮겨간다 → \"내가 하필 그때 잡았으니 망정이지(조금만 늦었어도…)\". 그래서 자기 공을 은근히 부풀리는 생색이 되고, 뒤에 or else ~(안 그랬으면…)가 자연스럽게 붙는다.\nwoulda happened = would have happened (가정법 과거완료, 안 잡았다면 벌어졌을 일).",
       "examples": [
-        "It's a good thing you called when you did. (네가 그때 전화해서 다행이야.)"
+        "It's a good thing you called when you did. (네가 그때 전화해서 다행이야.)",
+        "Good thing we left when we did. (우리가 그때 나와서 다행이야 — 늦었으면 큰일 났다는 함의.)"
       ]
     },
     {
@@ -1311,7 +1312,7 @@
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "You gotta let me slam the door! (Leaves; slams the door)",
+      "english": "Let me slam the door! (Leaves; slams the door)",
       "korean": "내가 문을 쾅 닫게 좀 놔둬! (나가며 문을 쾅 닫는다)",
       "explanation": "slam the door = 문을 쾅 닫다(화난 퇴장). 극적으로 나가려는데 자꾸 붙잡히자 하는 말."
     },
