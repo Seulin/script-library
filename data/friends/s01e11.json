@@ -1750,7 +1750,8 @@
       "type": "dialogue",
       "speaker": "Coma Guy",
       "english": "Alright, I'll call you.",
-      "korean": ""
+      "korean": "알겠어요, 전화할게요.",
+      "explanation": "모니카가 시킨 말을 성의 없이 그대로 따라 하는 것 — 그래서 다음 줄에서 피비가 진심이 아니라고 지적한다."
     },
     {
       "type": "dialogue",
@@ -1780,8 +1781,8 @@
     {
       "type": "dialogue",
       "speaker": "Mrs. Bing",
-      "english": "Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",
-      "korean": "차 밑에서 기다려. 친구들 주게 책 몇 권 두고 가려고. 리스본에서 뭐 갖다줄까?",
+      "english": "Car's running downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",
+      "korean": "차 밑에서 (시동 킨 채로) 기다려. 친구들 주게 책 몇 권 두고 가려고. 리스본에서 뭐 갖다줄까?",
       "explanation": "drop off = 놓고 가다. Lisbon = 포르투갈 리스본(다음 순회지)."
     },
     {
@@ -1940,18 +1941,15 @@
     {
       "type": "dialogue",
       "speaker": "Mrs. Bing",
-      "english": "Alright. (Kisses him)",
-      "korean": ""
+      "english": "Alright. You be good. (Kisses him)",
+      "korean": "그래. 잘 지내렴."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "Nice save.",
-      "korean": "잘 넘겼네요.",
-      "explanation": "Nice save = (곤란한 상황을) 잘 무마했다/모면했다. 여기선 엄마가 키스로 대충 화해 분위기를 만든 걸 두고 하는 말.",
-      "examples": [
-        "Almost said the wrong name — nice save! (하마터면 이름 틀릴 뻔했는데 잘 넘겼어!)"
-      ]
+      "english": "Fly safe.",
+      "korean": "",
+      "explanation": ""
     },
     {
       "type": "direction",
@@ -1988,7 +1986,12 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "You mean that?",
-      "korean": ""
+      "korean": "진심이야?",
+      "explanation": "mean that = 진심으로 말하다(→ \"방금 그 말 진심이야?\").\n맥락: 엄마 키스 일로 틀어진 뒤라, 챈들러가 툭 던진 Hey. 한마디가 '화 풀렸다'는 신호인지 로스가 확인하는 것. 그래서 인사말 하나를 두고 '진심이냐'고 묻는 장면이 성립한다.",
+      "examples": [
+        "I'm sorry. — You mean that? (미안해. — 진심이야?)",
+        "Do you really mean it? (그거 진짜 진심이야?)"
+      ]
     },
     {
       "type": "dialogue",
