@@ -41,30 +41,44 @@ SCENE_BRACKET_RE = re.compile(r"^\[\s*scene\s*:", re.I)
 SUNG_MARKER_RE = re.compile(r"\(\s*sung\s*:?\s*\)\s*$", re.I)
 SUNG_PREFIX = "(Sung:) "
 
+# 화자 라벨 없는 문단이 이 비율 이상 이탤릭이면 노래 가사로 본다.
+# (실측: 가사 69~100% vs 이탤릭 섞인 일반 지침 13%)
+ITALIC_SONG_RATIO = 0.6
+
 
 class TranscriptParser(HTMLParser):
-    """<p> 단위로 (text, unseen, bold) 토큰을 수집한다."""
+    """<p> 단위로 (text, unseen, bold) 토큰과 문단별 이탤릭 비율을 수집한다."""
 
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.in_p = False
         self.color_stack = []   # <font color> 중첩 추적
         self.bold_depth = 0     # <b>/<strong> 중첩 추적
+        self.italic_depth = 0   # <i>/<em> 중첩 추적 — 노래 가사 판별용
         self.tokens = []        # 현재 문단의 (text, unseen, bold)
         self.paragraphs = []    # [(text, unseen, bold), ...] 들의 리스트
+        self.italic_ratios = [] # paragraphs 와 같은 길이: 문단 텍스트 중 이탤릭 비율
+        self._ital_len = 0
+        self._all_len = 0
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         if tag == "p":
             self.in_p = True
             self.tokens = []
-            # 문단 경계에서 상태 초기화(소스의 국소적 태그 불균형이 다음 문단으로 새지 않게)
+            self._ital_len = 0
+            self._all_len = 0
+            # 문단 경계에서 상태 초기화(소스의 국소적 태그 불균형이 다음 문단으로 새지 않게).
+            # italic_depth 는 일부러 초기화하지 않는다 — 전사본에서 <i>가 <p>를 넘어
+            # <blockquote> 가사 전체를 감싸는 경우가 있어(예: s01e11) 유지해야 한다.
             self.color_stack = []
             self.bold_depth = 0
         elif tag == "font":
             self.color_stack.append((attrs.get("color") or "").lower())
         elif tag in ("b", "strong"):
             self.bold_depth += 1
+        elif tag in ("i", "em"):
+            self.italic_depth += 1
         elif tag == "br" and self.in_p:
             # 줄바꿈 보존(크레딧 등 멀티라인 파싱용). 대사에선 이후 normalize_ws가 공백으로 정리.
             self.tokens.append(("\n", self._unseen(), self.bold_depth > 0))
@@ -73,6 +87,9 @@ class TranscriptParser(HTMLParser):
         if tag == "p":
             if self.in_p:
                 self.paragraphs.append(self.tokens)
+                self.italic_ratios.append(
+                    self._ital_len / self._all_len if self._all_len else 0.0
+                )
             self.in_p = False
             self.tokens = []
         elif tag == "font":
@@ -80,10 +97,17 @@ class TranscriptParser(HTMLParser):
                 self.color_stack.pop()
         elif tag in ("b", "strong"):
             self.bold_depth = max(0, self.bold_depth - 1)
+        elif tag in ("i", "em"):
+            self.italic_depth = max(0, self.italic_depth - 1)
 
     def handle_data(self, data):
         if self.in_p and data:
             self.tokens.append((data, self._unseen(), self.bold_depth > 0))
+            n = len(data.strip())
+            if n:
+                self._all_len += n
+                if self.italic_depth > 0:
+                    self._ital_len += n
 
     def _unseen(self):
         # 가장 안쪽 색이 파란색이면 unseen
@@ -310,6 +334,40 @@ def strip_sung_marker(english):
     return english, False
 
 
+def strip_parens_text(text):
+    """중첩까지 고려해 (...) 구간을 지운 나머지."""
+    out = []
+    depth = 0
+    for ch in text:
+        if ch == "(":
+            depth += 1
+            continue
+        if ch == ")":
+            if depth:
+                depth -= 1
+            continue
+        if depth == 0:
+            out.append(ch)
+    return "".join(out)
+
+
+def is_spoken_continuation(value):
+    """화자 라벨이 없지만 실은 직전 화자의 대사가 이어지는 문단인가?
+
+    전사본은 같은 화자가 계속 말할 때 라벨을 생략하곤 한다
+    (예: "(She sees Monica sneaking out) Okay, thank you very much, ...").
+    순수 지침은 통째로 괄호 안이거나([Time Lapse] 같은) 대괄호 블록이므로,
+    '괄호가 있으면서 괄호 밖에 실제 말이 남는' 경우만 대사로 본다.
+    괄호가 아예 없는 문단(내레이션·포스터 문구·가사 등)은 건드리지 않는다.
+    """
+    text = value if isinstance(value, str) else "".join(s.get("text", "") for s in value)
+    t = text.strip()
+    if not t or t.startswith("[") or "(" not in t:
+        return False
+    rest = strip_parens_text(t).strip()
+    return len(rest) >= 4 and any(c.isalpha() for c in rest)
+
+
 def sung_dialogue(speaker, text):
     """가사 문단(화자 라벨 없음)을 '(Sung:) …' 대사 항목으로 만든다."""
     if isinstance(text, list) and text:
@@ -320,29 +378,55 @@ def sung_dialogue(speaker, text):
     return {"type": "dialogue", "speaker": speaker, "english": english, "korean": ""}
 
 
-def build_entries(paragraphs):
-    """문단들을 항목 리스트로. '(Sung:)' 마커 뒤 가사 문단은 같은 화자의 대사로 잇는다."""
-    entries = []
-    pending_singer = None  # 직전 대사가 (Sung:)로 끝났으면 그 화자
+def build_entries(paragraphs, italic_ratios):
+    """문단들을 항목 리스트로 만들되, 화자 라벨이 없는 문단을 두 가지로 되살린다.
 
-    for tokens in paragraphs:
+    전사본은 같은 화자가 이어 말하거나 노래할 때 'Phoebe:' 라벨을 생략한다.
+    그대로 두면 전부 direction(지침)이 되므로:
+      1) 노래 가사 — 이탤릭(<i>/<em>) 비율이 높은 문단 → 직전 화자의 대사 + '(Sung:)' 접두어.
+         (이탤릭 단독은 강조·속마음 독백에도 쓰이지만, '화자 라벨 없음'과 겹치는 건 가사뿐이다.)
+      2) 이어지는 대사 — 괄호 밖에 실제 말이 남는 문단 → 직전 화자의 대사.
+    포스터 문구·내레이션처럼 이탤릭도 괄호도 없는 문단은 그대로 지침으로 둔다.
+    """
+    entries = []
+    last_speaker = None
+    pending_singer = None  # 직전 대사가 '(Sung:)'로 끝났으면 그 화자
+
+    for tokens, italic in zip(paragraphs, italic_ratios):
         norm = [(normalize_ws(t) if t.strip() else t, u, b) for t, u, b in tokens]
         new = classify(norm)
         if not new:
             continue
 
-        # 1) 직전이 (Sung:)였다면 이 문단(가사=화자 없는 지침)을 그 화자의 대사로 전환
-        if pending_singer and new[0].get("type") == "direction":
-            new[0] = sung_dialogue(pending_singer, new[0]["text"])
-        pending_singer = None  # 마커 바로 다음 문단에만 적용
+        # 화자 라벨이 없어 지침 하나로만 잡힌 문단을 되살린다
+        if len(new) == 1 and new[0].get("type") == "direction":
+            text = new[0]["text"]
+            plain = text if isinstance(text, str) else "".join(
+                s.get("text", "") for s in text
+            )
+            is_bracket = plain.strip().startswith("[")
+            singer = pending_singer or last_speaker
+            if singer and not is_bracket and (
+                italic >= ITALIC_SONG_RATIO or pending_singer
+            ):
+                new[0] = sung_dialogue(singer, text)
+            elif last_speaker and is_spoken_continuation(text):
+                new[0] = {
+                    "type": "dialogue",
+                    "speaker": last_speaker,
+                    "english": text,
+                    "korean": "",
+                }
+        pending_singer = None  # 마커는 바로 다음 문단에만 적용
 
-        # 2) 이 문단 대사 끝의 (Sung:) 마커는 떼고, 그 화자를 기억
+        # 대사 끝의 '(Sung:)' 마커는 떼고(가사 줄로 옮겨감) 화자를 기억
         for e in new:
             if e.get("type") == "dialogue":
                 stripped, was_sung = strip_sung_marker(e["english"])
                 if was_sung:
                     e["english"] = stripped
                     pending_singer = e["speaker"]
+                last_speaker = e["speaker"]
 
         # 마커뿐이던 대사는 본문이 비므로 버린다(가사가 다음 항목으로 들어옴)
         new = [
@@ -421,7 +505,7 @@ def main():
 
     written, transcribed = extract_credits(parser.paragraphs)
 
-    entries = build_entries(parser.paragraphs)
+    entries = build_entries(parser.paragraphs, parser.italic_ratios)
 
     title = strip_ep_prefix(args.title) if args.title else title_from_index(args.out)
 
