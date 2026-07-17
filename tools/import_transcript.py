@@ -36,6 +36,11 @@ SECTION_RE = re.compile(
 BRACKET_RE = re.compile(r"\[[^\]]*\]")
 SCENE_BRACKET_RE = re.compile(r"^\[\s*scene\s*:", re.I)
 
+# 대사 끝의 노래 시작 마커 — "(Sung:)" / "(Sung)". 바로 다음 문단(<blockquote> 가사)이
+# 화자 라벨 없이 오므로, 이 마커를 신호로 삼아 가사를 같은 화자의 대사로 붙인다.
+SUNG_MARKER_RE = re.compile(r"\(\s*sung\s*:?\s*\)\s*$", re.I)
+SUNG_PREFIX = "(Sung:) "
+
 
 class TranscriptParser(HTMLParser):
     """<p> 단위로 (text, unseen, bold) 토큰을 수집한다."""
@@ -284,6 +289,72 @@ def extract_credits(paragraphs):
     return written, ", ".join(transcribers)
 
 
+def strip_sung_marker(english):
+    """대사 끝의 '(Sung:)' 마커를 떼어낸다 → (새 값, 마커가 있었는지).
+
+    english 는 문자열 또는 [{text, unseen?}] 조각 배열.
+    """
+    if isinstance(english, str):
+        new = SUNG_MARKER_RE.sub("", english).strip()
+        return new, new != english.strip()
+    if isinstance(english, list) and english:
+        last = english[-1]
+        text = last.get("text", "")
+        new_text = SUNG_MARKER_RE.sub("", text).rstrip()
+        if new_text == text.rstrip():
+            return english, False
+        rest = english[:-1]
+        if new_text:
+            rest = rest + [dict(last, text=new_text)]
+        return (rest or ""), True
+    return english, False
+
+
+def sung_dialogue(speaker, text):
+    """가사 문단(화자 라벨 없음)을 '(Sung:) …' 대사 항목으로 만든다."""
+    if isinstance(text, list) and text:
+        first = text[0]
+        english = [dict(first, text=SUNG_PREFIX + first.get("text", ""))] + text[1:]
+    else:
+        english = SUNG_PREFIX + (text or "")
+    return {"type": "dialogue", "speaker": speaker, "english": english, "korean": ""}
+
+
+def build_entries(paragraphs):
+    """문단들을 항목 리스트로. '(Sung:)' 마커 뒤 가사 문단은 같은 화자의 대사로 잇는다."""
+    entries = []
+    pending_singer = None  # 직전 대사가 (Sung:)로 끝났으면 그 화자
+
+    for tokens in paragraphs:
+        norm = [(normalize_ws(t) if t.strip() else t, u, b) for t, u, b in tokens]
+        new = classify(norm)
+        if not new:
+            continue
+
+        # 1) 직전이 (Sung:)였다면 이 문단(가사=화자 없는 지침)을 그 화자의 대사로 전환
+        if pending_singer and new[0].get("type") == "direction":
+            new[0] = sung_dialogue(pending_singer, new[0]["text"])
+        pending_singer = None  # 마커 바로 다음 문단에만 적용
+
+        # 2) 이 문단 대사 끝의 (Sung:) 마커는 떼고, 그 화자를 기억
+        for e in new:
+            if e.get("type") == "dialogue":
+                stripped, was_sung = strip_sung_marker(e["english"])
+                if was_sung:
+                    e["english"] = stripped
+                    pending_singer = e["speaker"]
+
+        # 마커뿐이던 대사는 본문이 비므로 버린다(가사가 다음 항목으로 들어옴)
+        new = [
+            e
+            for e in new
+            if not (e.get("type") == "dialogue" and not e["english"])
+        ]
+        entries.extend(new)
+
+    return entries
+
+
 def strip_ep_prefix(title):
     """'S01E07 · The One ...' → 'The One ...' (코드 접두어 제거)."""
     return EP_PREFIX_RE.sub("", title or "").strip()
@@ -350,10 +421,7 @@ def main():
 
     written, transcribed = extract_credits(parser.paragraphs)
 
-    entries = []
-    for tokens in parser.paragraphs:
-        norm = [(normalize_ws(t) if t.strip() else t, u, b) for t, u, b in tokens]
-        entries.extend(classify(norm))
+    entries = build_entries(parser.paragraphs)
 
     title = strip_ep_prefix(args.title) if args.title else title_from_index(args.out)
 
