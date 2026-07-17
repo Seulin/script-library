@@ -1402,7 +1402,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Going to the hospital tonight?",
+      "english": "You going to the hospital tonight?",
       "korean": "오늘 밤 병원 갈 거야?",
       "explanation": "코마 환자 보러 가느냐고 서로 떠보는 흐름."
     },
@@ -1470,17 +1470,20 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. (Monica gives her a look) 'Kay. (Sung:)",
+      "english": "Thanks. Hi, um, 'kay. I'd like to start with a song that's about a man that I recently met, who's, um, come to be very important to me. (Monica gives her a look) 'Kay.",
       "korean": "고마워. 안녕, 음, 자. 최근에 만난, 저에게 아주 중요한 사람이 된 한 남자에 대한 노래로 시작할게요. (모니카가 눈치를 준다) 자. (노래)",
       "explanation": "come to be ~ = ~하게 되다(become). 혼수 환자 얘기라 모니카가 눈치 주는 상황."
     },
     {
-      "type": "direction",
-      "text": "You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say..."
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(Sung:) You don't have to be awake to be my man, As long as you have brainwaves I'll be there to hold your hand. Though we just met the other day, There's something I have got to say..."
     },
     {
-      "type": "direction",
-      "text": "(She sees Monica sneaking out) Okay, thank you very much, I'm gonna take a short break! (Runs out, knocking over the mike stand)"
+      "type": "dialogue",
+      "speaker": "Phoebe",
+      "english": "(She sees Monica sneaking out) Okay, thank you very much, I'm gonna take a short break! (Runs out, knocking over the mike stand)",
+      "korean": ""
     },
     {
       "type": "dialogue",
@@ -1739,9 +1742,9 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Oh, I don't know. Maybe, um, \"That was nice?\" Admit something to me? \"I'll call you?\"",
-      "korean": "글쎄요. 뭐, '좋았어요?' 뭐라도 인정해줘요. '전화할게요?'",
-      "explanation": "Admit something to me = 뭐라도 (고마웠다고) 인정해봐라. 성의 없는 반응에 서운해 다그침."
+      "english": "Oh, I don't know. Maybe, um, \"That was nice?\" It meant something to me? \"I'll call you?\"",
+      "korean": "글쎄요. 뭐, '좋았어요?', '감동이다?'. '전화할게요?'",
+      "explanation": ""
     },
     {
       "type": "dialogue",
@@ -1753,7 +1756,8 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "I don't think you mean that.",
-      "korean": ""
+      "korean": "진심이 아니네요.",
+      "explanation": "mean은 '의미하다'라는 뜻도 있지만, 사람의 태도나 말에 쓰이면 '진심으로 (그렇게) 생각하다', '진의를 담다'라는 뜻이 됩니다."
     },
     {
       "type": "dialogue",

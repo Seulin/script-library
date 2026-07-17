@@ -51,8 +51,10 @@
       "korean": ""
     },
     {
-      "type": "direction",
-      "text": "All you want is a dingle, What you envy's a schwang, A thing through which you can tinkle, Or play with, or simply let hang..."
+      "type": "dialogue",
+      "speaker": "Joey",
+      "english": "(Sung:) All you want is a dingle, What you envy's a schwang, A thing through which you can tinkle, Or play with, or simply let hang...",
+      "korean": ""
     },
     {
       "type": "section",
