@@ -51,6 +51,18 @@
         {
           "title": "S01E12 · The One with the Dozen Lasagnas",
           "file": "friends/s01e12.json"
+        },
+        {
+          "title": "S01E13 · The One with the Boobies",
+          "file": "friends/s01e13.json"
+        },
+        {
+          "title": "S01E14 · The One with the Candy Hearts",
+          "file": "friends/s01e14.json"
+        },
+        {
+          "title": "S01E15 · The One with the Stoned Guy",
+          "file": "friends/s01e15.json"
         }
       ]
     }
