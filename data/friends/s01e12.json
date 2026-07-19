@@ -1276,9 +1276,9 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "No...oh, I feel so stupid! Oh, I think about the other day with you guys and I was all \"Oh, Paolo, he's so great, he makes me feel so...\" Oh, God, I'm so embarrassed!",
+      "english": "No...oh, I feel so stupid! Oh, I think about the other day with you guys, you know, and I was all \"Oh, Paolo, he's so great, he makes me feel so...\" Oh, God, I'm so embarrassed!",
       "korean": "아니… 아 나 너무 바보 같아! 며칠 전에 너희한테 '오, 파올로 정말 멋져, 날 이렇게 느끼게 해줘…' 했던 거 생각하면, 아 창피해 죽겠어!",
-      "explanation": "feel so stupid = 자신이 바보처럼 느껴지다. so embarrassed = 너무 창피한."
+      "explanation": "feel so stupid = 자신이 바보처럼 느껴지다. so embarrassed = 너무 창피한.\nI think about ~ = '내 생각엔'이 아니라 think about(~을 떠올리다) → \"며칠 전 일을 (지금) 생각하면\". I was all \"...\" = 나 완전 '...'거렸잖아(구어 인용)."
     },
     {
       "type": "dialogue",
@@ -1294,8 +1294,8 @@
     {
       "type": "dialogue",
       "speaker": "Rachel",
-      "english": "Pheebs, if I had never met him this never would have happened!",
-      "korean": "피비, 내가 걔를 안 만났으면 이런 일도 절대 없었을 거야!",
+      "english": "Pheebs, I unleashed him on you. if I had never met him this never would have happened!",
+      "korean": "피비, 내가 데려온 놈이잖아. 내가 걔를 안 만났으면 이런 일도 절대 없었을 거야!",
       "explanation": "if I had never met him, this would never have happened = 가정법 과거완료(만났기에 벌어진 일). 서로 미안해하는 흐름."
     },
     {
