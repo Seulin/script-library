@@ -14,8 +14,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "No-no-no-no, we're done.",
-      "korean": "아냐아냐, 이건 버리는 거야.",
-      "explanation": "we're done (with this) = 이건 끝/처분한다. 부서진 탁자에서 물건을 치우며 하나씩 \"이건 버려\"라고 선언하는 챈들러의 반복 개그(9번 참고)."
+      "korean": "아냐 다 했어.",
+      "explanation": ""
     },
     {
       "type": "section",
@@ -60,8 +60,8 @@
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "And, we're done with the yogurt. (Sets yogurt down on table)",
-      "korean": "그리고, 이 요거트도 버린다.",
-      "explanation": "we're done with the yogurt = 이 요거트도 처분. 부서진 탁자 위 물건을 하나씩 버린다고 선언하는 반복 개그(1번)."
+      "korean": "그리고, 이 요거트 더 못 먹겠네.",
+      "explanation": "1번 대사 반복"
     },
     {
       "type": "dialogue",
@@ -223,14 +223,14 @@
       "speaker": "Joey",
       "english": "Need a new table.",
       "korean": "새 탁자 필요하겠다.",
-      "explanation": "자기들이 부순 탁자를 보며. 다음 줄 \"You think?\"(그걸 이제 알았냐)로 이어지는 개그."
+      "explanation": "자기들이 부순 탁자를 보며 하는 뻔한 소리. 다음 줄 \"You think?\"(태연하게 되받는 반어)로 이어지는 개그."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
       "english": "You think?",
-      "korean": "그걸 이제 알았어?",
-      "explanation": "You think? = (뻔한 소리에) \"그걸 말이라고 해?/이제 알았냐\"는 반어적 반문."
+      "korean": "(태연하게) 그렇게 생각하냐?",
+      "explanation": "You think? = 글자 그대로는 '그렇게 생각해?'.\n여기선 뻔한 소리(새 탁자 필요하겠다)에 대한 반어인데, 톤이 발끈하는 게 아니라 챈들러 특유의 무미건조·태연함(deadpan)이다 → '그걸 몰라서 하는 말이냐'를 심드렁하게 던지는 것. 화내는 \"이제 알았냐?!\"와는 결이 다름."
     },
     {
       "type": "scene",
