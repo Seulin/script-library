@@ -415,14 +415,14 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Ok, what, what...ok, what did we think it was going to be?",
+      "english": "Hey. Ok, what, what...ok, what did we think it was going to be?",
       "korean": "좋아, 근데, 근데 우리가 뭐라고 생각했었는데?",
       "explanation": "안 듣겠다더니 저도 모르게 궁금해서 묻는 로스."
     },
     {
       "type": "dialogue",
       "speaker": "Carol and Susan",
-      "english": "It's a...",
+      "english": "We thought..",
       "korean": ""
     },
     {
@@ -672,7 +672,7 @@
     {
       "type": "dialogue",
       "speaker": "Phoebe",
-      "english": "Oh, okay, I don't know what you just said, so let's get started.",
+      "english": "Oh, okay, I don't know what you just said, so let's just started.",
       "korean": ""
     },
     {
@@ -729,21 +729,21 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "Wait—oh—hey—huh, oh great now he knows, and I don't know!",
-      "korean": "잠깐-오-야- 아 진짜 이제 쟤는 아는데 난 모르잖아!"
+      "korean": "잠깐-오-야- 끝내주네. 이제 쟤는 아는데 난 모르잖아!"
     },
     {
       "type": "dialogue",
       "speaker": "Monica",
       "english": "I'm sorry, I'm just excited about being an aunt!",
       "korean": "미안, 그냥 이모 된다는 게 신나서!",
-      "explanation": "aunt = 이모/고모. 성별을 안다는 걸 들켜 변명하는 모니카."
+      "explanation": "aunt = 이모/고모."
     },
     {
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Or an uncle...",
       "korean": "아니면 삼촌이거나…",
-      "explanation": "성별을 아직 안 밝히려 일부러 얼버무리는 조이(aunt→uncle)."
+      "explanation": ""
     },
     {
       "type": "direction",
@@ -771,7 +771,7 @@
       "type": "dialogue",
       "speaker": "Phoebe",
       "english": "Fine!",
-      "korean": ""
+      "korean": "괜찮다고"
     },
     {
       "type": "dialogue",
@@ -859,7 +859,7 @@
       "speaker": "Chandler",
       "english": "More coffee over here, please!",
       "korean": "여기 커피 좀 더 주세요!",
-      "explanation": "파올로 얘기를 계속 듣고 싶어 레이첼(종업원)을 붙잡아두려는 수작."
+      "explanation": ""
     },
     {
       "type": "section",
@@ -1005,8 +1005,8 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Feminist issue. That's where I went!",
-      "korean": "페미니즘 문제. 난 거기서 (동조를 멈췄어)!",
-      "explanation": "That's where I went = (로스 말을 따라가다) \"나도 거기까진 갔다\" → 과한 논리에 못 따라가겠다는 농담."
+      "korean": "페미니즘 문제. 난 그렇게 생각해!",
+      "explanation": ""
     },
     {
       "type": "dialogue",
@@ -1041,15 +1041,15 @@
     {
       "type": "dialogue",
       "speaker": "Joey",
-      "english": "So what, like people are gonna come in and think, \"Uh-oh, I'm outside again?\" Of course!",
+      "english": "So what, like people are gonna come in and think, \"Uh-oh, I'm outside again?\"",
       "korean": "그래서 뭐, 사람들이 들어와서 '어라, 나 또 밖에 나왔나?' 이럴까 봐? 그럴 리가!",
       "explanation": "So what = 그래서 뭐 어때. 야외용 탁자여도 아무도 신경 안 쓴다는 조이식 비꼼."
     },
     {
       "type": "dialogue",
       "speaker": "Chandler",
-      "english": "(gesturing towards another table) What about the birds?",
-      "korean": ""
+      "english": "Fine. (gesturing towards another table) What about the birds?",
+      "korean": "알겠다고."
     },
     {
       "type": "dialogue",
@@ -1075,7 +1075,7 @@
       "speaker": "Chandler",
       "english": "Oh, so, forget about the birds, but big red insects suggest fine dining!",
       "korean": "오, 그럼 새는 안 되고, 커다란 빨간 벌레는 고급 식사 느낌을 준다고!",
-      "explanation": "suggest fine dining = 고급 레스토랑 느낌을 풍기다. 무당벌레(ladybug) 탁자를 비꼬는 반어."
+      "explanation": "forget about ~ = ~은 관두다/제쳐두다/없던 걸로 하다(기억의 '잊다'가 아님). 명사 목적어라 about이 필요 — forget it처럼 대명사일 때만 about 생략 가능.\nsuggest fine dining = 고급 레스토랑 느낌을 풍기다.\n새는 안 된다며 배제해놓고 무당벌레(ladybug)는 괜찮냐고 비꼬는 반어 — 새나 벌레나 거기서 거긴데."
     },
     {
       "type": "dialogue",
