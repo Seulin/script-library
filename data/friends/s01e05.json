@@ -329,8 +329,9 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Oh, you uh, you wanna hear a freaky coincidence? Guess who's doing laundry there too?",
-      "korean": ""
+      "english": "Oh, you uh, you wanna hear a freakish coincidence? Guess who's doing laundry there too?",
+      "korean": "",
+      "explanation": "freakish=별난"
     },
     {
       "type": "dialogue",
@@ -478,7 +479,7 @@
       "type": "dialogue",
       "speaker": "Joey",
       "english": "Eww! Look, I'm asking a favor here. If I do this for her brother, maybe Angela will come back to me.",
-      "korean": "here: 이 상황에, 이 순간에 (강조)"
+      "explanation": "here: 이 상황에, 이 순간에 (강조)"
     },
     {
       "type": "dialogue",
@@ -516,7 +517,7 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "It's laundry. The thinking through is pretty minimal.",
-      "korean": ""
+      "explanation": "Thinging through는 거의 minimal인데"
     },
     {
       "type": "dialogue",
@@ -564,9 +565,9 @@
     {
       "type": "dialogue",
       "speaker": "Ross",
-      "english": "Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.",
-      "korean": "내 스너글스가 어때서? 이건 내가 섬세하고 따뜻한 사람이란 거지, 포근한 곰 인형처럼. 알았어, 오는 길에 다른 걸로 사 올게.",
-      "explanation": "Snuggles = 미국 섬유유연제 브랜드(곰 마스코트). fabric softener = 섬유유연제. warm and fuzzy = 포근하고 다정한."
+      "english": "Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a little fuzzy bear. Ok, I can pick something else up on the way.",
+      "korean": "내 스너글스가 어때서? 이건 내가 섬세하고 따뜻한 사람이란 거지, 작고 포근한 곰 인형처럼. 알았어, 오는 길에 다른 걸로 사 올게.",
+      "explanation": "Snuggles = 미국 섬유유연제 브랜드(곰 마스코트). fabric softener = 섬유유연제. fuzzy = 보송한."
     },
     {
       "type": "dialogue",
@@ -617,8 +618,8 @@
     {
       "type": "dialogue",
       "speaker": "Monica",
-      "english": "Oh my god, Joey, for all we know this guy could be horribly...",
-      "korean": "for all we know: 겨우 우리가 아는 한"
+      "english": "Oh my god, Joey, for all we know, this guy could be horribly...",
+      "explanation": "for all we know: 겨우 우리가 아는 한"
     },
     {
       "type": "direction",
@@ -1184,7 +1185,8 @@
       "type": "dialogue",
       "speaker": "Ross",
       "english": "That does not sound stupid to me. You know, it's like the first time I had to make dinner for myself, after Carol left me? (the buzzer on the washer goes off) I'm sorry, that's all the time we have. Next on Ross...(opens up the washer) Uh-oh.",
-      "korean": ""
+      "korean": "나한텐 안 바보 같은데. 그거 알아, 카롤이 날 떠난 뒤 처음으로 혼자 저녁을 차려야 했을 때 같은 거야. (세탁기 버저가 울린다) 죄송합니다, 오늘은 여기까지네요. 다음 시간 〈로스〉에서는… (세탁기를 연다) 어라.",
+      "explanation": "세탁기 버저가 울리자 로스가 방송 진행자를 흉내 내는 개그.\nthat's all the time we have = (방송 시간 종료 멘트) \"오늘은 여기까지입니다\".\nNext on 〈프로그램명〉... = 다음 회 예고 상투구. 자기 이름을 프로그램 제목처럼 써서 '〈로스 쇼〉 다음 편 예고'인 척한 것."
     },
     {
       "type": "dialogue",
